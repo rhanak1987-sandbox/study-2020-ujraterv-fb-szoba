@@ -1752,272 +1752,258 @@ Ha akarsz minket tanítani, jelentkezz...
 Engem az érdekelne, hogy ki mi alapján rangsorolja az intézményeket, ha azt nem nézzük, hogy mikor van kontaktóra...
 ---
 
-###### 6) [2020-10-07., 7:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/632060137676345/)
+#### 4) [2020-10-07., 7:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/632060137676345/)
 * from: *
-* x
+* push/funz
+* training-institutions
 ###### content
-* x
-A profession.hu-n jelent meg tegnap az alábbi hirdetés. Még az a szerencse, hogy nem igényel nyelvtudást... 😕
+* A profession.hu... tegnap... Még az a szerencse, hogy nem igényel nyelvtudást...
+* Training 360... oktató...
 ---
 
-###### 6) [2020-10-07., 7:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/632052634343762/)
+#### 4) [2020-10-07., 7:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/632052634343762/)
 * from: *
-* x
+* push
+* továbbjutás
 ###### content
-* x
-Azért a training 360 folyamatosan keresi az új munkaerőt, úgyhogy reménykedjünk hátha sok embert akarnak felvenni... Mindenkinek kellemes napot!
+* ... training 360... keresi az új munkaerőt... reménykedjünk hátha sok embert akarnak felvenni...
 ---
 
-###### 6) [2020-10-06., 22:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/631819987700360/)
+### 3) [2020-10-06., 22:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/631819987700360/)
 * from: *
-* x
+* **pull**
+* **job-market**
 ###### content
-* x
-Felmerült a kérdés, hogy milyen papírt kapnak azok akik sikeresen elvégzik a 4 képzés egyikét. Egyesek...
+* ... milyen papírt kapnak... mire lesz jó az a papír amit a 4 képzés ad...
 ---
 
-###### 6) [2020-10-06., 22:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631794801036212/)
+### 3) [2020-10-06., 22:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631794801036212/)
 * from: *
-* x
+* **push**
+* **továbbjutás**
+* **training-institutions**
 ###### content
-* x
-Irtam az egyik kepzohelynek, hogy a kepzesben van-e barmi rugalmassag a kezdest illetoen. (Megosztom a valaszt...
+* ... kepzohelynek... rugalmassag a kezdest illetoen... GYED-en levo Anyukak... De nincs...
+* legalabb 1 olyan kepzes lenne... hosszabb ido alatt, de napi kevesebb oraban...
 ---
 
-###### 6) [2020-10-06., 20:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/631756124373413/)
+### 3) [2020-10-06., 20:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/631756124373413/)
 * from: *
-* x
+* **pull**
+* **training-institutions**
 ###### content
-* x
-Training360
-Jól értelmezem, hogy náluk gyakorlatilag NINCS kontaktóra, illetve csoportmunka, hanem elérhetőek videók...
+* Training360... Jól értelmezem, hogy náluk gyakorlatilag NINCS kontaktóra...?
 ---
 
-###### 6) [2020-10-06., 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747711040921/)
+#### 4) [2020-10-06., 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747711040921/)
 * from: *
-* x
+* pull
+* personal-project-question
 ###### content
-* x
-Sziasztok!
-Lehetne egy szakmai kérdésem is? 😀
-Tudom, most mindenkit más kérdés foglalkoztat, s teljesen érthető is! S engem sem hagy hidegen,...
+* ... szakmai kérdésem... kezdetleges honlapot... szétcsúszik...
+* responzív nézetet figyelembe vettem... ingyenes tárhelyszolgáltató miatt?...
+* [atw.hu: tartsvelem/szerelmesversek](http://users.atw.hu/tartsvelem/szerelmesversek.html) [atw.hu: tartsvelem](http://tartsvelem.atw.hu/)
 ---
 
-###### 6) [2020-10-06., 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747534374272/)
+### 3) [2020-10-06., 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747534374272/)
 * from: *
-* x
+* **pull**
+* **továbbjutás**
 ###### content
-* x
-Sziasztok!
-Nem egészen értem a folyamatot, hogy is van?
-Jelentkezzek / regisztráljak a képzést inditó intézmény engem érdeklő szakára, aztán a ponthatárokat utólag megtudjuk...
+* Nem egészen értem a folyamatot... Jelentkezzek... ponthatárokat utólag megtudjuk...
+* vagy előbb jön a pontszám alapján a rangsor, és utána jelentkezünk?
 ---
 
-###### 6) [2020-10-06., 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631745901041102/)
+### 3) [2020-10-06., 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631745901041102/)
 * from: *
-* x
+* **pull/rant**
+* **továbbjutás**
 ###### content
-* x
-Mérhetetlenül mérges vagyok 🤬. A pályázati kiírásban max 1 éves továbbképzésről van szó, most meg ...
+* ... mérges vagyok... max 1 éves... mindenkinek 4 hónap, napi 8 óra...
+* legalább az egyik képzőhelyen 8 hónap napi 4 óra... van munkája... bizonytalan kimenetelű...
 ---
 
-###### 6) [2020-10-06., 20:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/631738711041821/)
-* from: *
-* x
-###### content
-* x
-Kaptam emailt, ti? 😉😬😀😀😀😀😛
----
-
-###### 6) [2020-10-06., 18:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/631694724379553/)
+##### 5) [2020-10-06., 20:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/631738711041821/)
 * from: *
 * funz
 ###### content
-* x
-Hogy kicsit oldódjon a feszültség...
+* Kaptam emailt, ti? 😉😬😀😀😀😀😛
 ---
 
-###### 6) [2020-10-06., 18:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/631676387714720/)
-* from: *
-* poll
-* 
-###### content
-* x
-Úgy is vállalod a képzést, hogy Budapesten kell aláírnod a szerződést?
----
-
-###### 6) [2020-10-06., 18:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/631674701048222/)
-* from: *
-* x
-###### content
-* x
-https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/
----
-
-###### 6) [2020-10-06., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
-* from: *
-* x
-###### content
-* x
-Aki szeretne jönni Facebook Messenger csoportba az írjon privárot.
-Úgy is mindig akartatok egy zárt kommunikációs csatornát.
----
-
-###### 6) [2020-10-06., 16:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/631605291055163/)
-* from: *
-* x
-###### content
-* x
-Ez ilyen egyszerű! 😎
----
-
-###### 6) [2020-10-06., 16:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/631593881056304/)
-* from: *
-* x
-###### content
-* x
-https://www.edx.org/course/subject/computer-science
----
-
-###### 6) [2020-10-06., 16:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/631590461056646/)
-* from: *
-* x
-###### content
-* x
-Kezdem megszeretni ezt az Újraképzés programot. Minden egyes nap meg tudnak döbbenteni...
----
-
-###### 6) [2020-10-06., 15:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/631539747728384/)
-* from: *
-* x
-###### content
-* x
-Ezt most küldték. Tájékoztató elmarad. 🙁
-📷
-Sziasztok!
-Köszönjük szépen, hogy érdeklődtök a Green Fox iránt...
----
-
-
-###### 6) [2020-10-06., 15:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631533554395670/)
-* from: *
-* x
-###### content
-* x
-Szeretném a lelkiállapotomat leírni egy kis klasszikus punkkal:
----
-
-###### 6) [2020-10-06., 13:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/631472347735124/)
-* from: *
-* x
-###### content
-* x
-Hátha kapunk tesztelőként ilyen feladatot. 😁...
----
-
-###### 6) [2020-10-06., 12:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/631441994404826/)
-* from: *
-* x
-###### content
-* x
-GIT+
-Plusz tananyag a gitről! 🙂
-Olyan dolgok is...
----
-
-###### 6) [2020-10-06., 12:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/631428111072881/)
-* from: *
-* x
-###### content
-* x
-[TANANYAG, TUTORIAL]
-Nem tudom volt-e már itt ilyen gyűjtőposzt, de ha nem,akkor ezennel szívesen elindítok egy ilyet.
-Ez a alatt a poszt alatt...
----
-
-###### 6) [2020-10-06., 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/631419171073775/)
-* from: *
-* x
-###### content
-* x
-Sziasztok! Azt lehet tudni, hogy hány %-os tesztekkel lehetett bejutni? Vagy ez túlzott igény a transzparenciára? 🙁
----
-
-###### 6) [2020-10-06., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/631418261073866/)
-* from: *
-* x
-###### content
-* x
-Nem logikus, hogy ennyi, amennyi, de kár tovább agyalni rajta.
-El kell engedni, hogy ne a rossz szájíz maradjon meg a végéről. Ez van. A poszt módosítva, nem akarok feszültséget generálni, tovább kell lépni.
-Kaptunk egy képzést...
----
-
-###### 6) [2020-10-06., 11:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/631416927740666/)
-* from: *
-* x
-###### content
-* x
-PYTHON lvl 2 (EASY) : Feladat leírás a képen. Laza pár perc alatt kódolható esemény. Amit ismerni kell IF, ELIF, % operator, változók és print funkció. Várom a megoldásokat.
----
-
-###### 6) [2020-10-06., 11:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/631416554407370/)
-* from: *
-* x
-###### content
-* x
-Sziasztok!
-2 cégnél látom a képzés részletes tematikáját (Progmasters és Training360), de másik 2-nél nem, esetleg van valakinek információja róla?
----
-
-###### 6) [2020-10-06., 11:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/631402867742072/)
-* from: *
-* x
-###### content
-* x
-Ezt üzenem mindenkinek aki feladja vagy éppen reményvesztett.
-"Ha a terv nem működik,akkor a tervet változtasd meg, ne a célt."
----
-
-###### 6) [2020-10-06., 11:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/631395891076103/)
-* from: *
-* x
-###### content
-* x
-Sziasztok!
-Tudom, hogy a sirákozás meg a panaszkodás a divat ebben a csoportban, de én most mégis feltennék egy hülye kérdést inkább.
-Google táblázatokban...
----
-
-###### 6) [2020-10-06., 10:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/631366287745730/)
-* from: *
-* x
-###### content
-* x
-Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootcamp jövő évtől kezdve beépíti a képzéseibe?
----
-
-###### 6) [2020-10-06., 9:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/631361091079583/)
+##### 5) [2020-10-06., 18:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/631694724379553/)
 * from: *
 * funz
 ###### content
-* x
-Éhezők viadala, az 1000 kiválasztott !
+* Hogy kicsit oldódjon a feszültség...
 ---
 
-###### 6) [2020-10-06., 9:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/631339954415030/)
+### 3) [2020-10-06., 18:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/631676387714720/)
+* from: *
+* **poll**
+* **továbbjutás**
+###### content
+* Úgy is vállalod a képzést, hogy Budapesten kell aláírnod a szerződést?
+---
+
+### 3) [2020-10-06., 18:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/631674701048222/)
+* from: *
+* **push**
+* **external-study-material**
+###### content
+* [Weboldal készítés tanfolyam | codeberryschool](https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/)
+---
+
+## 2) [2020-10-06., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
+* from: Adminisztrátor
+* **announcement**
+* **group-news**
+###### content
+* Aki szeretne jönni Facebook Messenger csoportba az írjon privárot.
+* Úgy is mindig akartatok egy zárt kommunikációs csatornát.
+---
+
+##### 5) [2020-10-06., 16:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/631605291055163/)
 * from: *
 * funz
 ###### content
-* x
+* Ez ilyen egyszerű...
 ---
 
-###### 6) [2020-10-06., 9:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/631336207748738/)
+### 3) [2020-10-06., 16:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/631593881056304/)
 * from: *
-* x
+* **push**
+* **external-study-material**
 ###### content
-* x
-Áruljátok már el, a legelején miért kérdezték meg mindenkitől, hogy angolból van-e a jelentkezőnek nyelvtudása vagy sem, ha most ez nem számít, mert mindenhol magyar nyelven fognak oktatni? 😂😂😂
+* [Computer science courses on edX](https://www.edx.org/course/subject/computer-science)
+---
+
+##### 5) [2020-10-06., 16:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/631590461056646/)
+* from: *
+* rant
+###### content
+* Kezdem megszeretni ezt az Újraképzés programot... vajon mit tartogatnak holnapra...
+---
+
+### 3) [2020-10-06., 15:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/631539747728384/)
+* from: *
+* **news**
+* **training-institutions**
+###### content
+* ... Tájékoztató elmarad... Green Fox... infóestünkre...
+---
+
+##### 5) [2020-10-06., 15:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631533554395670/)
+* from: *
+* funz
+###### content
+* ... lelkiállapotomat leírni egy kis klasszikus punkkal
+* [The Clash - Should I Stay or Should I Go (Official Audio)](https://www.youtube.com/watch?v=BN1WwnEDWAM)
+---
+
+#### 4) [2020-10-06., 13:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/631472347735124/)
+* from: *
+* funz/push
+* it-news
+###### content
+* Hátha kapunk tesztelőként ilyen feladatot...
+* [hvg: kavefozo_hackeles_iot_kiberbiztonsag_zsarolovirus](https://hvg.hu/tudomany/20201006_kavefozo_hackeles_iot_kiberbiztonsag_zsarolovirus)
+---
+
+### 3) [2020-10-06., 12:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/631441994404826/)
+* from: *
+* **push**
+* **external-study-material**
+###### content
+* GIT+... Plusz tananyag...
+* [Git és GitHub: 3 órás tanfolyam (2020)](https://www.youtube.com/watch?v=Enzva3d3uuk) | lang-hu
+---
+
+## 2) [2020-10-06., 12:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/631428111072881/)
+* from: *
+* **push**
+* **external-study-material**
+* **collection**
+###### content
+* [TANANYAG, TUTORIAL]... gyűjtőposzt...
+---
+
+### 3) [2020-10-06., 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/631419171073775/)
+* from: *
+* **pull**
+* **továbbjutás**
+###### content
+* ...hány %-os tesztekkel lehetett bejutni? Vagy ez túlzott igény a transzparenciára?
+---
+
+### 3) [2020-10-06., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/631418261073866/)
+* from: *
+* **push**
+* **external-study-material**
+###### content
+* Nem logikus, hogy ennyi, amennyi, de... El kell engedni...
+* Egy kis segítség újratervezőknek: [noonies.tech: Top Tech YouTuber](https://noonies.tech/award/top-tech-youtuber)
+---
+
+### 3)  [2020-10-06., 11:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/631416927740666/)
+* from: *
+* **homework**
+###### content
+* PYTHON lvl 2 (EASY) : Feladat... a képen. Laza pár perc alatt...
+---
+
+### 3) [2020-10-06., 11:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/631416554407370/)
+* from: *
+* **pull**
+* **training-institutions**
+###### content
+* 2 cégnél látom a képzés részletes tematikáját (Progmasters és Training360), de másik 2-nél...?
+---
+
+#### 4) [2020-10-06., 11:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/631402867742072/)
+* from: *
+* push
+* továbbjutás
+###### content
+* Ezt üzenem mindenkinek aki feladja vagy éppen reményvesztett.
+* "Ha a terv nem működik,akkor a tervet változtasd meg, ne a célt."
+---
+
+#### 4) [2020-10-06., 11:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/631395891076103/)
+* from: *
+* pull
+* personal-project-question
+###### content
+* feltennék... kérdést... Google táblázatokban... melyik munkalap nyíljon meg...
+---
+
+#### 4) [2020-10-06., 10:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/631366287745730/)
+* from: *
+* pull/rant
+* training-materials
+###### content
+* Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootcamp...
+---
+
+##### 5) [2020-10-06., 9:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/631361091079583/)
+* from: *
+* funz
+###### content
+* Éhezők viadala, az 1000 kiválasztott !...
+---
+
+##### 5) [2020-10-06., 9:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/631339954415030/)
+* from: *
+* funz
+###### content
+* pic
+---
+
+### 3) [2020-10-06., 9:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/631336207748738/)
+* from: *
+* **pull**
+* **lang-en**
+###### content
+* ... angolból van-e... nyelvtudása..., ha most ez nem számít, mert mindenhol magyar nyelven fognak oktatni?
 ---
 
 ### 3) [2020-10-06., 0:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631057621109930/)
@@ -2037,8 +2023,8 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 ---
 
 #### 4) [2020-10-05., 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
-* from: *
-* [RE](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/) **nive-content**
+* from: * | [RE](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/)
+* **nive-content**
 * továbbjutás
 ###### content
 * Úgy látom, péntekig elvileg mindenki kap e-mailt...
@@ -2063,6 +2049,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-05., 22:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/631013927780966/)
 * from: *
+* **push**
 * **training-institutions**
 ###### content
 * A Training360 anyaga - rugalmas időbeosztásra és önálló tanulásra... kirakom ide külön is...
@@ -2078,8 +2065,8 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-05., 22:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/631003877781971/)
 * from: *
-* welcome message
 * **announcement**
+* welcome-message
 ###### content
 * Üdvözöljük legújabb tagjainkat az #Újratervezés... mi itt akkor is programozással, webfejlesztéssel és IT-vel fogunk foglalkozni....
 ---
@@ -2118,7 +2105,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-05., 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/)
 * from: *
-* push
+* **push**
 * **továbbjutás**
 ###### content
 * Ha sikeresen teljesítetted... és 2020. október 9-ig nem kaptál e-mail-t a bejelentkezési... vedd fel a kapcsolatot...
@@ -2165,6 +2152,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-05., 19:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/630929134456112/)
 * from: *
+* **push**
 * **training-institutions**
 ###### content
 * Greenfox akadémia online infóest... Újratervezés...
@@ -2173,6 +2161,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-05., 18:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/630894437792915/)
 * from: *
+* **push**
 * **training-institutions**
 ###### content
 * Ha jól gondolom, ez a CodeCool-os tájékoztató:
@@ -2205,14 +2194,15 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-05., 16:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/630797704469255/)
 * from: *
-* push
 * homework
+* push/pull
 ###### content
 * Kérdés: vannak Python gyakorlo feladataim ha valakit erdekel a programozas Pythonban...
 ---
 
 ### 3) [2020-10-05., 14:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/630725504476475/)
 * from: *
+* **push**
 * **training-institutions**
 ###### content
 * Megtaláltam a Greenfox kiírását is a honlapjukon...
@@ -2255,14 +2245,16 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-05., 10:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/630606077821751/)
 * from: *
+* pull
 * personal-question
-* kompetenciateszt
+* kompetencia
 ###### content
 * Akinek sikerült megint elindítania a kompetenciatesztet, lenne olyan kedves leírni, hogy sikerült?...
 ---
 
 ### 3) [2020-10-05., 7:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630545891161103/)
 * from: *
+* **push**
 * **training-institutions**
 ###### content
 * [progmasters.hu: ÚJRATERVEZÉS PROGRAM KÉPZÉSEK](https://progmasters.hu/ingyenes-online-allami-kepzesek/)
@@ -2271,6 +2263,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-04., 19:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/630165244532501/)
 * from: *
+* pull
 * personal-project-question
 ###### content
 * Az alábbi kódrészlet mit ad eredményül,ha a kód helyes?...
@@ -2306,6 +2299,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-03., 20:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/629482037934155/)
 * from: *
+* pull
 * personal-project-question
 * hosting
 ###### content
@@ -2360,6 +2354,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-03., 4:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/628966257985733/)
 * from: *
+* push
 * personal-project
 ###### content
 * A kezem száradna le.
@@ -2375,6 +2370,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-02., 21:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/628785104670515/)
 * from: *
+* pull
 * personal-project-question
 ###### content
 * Szeretnék segítséget kérni... w3schools oldal.. PHP... submit...
@@ -2382,11 +2378,12 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-02., 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/628732838009075/)
 * from: *
+* **push**
 * **training-institutions**
 * [Október 2., 14:47](https://www.facebook.com/SzarnyasFejvadasz/posts/3244989695605416)
 ###### content
 * Nem tudom, láttátok-e...
-* BUDAPEST - VIZSGAKÖZPONT ADMINISZTRÁTOR... a Training360 Kft. számára...
+* BUDAPEST - VIZSGAKÖZPONT ADMINISZTRÁTOR... a Training360 Kft. számára... munkatársat keresünk...
 ---
 
 ### 3) [2020-10-02., 19:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/628715574677468/)
@@ -2400,6 +2397,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-02., 15:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/628548231360869/)
 * from: *
+* **pull**
 * **training-institutions**
 ###### content
 * Tudunk-e valamit a négy választható képző intézmény stílusáról, milyenségéről  stb...
@@ -2414,6 +2412,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-02., 12:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/628456424703383/)
 * from: *
+* **push**
 * **it-jobs**
 * women
 ###### content
@@ -2455,6 +2454,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-01., 23:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/628091031406589/)
 * from: *
+* **push**
 * **továbbjutás**
 * kifejtve 4 pontban
 ###### content
@@ -2494,6 +2494,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 #### 4) [2020-10-01., 18:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/627917224757303/)
 * from: *
 * [RE:](https://www.facebook.com/groups/ujratervezesprogram/permalink/627908074758218/) nive-news
+* továbbjutás
 ###### content
 * Az Új Nive.hu-s hír kikerült. Nem sok újdonsággal a nap alatt. Már többen is megosztották, így neked már nem kell.
 ---
@@ -2501,6 +2502,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 ## 2) [2020-10-01., 17:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/627908074758218/)
 * from: *
 * **nive-news**
+* **továbbjutás**
 ###### content
 * [nive.hu: Támogatott informatikai képzések indulnak októberben](https://ujratervezes.nive.hu/hirek/tamogatott-informatikai-kepzesek-indulnak-oktoberben)
 * 61 977 regisztrált...
@@ -2510,6 +2512,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 #### 4) [2020-10-01., 17:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/627907481424944/)
 * from: *
+* push
 * továbbjutás
 ###### content
 * "A 4 alapszintű képzés indítása a résztvevők rangsorolása és a képzések kiválasztását követően előreláthatóan október folyamán várható."
@@ -2545,7 +2548,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 ---
 
 ## 2) [2020-10-01., 11:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/627681954780830/)
-* from: *
+* from: Adminisztrátor
 * **announcement**
 * **group-rules**
 ###### content
@@ -2584,6 +2587,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ### 3) [2020-10-01., 5:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/627510101464682/)
 * from: *
+* **push**
 * **továbbjutás**
 * sok információ és vélemény 5 pontban
 ###### content
@@ -2601,6 +2605,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 ## 2) [2020-06-15., 551367492412277](https://www.facebook.com/groups/ujratervezesprogram/permalink/551367492412277/)
 * from: Adminisztrátor
 * **announcements**
+* **group-rules**
 ###### content
 * Sziasztok! Megkérek mindenkit, hogy ne posztoljon, ne kommenteljen képeket a videók tartalmáról...
 ---
