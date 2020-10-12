@@ -9,6 +9,243 @@
 ---
 -->
 
+###### 6) [12 ó. 635754617306897](https://www.facebook.com/groups/ujratervezesprogram/permalink/635754617306897/)
+* from: *
+* x
+###### content
+* x
+---
+
+###### 6) [14 ó. 635679920647700](https://www.facebook.com/groups/ujratervezesprogram/permalink/635679920647700/)
+* from: *
+* x
+###### content
+* x
+A történet cselekménye kitalált történeten alapul...
+---
+
+###### 6) [21 ó. 635377537344605](https://www.facebook.com/groups/ujratervezesprogram/permalink/635377537344605/)
+* from: *
+* x
+###### content
+* x
+Elfogadtam a nyilatkozatot. Jelöltem sulit meg szakot...
+---
+
+###### 6) [23 ó. 635281040687588](https://www.facebook.com/groups/ujratervezesprogram/permalink/635281040687588/)
+* from: *
+* x
+###### content
+* x
+Sziasztok!
+Ezzel kapcsolatos posztot még nem láttam...
+---
+
+###### 6) [Tegnap, 21:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/635260057356353/)
+* from: *
+* x
+###### content
+* x
+Tudja valaki, hogy a Training 360 mikor tartja a képzések óráit?...
+---
+
+###### 6) [Tegnap, 21:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/635252534023772/)
+* from: *
+* x
+###### content
+* x
+Sziasztok,
+Az idősávokat próbálom összeegyeztetni...
+---
+
+###### 6) [Tegnap, 19:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/635183034030722/)
+* from: *
+* x
+###### content
+* x
+Ha "vótmá", akkor elnézést 🙂 
+A Greenfox is...
+---
+
+###### 6) [Tegnap, 16:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/635085750707117/)
+* from: *
+* x
+###### content
+* x
+Sziasztok!
+Egy kérdésem lenne, hátha...
+---
+
+###### 6) [Tegnap, 15:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/635035020712190/)
+* from: *
+* x
+###### content
+* x
+Amikor az ember munka mellett energiát öl...
+---
+
+###### 6) [Tegnap, 15:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/635017210713971/)
+* from: *
+* x
+###### content
+* x
+Egy kis olvasnivaló így hétvégé😉re...
+---
+
+###### 6) [Tegnap, 14:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/634994680716224/)
+* from: *
+* x
+###### content
+* x
+[Görcs]:(Nem kronológiába megyünk...
+---
+
+###### 6) [Tegnap, 14:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/634981967384162/)
+* from: *
+* x
+###### content
+* x
+Akinek kétségei voltak a Training 360 kontaktórás időpontjait tekintve...
+---
+
+###### 6) [Tegnap, 14:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/634977710717921/)
+* from: *
+* x
+###### content
+* x
+Köszönöm Nektek a sok segítséget...
+---
+
+###### 6) [Tegnap, 13:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/634960587386300/)
+* from: *
+* x
+###### content
+* x
+Azért visszagondolva elég gáz...
+---
+
+###### 6) [Tegnap, 13:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/634960567386302/)
+* from: *
+* x
+###### content
+* x
+Sziasztok, rengeteget olvasom a kommenteket...
+---
+
+###### 6) [Tegnap, 12:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/634938904055135/)
+* from: *
+* x
+###### content
+* x
+https://nki.gov.hu/intezet/karrier/
+---
+
+###### 6) [Tegnap, 12:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/634930340722658/)
+* from: *
+* x
+###### content
+* x
+Mai sajtószemle HVG-ből...
+---
+
+###### 6) [Tegnap, 12:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/634929740722718/)
+* from: *
+* x
+###### content
+* x
+Hátha valakit érdekel még némi szakmai is...
+---
+
+###### 6) [Tegnap, 11:34](https://www.facebook.com/groups/ujratervezesprogram/permalink/634906334058392/)
+* from: *
+* x
+###### content
+* x
+Na ilyen poll még nem volt:
+Ha nem lenne benne a szerződésben...
+---
+
+###### 6) [Tegnap, 11:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/634888957393463/)
+* from: *
+* x
+###### content
+* x
+Miért nem mész tovább a programmal?
+---
+
+###### 6) [Tegnap, 10:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/634883057394053/)
+* from: *
+* x
+###### content
+* x
+Akiknek szintén elege van ebből a "Újratervezésből". Annak csak ajánlani tudom
+---
+
+###### 6) [Tegnap, 10:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/634881587394200/)
+* from: *
+* x
+###### content
+* x
+The Complete Web Developer in 2020: Zero to Mastery
+---
+
+###### 6) [Tegnap, 10:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/634880537394305/)
+* from: *
+* x
+###### content
+* x
+FRONT-END ROADMAP
+---
+
+###### 6) [Tegnap, 10:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/634879064061119/)
+* from: *
+* x
+###### content
+* x
+Aki inkább tanulna, annak itt egy kis segítség, hogyan is induljon neki... TANULJUNK ÉS FEJLESSZÜNK.
+---
+
+###### 6) [Tegnap, 10:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/634872370728455/)
+* from: *
+* x
+###### content
+* x
+Kedves tanulótársaim!
+Az elmúlt időszakban időszakban veletek tanultam...
+---
+
+###### 6) [Tegnap, 9:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/634851814063844/)
+* from: *
+* x
+###### content
+* x
+Miért éri meg nekem belevágni a tanfolyamba? Neked is megéri?...
+---
+
+###### 6) [Tegnap, 7:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/634798567402502/)
+* from: *
+* x
+###### content
+* x
+Sziasztok! Engem nagyon felháborított ez az egész...
+---
+
+###### 6) [Tegnap, 6:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/634777900737902/)
+* from: *
+* x
+###### content
+* x
+Üzemeltető munkakörben szintén vidéki állásajánlat.
+---
+
+###### 6) [Tegnap, 6:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/634776030738089/)
+* from: *
+* x
+###### content
+* x
+Front End fejlesztőket keresünk...
+---
+
 ###### 6) [Tegnap, 6:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/634774487404910/)
 * from: *
 * x
