@@ -1,5 +1,14 @@
 # post collection
 
+<!-- template
+###### 6) [x](#)
+* from: *
+* x
+###### content
+* x
+---
+-->
+
 ### 3) [Október 6., 0:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631057621109930/)
 * from: *
 * **nive-content**
