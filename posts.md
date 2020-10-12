@@ -9,11 +9,243 @@
 ---
 -->
 
+###### 6) [2 ó. 636127397269619](https://www.facebook.com/groups/ujratervezesprogram/permalink/636127397269619/)
+* from: *
+* x
+###### content
+* x
+Előre is bocsánat, mert nem teljesen friss információ...
+---
+
+###### 6) [2 ó. 636106000605092](https://www.facebook.com/groups/ujratervezesprogram/permalink/636106000605092/)
+* from: *
+* x
+###### content
+* x
+Sziasztok,
+Azt honnan tudom meg, hogy jogosult vagyok-e a támogatásra?
+Nekem azt írja, hogy "Az összesített eredményed 52%". Pedig minden tesztem több, mint 90%-os. ¯\_(ツ)_/¯
+---
+
+###### 6) [3 ó. 636098897272469](https://www.facebook.com/groups/ujratervezesprogram/permalink/636098897272469/)
+* from: *
+* x
+###### content
+* x
+Sziasztok
+Kicsit késve érkeztem, jött email...
+---
+
+###### 6) [3 ó. 636095983939427](https://www.facebook.com/groups/ujratervezesprogram/permalink/636095983939427/)
+* from: *
+* x
+###### content
+* x
+Napi 4 órás rugalmas időbeosztású otthoni online munka mellett...
+---
+
+###### 6) [3 ó. 636094330606259](https://www.facebook.com/groups/ujratervezesprogram/permalink/636094330606259/)
+* from: *
+* x
+###### content
+* x
+Juhhhú...kikerültek a NIVE oldalára a kapcsolattartó személyek mobil számai...
+...lehet őket hivogattni!
+---
+
+###### 6) [3 ó. 636075610608131](https://www.facebook.com/groups/ujratervezesprogram/permalink/636075610608131/)
+* from: *
+* x
+###### content
+* x
+Olyan, mintha levizelné az egészet...
+---
+
+###### 6) [3 ó. 636071727275186](https://www.facebook.com/groups/ujratervezesprogram/permalink/636071727275186/)
+* from: *
+* x
+###### content
+* x
+Minden őszinte tiszteletem a feladó úré, hogy még ma válaszolt!
+---
+
+###### 6) [3 ó. 636068207275538](https://www.facebook.com/groups/ujratervezesprogram/permalink/636068207275538/)
+* from: *
+* x
+###### content
+* x
+Miközben meghosszabbították...
+---
+
+###### 6) [4 ó. 636052660610426](https://www.facebook.com/groups/ujratervezesprogram/permalink/636052660610426/)
+* from: *
+* x
+###### content
+* x
+Van,aki még mindíg nem kapott levelet?
+---
+
+###### 6) [4 ó. 636034373945588](https://www.facebook.com/groups/ujratervezesprogram/permalink/636034373945588/)
+* from: *
+* x
+###### content
+* x
+Sziasztok,
+Sajnos csak ma sikerült megtalalnom a csoportot...
+---
+
+###### 6) [5 ó. 636028817279477](https://www.facebook.com/groups/ujratervezesprogram/permalink/636028817279477/)
+* from: *
+* x
+###### content
+* x
+Vagy ha ingyen akarsz jót jó helyen...
+---
+
+###### 6) [5 ó. 636019037280455](https://www.facebook.com/groups/ujratervezesprogram/permalink/636019037280455/)
+* from: *
+* x
+###### content
+* x
+Többek kérésére módosítottuk a rangsor véglegesítésének határidejét, így a képzésekre a jelentkezést október 14-én 12 óráig...
+---
+
+###### 6) [5 ó. 636001963948829](https://www.facebook.com/groups/ujratervezesprogram/permalink/636001963948829/)
+* from: *
+* x
+###### content
+* x
+Sziasztok!
+Tudnátok arról infót, hogy a szerződést meddig, milyen módon kell leadni?...
+---
+
+###### 6) [5 ó. 635997347282624](https://www.facebook.com/groups/ujratervezesprogram/permalink/635997347282624/)
+* from: *
+* x
+###### content
+* x
+Sziasztok!
+Sokat olvasok itt, amiket írtatok és látom, hogy sokan nem mernek belevágni. (Szerintem én sem)...
+---
+
+###### 6) [5 ó. 635972250618467](https://www.facebook.com/groups/ujratervezesprogram/permalink/635995523949473/)
+* from: *
+* x
+###### content
+* x
+OKJ-s szoftverfejlesztő tanfolyam indul...
+---
+
+###### 6) [6 ó. 635972250618467](https://www.facebook.com/groups/ujratervezesprogram/permalink/635972250618467/)
+* from: *
+* x
+###### content
+* x
+Akkor valóban semmi felmutatható papírt vagy képesítést sem adnak...
+---
+
+###### 6) [6 ó. 635968237285535](https://www.facebook.com/groups/ujratervezesprogram/permalink/635968237285535/)
+* from: *
+* x
+###### content
+* x
+Ezt csak ugy itthagyom 😃 (kifogàs sablon,hivatalos)
+---
+
+###### 6) [7 ó. 635936820622010](https://www.facebook.com/groups/ujratervezesprogram/permalink/635936820622010/)
+* from: *
+* x
+###### content
+* x
+Akit érdekel. Engem már nem...
+---
+
+###### 6) [8 ó. 635913213957704](https://www.facebook.com/groups/ujratervezesprogram/permalink/635913213957704/)
+* from: *
+* x
+###### content
+* x
+Az egyik kedvenc Udemy-instruktorom tanácsa...
+---
+
+###### 6) [8 ó. 635910173958008](https://www.facebook.com/groups/ujratervezesprogram/permalink/635910173958008/)
+* from: *
+* x
+###### content
+* x
+Aki megismerkedne a C/C++-szal! 😃...
+---
+
+###### 6) [8 ó. 635894060626286](https://www.facebook.com/groups/ujratervezesprogram/permalink/635894060626286/)
+* from: *
+* x
+###### content
+* x
+Nos, ebben a formában én is elbúcsúzom...
+---
+
+###### 6) [8 ó. 635892500626442](https://www.facebook.com/groups/ujratervezesprogram/permalink/635892500626442/)
+* from: *
+* x
+###### content
+* x
+Sziasztok! Ez a hirdetès jött velem szembe...
+---
+
+###### 6) [9 ó. 635870887295270](https://www.facebook.com/groups/ujratervezesprogram/permalink/635870887295270/)
+* from: *
+* x
+###### content
+* x
+kérdés...
+---
+
+###### 6) [9 ó. 635859807296378](https://www.facebook.com/groups/ujratervezesprogram/permalink/635862953962730/)
+* from: *
+* x
+###### content
+* x
+Hétfő.
+---
+
+###### 6) [9 ó. 635859807296378](https://www.facebook.com/groups/ujratervezesprogram/permalink/635859807296378/)
+* from: *
+* x
+###### content
+* x
+Minden képzőnek írtam tesztelő tanfolyammal kapcsolatban. Mutatom az egyik választ,ami elég részletes...
+---
+
+###### 6) [10 ó. 635854597296899](https://www.facebook.com/groups/ujratervezesprogram/permalink/635854597296899/)
+* from: *
+* x
+###### content
+* x
+Prooktatás képzőhely vélemények? Valaki tanult már ott korábban?
+---
+
+###### 6) [10 ó. 635847060630986](https://www.facebook.com/groups/ujratervezesprogram/permalink/635847060630986/)
+* from: *
+* x
+###### content
+* x
+Sziasztok! Nem vagyok biztos benne...
+---
+
+###### 6) [11 ó. 635801393968886](https://www.facebook.com/groups/ujratervezesprogram/permalink/635801393968886/)
+* from: *
+* x
+###### content
+* x
+Hétvégén nem nagyon olvasgattam a csoportot, így...
+---
+
 ###### 6) [12 ó. 635754617306897](https://www.facebook.com/groups/ujratervezesprogram/permalink/635754617306897/)
 * from: *
 * x
 ###### content
 * x
+Sok iskolánál láttam, hogy van 2 hét "meggondolommagam" időszak. Ez ugye a mi esetünkben is érvényes?...
 ---
 
 ###### 6) [14 ó. 635679920647700](https://www.facebook.com/groups/ujratervezesprogram/permalink/635679920647700/)
@@ -2364,6 +2596,13 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 * továbbjutás
 ###### content
 * Eközben egy másik csoportban...
+---
+
+## 2) [Június 15.](https://www.facebook.com/groups/ujratervezesprogram/permalink/551367492412277/)
+* from: *
+* **announcements**
+###### content
+* Sziasztok! Megkérek mindenkit, hogy ne posztoljon, ne kommenteljen képeket a videók tartalmáról...
 ---
 
 # notes
