@@ -9,6 +9,163 @@
 ---
 -->
 
+###### 6) [Október 9., 2:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/633284704220555/)
+* from: *
+* x
+###### content
+* x
+Megjött a mail.
+---
+
+###### 6) [Október 8., 23:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/633194954229530/)
+* from: *
+* x
+###### content
+* x
+Nagyon szeretnem, hogy igazam legyen, mert akkor az, aki tudja vallalni a felteteleket
+---
+
+###### 6) [Október 8., 21:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/633161980899494/)
+* from: *
+* poll
+* x
+###### content
+* x
+Melyik embert értelmesebb dolog felvenni valamelyik képzésre a kettő közül?
+---
+
+###### 6) [Október 8., 20:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/633133047569054/)
+* from: *
+* x
+###### content
+* x
+Szép estét
+Diákhitellel kapcsolatban...
+---
+
+###### 6) [Október 8., 20:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/633132734235752/)
+* from: *
+* x
+###### content
+* x
+Könyvajánló Martin Ford Robotok kora😀
+---
+
+###### 6) [Október 8., 17:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/633024174246608/)
+* from: *
+* x
+###### content
+* x
+Olvasnivaló a várakozáshoz, ezeket a sikertörténeteket találtam.
+---
+
+###### 6) [Október 8., 16:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/632996207582738/)
+* from: *
+* funz
+###### content
+* x
+---
+
+###### 6) [Október 8., 16:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/632983060917386/)
+* from: *
+* x
+###### content
+* x
+Nem gyanús hogy még senki se kapott emailt a csoportban?
+---
+
+###### 6) [Október 8., 16:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/632978274251198/)
+* from: *
+* x
+###### content
+* x
+Amíg várakozunk:
+http://flexboxfroggy.com/#hu
+---
+
+###### 6) [Október 8., 15:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/632967834252242/)
+* from: *
+* x
+###### content
+* x
+2020.10.08. Csütörtök 15:45
+[Kristóf]-Erikaaa?...
+---
+
+###### 6) [Október 8., 12:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/632858474263178/)
+* from: *
+* x
+###### content
+* x
+Reklamáltam kompetencia teszt után, mivel 5 hibás kérdést kaptam...
+---
+
+###### 6) [Október 8., 11:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/632834407598918/)
+* from: *
+* x
+###### content
+* x
+-Kristóf, mi az Istennel foglalkozol( jajj rá se kellett...
+---
+
+###### 6) [Október 8., 11:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/632831687599190/)
+* from: *
+* x
+###### content
+* x
+Nive elutasító levél, Kristóf csak linkeld bele. 
+---
+
+###### 6) [Október 8., 11:07  · ](https://www.facebook.com/groups/ujratervezesprogram/permalink/632827787599580/)
+* from: *
+* x
+###### content
+* x
+Extra tipp, én tükörtojással tálalnám.
+Spenótfőzelék...
+---
+
+###### 6) [Október 8., 10:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/632821190933573/)
+* from: *
+* x
+###### content
+* x
+Tájékoztatjuk kedves Ügyfeleinket, hogy az emaileket a MÁV fogja küldeni! Elnézést a késésért! 😎
+---
+
+###### 6) [Október 8., 10:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/632807720934920/)
+* from: *
+* x
+###### content
+* x
+Sziasztok!
+Nekem nem világos az, hogy honnan lehet tudni, mennyi a ponthatár...
+---
+
+###### 6) [Október 8., 8:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/632764067605952/)
+* from: *
+* x
+###### content
+* x
+Szerintem a következő hely, ahol infósokat fognak keresni az a NIVE lesz... 😂
+---
+
+###### 6) [Október 8., 7:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/632737550941937/)
+* from: *
+* x
+###### content
+* x
+-Kristóf, vagy ma kiküldöd má' azokat a nyomorult e-maileket...
+---
+
+###### 6) [Október 8., 6:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/632701860945506/)
+* from: *
+* x
+###### content
+* x
+A Microsoft csinált egy 51 részes youtube sorozatot kezdő js-hez...
+---
+
 ###### 6) [Október 8., 5:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/632693824279643/)
 * from: *
 * x
