@@ -216,7 +216,7 @@ Hétfő.
 Minden képzőnek írtam tesztelő tanfolyammal kapcsolatban. Mutatom az egyik választ,ami elég részletes...
 ---
 
-###### 6) [2020-10-12, 0 ó. 635854597296899](https://www.facebook.com/groups/ujratervezesprogram/permalink/635854597296899/)
+###### 6) [2020-10-12, 10 ó. 635854597296899](https://www.facebook.com/groups/ujratervezesprogram/permalink/635854597296899/)
 * from: *
 * x
 ###### content
@@ -224,7 +224,7 @@ Minden képzőnek írtam tesztelő tanfolyammal kapcsolatban. Mutatom az egyik v
 Prooktatás képzőhely vélemények? Valaki tanult már ott korábban?
 ---
 
-###### 6) [2020-10-12, 0 ó. 635847060630986](https://www.facebook.com/groups/ujratervezesprogram/permalink/635847060630986/)
+###### 6) [2020-10-12, 10 ó. 635847060630986](https://www.facebook.com/groups/ujratervezesprogram/permalink/635847060630986/)
 * from: *
 * x
 ###### content
@@ -232,7 +232,7 @@ Prooktatás képzőhely vélemények? Valaki tanult már ott korábban?
 Sziasztok! Nem vagyok biztos benne...
 ---
 
-###### 6) [2020-10-12, 1 ó. 635801393968886](https://www.facebook.com/groups/ujratervezesprogram/permalink/635801393968886/)
+###### 6) [2020-10-12, 11 ó. 635801393968886](https://www.facebook.com/groups/ujratervezesprogram/permalink/635801393968886/)
 * from: *
 * x
 ###### content
@@ -240,7 +240,7 @@ Sziasztok! Nem vagyok biztos benne...
 Hétvégén nem nagyon olvasgattam a csoportot, így...
 ---
 
-###### 6) [2020-10-12, 2 ó. 635754617306897](https://www.facebook.com/groups/ujratervezesprogram/permalink/635754617306897/)
+###### 6) [2020-10-12, 12 ó. 635754617306897](https://www.facebook.com/groups/ujratervezesprogram/permalink/635754617306897/)
 * from: *
 * x
 ###### content
@@ -248,7 +248,7 @@ Hétvégén nem nagyon olvasgattam a csoportot, így...
 Sok iskolánál láttam, hogy van 2 hét "meggondolommagam" időszak. Ez ugye a mi esetünkben is érvényes?...
 ---
 
-###### 6) [2020-10-12, 4 ó. 635679920647700](https://www.facebook.com/groups/ujratervezesprogram/permalink/635679920647700/)
+###### 6) [2020-10-12, 14 ó. 635679920647700](https://www.facebook.com/groups/ujratervezesprogram/permalink/635679920647700/)
 * from: *
 * x
 ###### content
@@ -256,7 +256,7 @@ Sok iskolánál láttam, hogy van 2 hét "meggondolommagam" időszak. Ez ugye a 
 A történet cselekménye kitalált történeten alapul...
 ---
 
-###### 6) [2020-10-12, 1 ó. 635377537344605](https://www.facebook.com/groups/ujratervezesprogram/permalink/635377537344605/)
+###### 6) [2020-10-12?, 21 ó. 635377537344605](https://www.facebook.com/groups/ujratervezesprogram/permalink/635377537344605/)
 * from: *
 * x
 ###### content
@@ -264,7 +264,7 @@ A történet cselekménye kitalált történeten alapul...
 Elfogadtam a nyilatkozatot. Jelöltem sulit meg szakot...
 ---
 
-###### 6) [2020-10-12, 3 ó. 635281040687588](https://www.facebook.com/groups/ujratervezesprogram/permalink/635281040687588/)
+###### 6) [2020-10-12?, 23 ó. 635281040687588](https://www.facebook.com/groups/ujratervezesprogram/permalink/635281040687588/)
 * from: *
 * x
 ###### content
@@ -2286,7 +2286,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-04., 18:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/630145107867848/)
 * from: *
-* fun
+* funz
 ###### content
 * Ha az eddigi megosztások  talán, akkor ez tutira a kompetenciateszt egyik feladványa volt...
 ---
@@ -2300,7 +2300,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-04., 10:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/629886081227084/)
 * from: *
-* fun
+* funz
 ###### content
 ---
 
@@ -2330,7 +2330,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-03., 15:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/629295314619494/)
 * from: *
-* fun
+* funz
 ###### content
 * Humorral töltve könnyebben telik a várakozás...
 ---
@@ -2353,7 +2353,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-03., 9:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/629088577973501/)
 * from: *
-* fun
+* funz
 ###### content
 * Khm...
 ---
@@ -2517,14 +2517,14 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-01., 17:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/627886538093705/)
 * from: *
-* fun
+* funz
 ###### content
 * Egy örökzöld a várakozás idejére...
 ---
 
 ##### 5) [2020-10-01., 16:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/627827878099571/)
 * from: *
-* fun
+* funz
 ###### content
 * Ba dum tsssss...
 ---
@@ -2539,7 +2539,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-01., 13:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/627743698107989/)
 * from: *
-* fun
+* funz
 ###### content
 * Wow ez tök olyan, mint a kompetenciateszt feladatai...
 ---
@@ -2554,7 +2554,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-01., 9:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/627617004787325/)
 * from: *
-* fun
+* funz
 * poll
 ###### content
 * Beismeri-e hogy guglizott a záróvizsgán?...
@@ -2562,14 +2562,14 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-01., 7:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/627544128127946/)
 * from: *
-* fun
+* funz
 ###### content
 * Amíg várjuk a folytatást...
 ---
 
 ##### 5) [2020-10-01., 7:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/627541761461516/)
 * from: *
-* fun
+* funz
 * devops/kompetencia
 ###### content
 * Mi a hiba a képen?
@@ -2577,7 +2577,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-01., 6:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/627535264795499/)
 * from: *
-* fun
+* funz
 ###### content
 * Kompetencia teszt után...
 ---
@@ -2592,7 +2592,7 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 ##### 5) [2020-10-01., 0:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/627356808146678/)
 * from: *
-* fun
+* funz
 * továbbjutás
 ###### content
 * Eközben egy másik csoportban...
@@ -2607,6 +2607,6 @@ Mi lesz azzal a tananyaggal, amit a GINOPos pénzből kifejlesztenek? A 4 bootca
 
 # notes
 ## 2) major news; announcements;
-### 3) normal content; general questions (pull); poll; study guide; homework;
+### 3) normal content (push); general questions (pull); poll; study guide; homework;
 #### 4) personal questions; personal projects; low prio, old or repeated content;
-##### 5) fun; rant; rage; shitpost; offtopic;
+##### 5) funz; rant; rage; shitpost; offtopic;
