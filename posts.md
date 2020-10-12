@@ -9,6 +9,188 @@
 ---
 -->
 
+###### 6) [Október 8., 5:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/632693824279643/)
+* from: *
+* x
+###### content
+* x
+Ha máig senki sem kapott e-mailt.... Nem lehet, hogy...
+---
+
+###### 6) [Október 7., 21:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/632486687633690/)
+* from: *
+* x
+###### content
+* x
+➡️HÁTI FELADAT⬅️
+Adott két DIV egymásban...
+---
+
+###### 6) [Október 7., 21:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/632468767635482/)
+* from: *
+* x
+###### content
+* x
+Hova lett a bakiparádés hozzászólás? Jónak indult az ötlet...
+---
+
+###### 6) [Október 7., 17:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/632356230980069/)
+* from: *
+* x
+###### content
+* x
+A Training360-at akkor lehet nyomatni munka vagy egyéb elfoglaltság mellett? 😍 Nincs csoportmunka...
+---
+
+###### 6) [Október 7., 17:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/632350677647291/)
+* from: *
+* x
+###### content
+* x
+Üdvözletem mindenkinek! 
+lehet már valamit tudni arról, hogy mikor kapunk...
+---
+
+###### 6) [Október 7., 17:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/632339717648387/)
+* from: *
+* x
+###### content
+* x
+https://www.greenfoxacademy.com/on-campus-junior-programozo-kepzeseink
+---
+
+###### 6) [Október 7., 16:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/632307164318309/)
+* from: *
+* x
+###### content
+* x
+6 perce írtak róla infót de a Újratervezés weblapon elérhető már a menüpont is.
+---
+
+###### 6) [Október 7., 16:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/632302660985426/)
+* from: *
+* x
+###### content
+* x
+Most kaptam emailt az érdeklődésemre:
+...Azon tanulók részére, akik sikeresen...
+---
+
+###### 6) [Október 7., 15:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/632279260987766/)
+* from: *
+* x
+###### content
+* x
+Vótmá'?
+---
+
+###### 6) [Október 7., 14:34](https://www.facebook.com/groups/ujratervezesprogram/permalink/632253137657045/)
+* from: *
+* x
+###### content
+* x
+Sziasztok!
+A Masterfieldet, mint iskolát mennyire ajánlanátok?...
+---
+
+###### 6) [Október 7., 13:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/632217217660637/)
+* from: *
+* x
+###### content
+* x
+Ma ezt találtam hirdetésben:
+---
+
+###### 6) [Október 7., 12:59](https://www.facebook.com/groups/ujratervezesprogram/permalink/632203180995374/)
+* from: *
+* x
+###### content
+* x
+Már nem elérhető a Codecool honlapján, de én biztosan emlékszem, hogy az oldalukon hirdették, hogy 2020. október 5-én indul...
+---
+
+###### 6) [Október 7., 12:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/632202467662112/)
+* from: *
+* x
+###### content
+* x
+Csakhogy más téma is legyen! Még nem 100% kész de lassan elkészül a saját élő weblapom...
+---
+
+###### 6) [Október 7., 12:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/632190670996625/)
+* from: *
+* x
+###### content
+* x
+Van valaki külföldiából? Egyaltalan lehet folytatni csak online?
+---
+
+###### 6) [Október 7., 12:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/632181690997523/)
+* from: *
+* x
+###### content
+* x
+Kapott már valaki emailt a bejelentkezéshez?
+---
+
+###### 6) [Október 7., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/632171897665169/)
+* from: *
+* x
+###### content
+* x
+Aranyszabály: Push and Talk! 😃
+---
+
+###### 6) [Október 7., 10:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/632140274334998/)
+* from: *
+* x
+###### content
+* x
+Ezt most csak így itt hagynám...
+Nekem szerzett pár mosolygós percet ez a kép, remélem másnak is fog 🙂
+---
+
+###### 6) [Október 7., 10:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/632127394336286/)
+* from: *
+* x
+###### content
+* x
+https://codeweek.eu
+---
+
+###### 6) [Október 7., 9:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/632114891004203/)
+* from: *
+* x
+###### content
+* x
+Hát ez nagyon vicces 🤣 
+Próbáltatok már a T360 ügyfélszolgálatával beszélni?...
+---
+
+###### 6) [Október 7., 9:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/632098757672483/)
+* from: *
+* x
+###### content
+* x
+Ha akarsz minket tanítani, jelentkezz...
+---
+
+###### 6) [Október 7., 8:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/632083324340693/)
+* from: *
+* x
+###### content
+* x
+Engem az érdekelne, hogy ki mi alapján rangsorolja az intézményeket, ha azt nem nézzük, hogy mikor van kontaktóra...
+---
+
+###### 6) [Október 7., 7:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/632060137676345/)
+* from: *
+* x
+###### content
+* x
+A profession.hu-n jelent meg tegnap az alábbi hirdetés. Még az a szerencse, hogy nem igényel nyelvtudást... 😕
+---
+
 ###### 6) [Október 7., 7:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/632052634343762/)
 * from: *
 * x
