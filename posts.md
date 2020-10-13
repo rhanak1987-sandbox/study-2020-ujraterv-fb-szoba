@@ -1449,8 +1449,8 @@ ___
 * Hova lett a bakiparádés hozzászólás? Jónak indult az ötlet...
 ___
 
-### 3) [2020-10-07, 17:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/632356230980069/)
-* from: *
+#### 4) [2020-10-07, 17:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/632356230980069/)
+* from: * | [RE: 2020-10-06, 20:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/631756124373413/)
 * **pull**
 * **training-institutions**
 * **továbbjutás**
@@ -1474,11 +1474,11 @@ ___
 * training-institutions
 * extracurricular
 ###### content
-* https://www.greenfoxacademy.com/on-campus-junior-programozo-kepzeseink
+* [greenfoxacademy: On-campus, szuperintenzív Junior programozó](https://www.greenfoxacademy.com/on-campus-junior-programozo-kepzeseink)
 ___
 
 ### 3) [2020-10-07, 16:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/632307164318309/)
-* from: * | [RE: 2020-10-07, 16:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/632302660985426/)
+* from: * | [RE: 2020-10-07, 16:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/632302660985426/) | [RE: 2020-10-05, 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
 * **push**
 * **nive-info**
 * **továbbjutás**
@@ -1488,7 +1488,7 @@ ___
 ___
 
 ### 3) [2020-10-07, 16:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/632302660985426/)
-* from: *
+* from: * | [RE: 2020-10-05, 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
 * **push**
 * **nive-info**
 * **továbbjutás**
@@ -1604,15 +1604,15 @@ ___
 ### 3) [2020-10-07, 8:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/632083324340693/)
 * from: *
 * **pull**
-* **továbbjutás**
 * **training-institutions**
+* **továbbjutás**
 ###### content
 * ... ki mi alapján rangsorolja az intézményeket...
 * kontaktóra... elérhető plusz anyagok... Egyéb más?...
 ___
 
 #### 4) [2020-10-07, 7:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/632060137676345/)
-* from: *
+* from: * | [RE: 2020-10-07, 7:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/632052634343762/)
 * push/funz
 * training-institutions
 ###### content
@@ -1637,8 +1637,8 @@ ___
 * ... milyen papírt kapnak... mire lesz jó az a papír amit a 4 képzés ad...
 ___
 
-### 3) [2020-10-06, 22:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631794801036212/)
-* from: *
+#### 4) [2020-10-06, 22:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631794801036212/)
+* from: * | [RE: 2020-10-06, 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631745901041102/)
 * **push**
 * **továbbjutás**
 * **training-institutions**
@@ -1648,7 +1648,7 @@ ___
 ___
 
 ### 3) [2020-10-06, 20:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/631756124373413/)
-* from: *
+* from: * | [Link: 2020-10-05, 22:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/631013927780966/)
 * **pull**
 * **training-institutions**
 ###### content
@@ -1665,8 +1665,8 @@ ___
 * [atw.hu: tartsvelem/szerelmesversek](http://users.atw.hu/tartsvelem/szerelmesversek.html) [atw.hu: tartsvelem](http://tartsvelem.atw.hu/)
 ___
 
-### 3) [2020-10-06, 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747534374272/)
-* from: *
+#### 4) [2020-10-06, 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747534374272/)
+* from: * | [RE: 2020-10-06, 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/631419171073775/)
 * **pull**
 * **továbbjutás**
 * **rangsor**
@@ -1746,7 +1746,7 @@ ___
 ___
 
 ### 3) [2020-10-06, 15:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/631539747728384/)
-* from: *
+* from: * | [RE: 2020-10-05, 19:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/630929134456112/)
 * **news**
 * **training-institutions**
 ###### content
@@ -1818,6 +1818,7 @@ ___
 * from: *
 * **pull**
 * **training-institutions**
+* **nive-courses**
 ###### content
 * 2 cégnél látom a képzés részletes tematikáját (Progmasters és Training360), de másik 2-nél...?
 ___
@@ -1873,6 +1874,7 @@ ___
 * from: *
 * **nive-info**
 * **továbbjutás**
+* **nive-courses**
 ###### content
 * Elérhetőek a képző intézmények is!
 * [nive.hu: Képző intézmények](https://ujratervezes.nive.hu/kepzok)
@@ -1915,6 +1917,7 @@ ___
 * from: *
 * **push**
 * **training-institutions**
+* **nive-courses**
 ###### content
 * A Training360 anyaga - rugalmas időbeosztásra és önálló tanulásra... kirakom ide külön is...
 * [Struktúraváltó képzések](https://www.training360.com/strukturavalto)
@@ -1968,14 +1971,15 @@ ___
 ___
 
 ### 3) [2020-10-05, 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/)
-* from: *
+* from: * | [Link: 2020-10-05, 21:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/630975571118135/)
 * **push**
 * **továbbjutás**
 ###### content
-* Ha sikeresen teljesítetted... és 2020. október 9-ig nem kaptál e-mail-t a bejelentkezési... vedd fel a kapcsolatot...
+* Ha sikeresen teljesítetted...
+* és 2020. október 9-ig nem kaptál e-mail-t a bejelentkezési... vedd fel a kapcsolatot...
 ___
 
-#### 4) [2020-10-05, 21:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/630975571118135/)
+### 3) [2020-10-05, 21:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/630975571118135/)
 * from: *
 * ping
 * továbbjutás
@@ -2026,6 +2030,7 @@ ___
 * from: *
 * **push**
 * **training-institutions**
+* **nive-courses**
 ###### content
 * Ha jól gondolom, ez a CodeCool-os tájékoztató:
 * [codecool.com: Struktúraváltó képzések a Codecoolnál](https://codecool.com/hu/ujratervezes/)
@@ -2069,6 +2074,7 @@ ___
 * from: *
 * **push**
 * **training-institutions**
+* **nive-courses**
 ###### content
 * Megtaláltam a Greenfox kiírását is a honlapjukon...
 * [greenfoxacademy.com: Államilag támogatott informatikai képzések](https://www.greenfoxacademy.com/allamilag-tamogatott-informatikai-kepzesek)
@@ -2122,6 +2128,7 @@ ___
 * from: *
 * **push**
 * **training-institutions**
+* **nive-courses**
 ###### content
 * [progmasters.hu: ÚJRATERVEZÉS PROGRAM KÉPZÉSEK](https://progmasters.hu/ingyenes-online-allami-kepzesek/)
 * Itt már láthatóan a képzések...
@@ -2323,6 +2330,7 @@ ___
 * from: *
 * **push**
 * **továbbjutás**
+* **training-institutions**
 * /kifejtve 4 pontban/
 ###### content
 * Sziasztok! Néhány információmorzsa képzőhelyekről...
