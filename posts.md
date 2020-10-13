@@ -119,7 +119,7 @@
 * Miközben meghosszabbították...
 ---
 
-##### 5) removed [2020-10-12, 636052660610426](https://www.facebook.com/groups/ujratervezesprogram/permalink/636052660610426/)
+##### 5) [removed: 2020-10-12, 636052660610426](https://www.facebook.com/groups/ujratervezesprogram/permalink/636052660610426/)
 * from: *
 * ping
 * továbbjutás
@@ -1621,7 +1621,7 @@
 
 #### 4) [2020-10-07, 7:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/632052634343762/)
 * from: *
-* push
+* push/
 * továbbjutás
 * training-institutions
 ###### content
@@ -1657,7 +1657,7 @@
 #### 4) [2020-10-06, 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747711040921/)
 * from: *
 * pull
-* personal-project-question
+* personal-project
 ###### content
 * ... szakmai kérdésem... kezdetleges honlapot... szétcsúszik...
 * responzív nézetet figyelembe vettem... ingyenes tárhelyszolgáltató miatt?...
@@ -1762,7 +1762,7 @@
 
 #### 4) [2020-10-06, 13:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/631472347735124/)
 * from: *
-* funz/push
+* push/funz
 * it-news
 ###### content
 * Hátha kapunk tesztelőként ilyen feladatot...
@@ -1780,9 +1780,9 @@
 
 ## 2) [2020-10-06, 12:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/631428111072881/)
 * from: *
+* **collection**
 * **push**
 * **external-study-material**
-* **collection**
 ###### content
 * [TANANYAG, TUTORIAL]... gyűjtőposzt...
 ---
@@ -1822,7 +1822,7 @@
 
 #### 4) [2020-10-06, 11:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/631402867742072/)
 * from: *
-* push
+* push/
 * továbbjutás
 ###### content
 * Ezt üzenem mindenkinek aki feladja vagy éppen reményvesztett.
@@ -1832,7 +1832,7 @@
 #### 4) [2020-10-06, 11:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/631395891076103/)
 * from: *
 * pull
-* personal-project-question
+* personal-project
 ###### content
 * feltennék... kérdést... Google táblázatokban... melyik munkalap nyíljon meg...
 ---
@@ -1886,7 +1886,7 @@
 #### 4) [2020-10-05, 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
 * from: * | [RE: 2020-10-05, 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/)
 * **nive-content**
-* továbbjutás
+* **továbbjutás**
 ###### content
 * Úgy látom, péntekig elvileg mindenki kap e-mailt...
 * [nive.hu: bejelentkezes](https://ujratervezes.nive.hu/privat/bejelentkezes)
@@ -1927,7 +1927,7 @@
 ### 3) [2020-10-05, 22:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/631003877781971/)
 * from: *
 * **announcement**
-* welcome-message
+* /welcome-message/
 ###### content
 * Üdvözöljük legújabb tagjainkat az #Újratervezés... mi itt akkor is programozással, webfejlesztéssel és IT-vel fogunk foglalkozni....
 ---
@@ -1998,8 +1998,7 @@
 
 #### 4) [2020-10-05, 20:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/630939507788408/)
 * from: *
-* push
-* rant
+* push/rant
 ###### content
 * ...Nem egy harmadik kurzust akarunk még elvégezni, hanem minél hamarabb munkába állni!...
 ---
@@ -2081,14 +2080,15 @@
 ### 3) [2020-10-05, 12:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/630680934480932/)
 * from: *
 * **pull**
-* **it-jobs**
-* Rendszerüzemeltető
+* **job-market**
+* /Rendszerüzemeltető/
 ###### content
 * Egy kérdéssel fordulnék hozzátok... junior rendszerüzemeltetői... A munkaerő piacon ez mennyire kelendő?...
 ---
 
 ### 3) [2020-10-05, 12:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/630665291149163/)
 * from: *
+* **push**
 * **external-study-material**
 ###### content
 * Gyakorlásnak egy kis kígyó
@@ -2098,7 +2098,7 @@
 #### 4) [2020-10-05, 10:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/630624731153219/)
 * from: *
 * old-news
-* 2020 május 11
+* /2020 május 11/
 ###### content
 * Azért osztottam meg, mert október 11.-én lesz pontosan 5 hónapos a képzés...
 * [nive.hu: Elstartolt az Újratervezés Program](https://ujratervezes.nive.hu/hirek/elstartolt-az-ujratervezes-program)
@@ -2125,7 +2125,7 @@
 #### 4) [2020-10-04, 19:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/630165244532501/)
 * from: *
 * pull
-* personal-project-question
+* personal-project
 ###### content
 * Az alábbi kódrészlet mit ad eredményül,ha a kód helyes?...
 ---
@@ -2161,8 +2161,8 @@
 #### 4) [2020-10-03, 20:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/629482037934155/)
 * from: *
 * pull
-* personal-project-question
-* hosting
+* personal-project
+* /hosting/
 ###### content
 * Egy technikai kérdés: ...feltölteni... domain...
 ---
@@ -2232,16 +2232,15 @@
 #### 4) [2020-10-02, 21:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/628785104670515/)
 * from: *
 * pull
-* personal-project-question
+* personal-project
 ###### content
 * Szeretnék segítséget kérni... w3schools oldal.. PHP... submit...
 ---
 
 ### 3) [2020-10-02, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/628732838009075/)
-* from: *
+* from: * | [FW: 2020-10-02, 14:47](https://www.facebook.com/SzarnyasFejvadasz/posts/3244989695605416)
 * **push**
 * **training-institutions**
-* [2020-10-02, 14:47](https://www.facebook.com/SzarnyasFejvadasz/posts/3244989695605416)
 ###### content
 * Nem tudom, láttátok-e...
 * BUDAPEST - VIZSGAKÖZPONT ADMINISZTRÁTOR... a Training360 Kft. számára... munkatársat keresünk...
@@ -2250,8 +2249,8 @@
 ### 3) [2020-10-02, 19:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/628715574677468/)
 * from: *
 * **push**
-* **it-jobs**
-* 2020 szeptember 2.
+* **job-market**
+* /2020 szeptember 2./
 ###### content
 * [computerworld.hu: Honnan jönnek az informatikusok?](https://computerworld.hu/karrier/honnan-jonnek-az-informatikusok-283799.html)
 ---
@@ -2274,8 +2273,7 @@
 ### 3) [2020-10-02, 12:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/628456424703383/)
 * from: *
 * **push**
-* **it-jobs**
-* women
+* **job-market**
 ###### content
 * [youtube: ShareIT Lab: Álláspiac... nőknek digitális munkakörökben... 2020.09.29](https://www.youtube.com/watch?v=mU7wYIyfqv4)
 ---
@@ -2284,7 +2282,7 @@
 * from: *
 * rant
 * old-news
-* MÁJUS 11.
+* /MÁJUS 11./
 ###### content
 * Érdemes elolvasni, hogy mért is hozták létre ezt a programot!...
 * [ikk.hu: Átképzési lehetőség, indul az Újratervezés Program](https://ikk.hu/hirek/atkepzesi-lehetoseg-indul-az-ujratervezes-program)
@@ -2301,7 +2299,7 @@
 #### 4) [2020-10-02, 10:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/628404774708548/)
 * from: *
 * old-news
-* 2020.05.20. 09:25
+* /2020.05.20. 09:25/
 ###### content
 * [index.hu: Egyelőre még kisebb káosz övezi az állami programozóképzést](https://index.hu/gazdasag/2020/05/20/egyelore_meg_kisebb_kaosz_ovezi_az_allami_programozokepzest/)
 ---
@@ -2317,7 +2315,7 @@
 * from: *
 * **push**
 * **továbbjutás**
-* kifejtve 4 pontban
+* /kifejtve 4 pontban/
 ###### content
 * Sziasztok! Néhány információmorzsa képzőhelyekről...
 ---
@@ -2434,7 +2432,7 @@
 ##### 5) [2020-10-01, 7:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/627541761461516/)
 * from: *
 * funz
-* devops/kompetencia
+* /devops/kompetencia/
 ###### content
 * Mi a hiba a képen?
 ---
@@ -2450,7 +2448,7 @@
 * from: *
 * **push**
 * **továbbjutás**
-* sok információ és vélemény 5 pontban
+* /sok információ és vélemény 5 pontban/
 ###### content
 * Tudom, hogy mindenki idegesebb most a folytatást illetően, de talán hasznosabb józanul átgondolni dolgokat...
 ---
@@ -2463,16 +2461,16 @@
 * Eközben egy másik csoportban...
 ---
 
-## 2) [2020-06-15, 551367492412277](https://www.facebook.com/groups/ujratervezesprogram/permalink/551367492412277/)
+## 2) [2020-06-15, 22:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/551367492412277/)
 * from: Adminisztrátor
-* **announcements**
+* **announcement**
 * **group-rules**
 ###### content
 * Sziasztok! Megkérek mindenkit, hogy ne posztoljon, ne kommenteljen képeket a videók tartalmáról...
 ---
 
 # notes
-## 2) major news; announcements;
+## 2) major news; announcement;
 ### 3) normal content (push); general questions (pull); poll; study guide; homework;
 #### 4) personal questions; personal projects; low prio, old or repeated content;
 ##### 5) funz; rant; rage; shitpost; offtopic;
