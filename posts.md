@@ -6,8 +6,324 @@
 * x
 ###### content
 * x
+---
 ___
 -->
+###### 6) [x](#)
+* from: *
+* x
+###### content
+* x
+---
+___
+
+###### 6) [Október 16., 2:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/638653107017048/)
+* from: *
+* x
+###### content
+* Hű, gyerekek, azért pörgettek egyet a tempón!  16-án megkapom, hogy 26-án start ...
+___
+
+###### 6) [Október 15., 22:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638528027029556/)
+* from: *
+* x
+###### content
+* #várólistások Azt gondolnám, hogy a várólistán lévőkkel is mielőbb el kellene kezdeni valakinek a kommunikációt... az adategyeztetést az iskolák csinálják már. Kinek írjak...
+___
+
+###### 6) [Október 15., 22:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/638526457029713/)
+* from: *
+* x
+###### content
+* Mihály kérdezi Hajdúsámsonból
+___
+
+###### 6) [Október 15., 22:14](#)
+* from: *
+* x
+###### content
+* A PROGmasters is megküldte az adategyeztető e-mailt. A határidő 2020.10.17. szombat 23:59.
+___
+
+###### 6) [Október 15., 21:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/638496657032693/)
+* from: *
+* x
+###### content
+* Holnap délig adategyeztetés meg stb... 26-án kezdés! Mi ez a kapkodás? Április 07-től ráért minden...
+___
+
+###### 6) [Október 15., 21:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638495450366147/)
+* from: *
+* x
+###### content
+* Training360 - Rendszerüzemeltető - Adategyeztetés
+* Határidő: 2020.10.16. péntek, 12:00 óra Figyeljetek mert nagyon rövid a határidő
+___
+
+###### 6) [Október 15., 21:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/638489570366735/)
+* from: *
+* x
+###### content
+* ... a gftol vagy a trainingtol kapott vmi adategyeztetos emailt, amit holnapig le kell adni... kapott-e ilyet a progmasterstol??
+___
+
+###### 6) [Október 15., 21:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/638482483700777/)
+* from: *
+* x
+###### content
+* Nagy köszönet azoknak az embereknek akik már programozók és mégis indultak ezen a MUNKANÉLKÜLIEKNEK meghirdetett...
+___
+
+###### 6) [Október 15., 21:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/638477327034626/)
+* from: *
+* x
+###### content
+* Ha valaki tud valami konkrétabbat erről, az írja le kommentben! Határozottan jobban járnék egy ilyen képzéssel, mint az újratervezéssel...
+___
+
+###### 6) [Október 15., 21:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/638472330368459/)
+* from: *
+* x
+###### content
+* Szinte mindenki aggódik, hogy vajon el fogja-e tudni végezni...
+___
+
+###### 6) [Október 15., 21:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638469843702041/)
+* from: *
+* x
+###### content
+* Nem is jelentkeztem sehova... lol... 😆
+___
+
+###### 6) [Október 15., 20:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638464287035930/)
+* from: *
+* x
+###### content
+* Mindenkinek GRATULÁLOK, aki bekerült. Én nem adtam le sorrendet, de e-mailt én is kaptam elvben jövőre megint lesz lehetőségem. ... néha írjatok a csopiba, hogy milyen az oktatás milyen lesz/volt a vizsga... lehet jövőre megpróbálom....
+___
+
+###### 6) [Október 15., 20:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/638454413703584/)
+* from: *
+* x
+###### content
+* Mindenkinek sok sikert, akit felvettek, kívánom találjátok meg a számításotokat a programban! Engedelmetekkel itt maradok egy darabig még, sok értelmes, jófej emberrel megismerkedtem itt, már amennyire e keretek között ez lehetséges, hiszem, hogy tudjuk majd oda-vissza segíteni egymást!
+___
+
+###### 6) [Október 15., 20:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/638451063703919/)
+* from: *
+* x
+###### content
+* Training360-nál ha csak 5 után érek rá megnézni a konzultációról készült felvételt,  mindig. Akkor az hiányzásnak minősül?
+___
+
+###### 6) [Október 15., 20:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638443007038058/)
+* from: *
+* x
+###### content
+* Greenfox podcast a SoundCloud-on. Hogyan zajlik majd az Újratervező egy napja.
+___
+
+###### 6) [Október 15., 20:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638438260371866/)
+* from: *
+* x
+###### content
+* Csak nekem nem volt tiszta a rangsoroláskor, hogy az iskolákat fogják először végig futtatni, és aztán a képzéseket...
+___
+
+###### 6) [Október 15., 20:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/638438203705205/)
+* from: *
+* x
+###### content
+* Megjött a levél a Green Fox-tól.
+___
+
+###### 6) [Október 15., 19:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/638426280373064/)
+* from: *
+* x
+###### content
+* Gratulálok annak aki bejutott... Tudjátok miért hiányzik a munkaerő piacról 22e informatikus? Mert mindenhol zseniket várnak... a család tartalékaiból megcsinálja ezt a tanfolyamot és utána kapkodni fognak utána azt el kell keserítsem...
+___
+
+###### 6) [Október 15., 19:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638424183706607/)
+* from: *
+* x
+###### content
+* Sikertelen. 70%. De ha sokan visszamondják október 31-ig még van esélyem. Vagy jövőre de annyit tuti nem várok
+___
+
+###### 6) [Október 15., 19:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/638419297040429/)
+* from: *
+* x
+###### content
+* Van akit felvettek 80% alatt?
+___
+
+###### 6) [Október 15., 19:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/638417213707304/)
+* from: *
+* x
+###### content
+* Ez szánalmas srácok. Nem jelentkeztem egyik helyre sem erre jön a sablon levél, hogy: "Sikertelen felvétel...
+___
+
+###### 6) [Október 15., 19:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/638403167042042/)
+* from: *
+* x
+###### content
+* No fiatalok, én ezt az újratervezést újraterveztem. Se időm, sem energiám folytatni ezt. Ki és lelépek, mindenkinek sok sikert kívánok! Én majd folytatom máshol/máshogy/máskor.
+___
+
+###### 6) [Október 15., 19:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/638398057042553/)
+* from: *
+* x
+###### content
+* Szerencsére van hitel amiből meg tudom venni...
+___
+
+###### 6) [Október 15., 19:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/638397230375969/)
+* from: *
+* x
+###### content
+* Most, hogy felvettek valahová, mitévő leszel?
+___
+
+###### 6) [Október 15., 17:56](#)
+* from: *
+* x
+###### content
+* én rákérdeztem hogy választják ki az embereket pontosabban, hány körös... A rangsorban történő haladás a tanuló által felállított preferenciáknak megfelelően történik... leadott sorrend véglegesnek tekinthető
+* Amennyiben Ön értesítést kapott, hogy felvételt nyert, akkor ezt tekinthető a folyamat végeredményének. Az Ön által elnyert képzés eredményeként kikerül a rangsoról, amelyben már csak azon tanulók vannak, akik felvételre várnak az általuk meghatározott preferenciák alapján...
+___
+
+###### 6) [Október 15., 17:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638351347047224/)
+* from: *
+* x
+###### content
+* Volt olyan, akit 79% alatt Java képzésre vettek fel valamelyik suliba?
+___
+
+###### 6) [Október 15., 17:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/638349847047374/)
+* from: *
+* x
+###### content
+* Szerk.: 2. kör: "Gratulálunk, visszalépés miatt sikeres felvételt nyertél... Training360 képzőnél, Junior rendszerüzemeltető programra" (77.2% Uzemelteto/Java es Training360/PROGmasters; a képet vagy a csoportból, vagy a prohardverről mentettem)
+* Sajnálattal közöljük, hogy eredményed alapján most nem kerültél be...
+___
+
+###### 6) [Október 15., 17:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/638349610380731/)
+* from: *
+* x
+###### content
+* Megjött a következő email a képzőhelytől. Holnap délig van határidő adategyeztetésre... "Határidő: 2020.10.16. péntek, 12:00 óra
+___
+
+###### 6) [Október 15., 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638330920382600/)
+* from: *
+* x
+###### content
+* akik nem kapnak emailt,vajon az idők végzetéig várnak...
+___
+
+###### 6) [Október 15., 17:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/638327883716237/)
+* from: *
+* x
+###### content
+* Gratulálok mindenkinek, akit felvettek. Szívből kívánom, hogy sikerüljön minden úgy, ahogy elterveztétek!
+___
+
+###### 6) [Október 15., 16:49](#)
+* from: *
+* x
+###### content
+* Még egyszer a prooktatas-ról... Véletlenül találtam rá az oldalra...
+* https://www.prooktatas.hu/online-tanfolyamok.php
+___
+
+###### 6) [Október 15., 16:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/638293537053005/)
+* from: *
+* x
+###### content
+* Ezt találtam linkedinen... NEMRÉG VÁGTÁL BELE A WEBFEJLESZTÉSBE... HTTPS://LNKD.IN/DUQMPY8 #WEBDEVELOPER
+* ide mutat a link: https://career.blackbelt.hu/o/web-developer-budapest
+___
+
+###### 6) [Október 15., 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/638291630386529/)
+* from: *
+* x
+###### content
+* Privát csoportot... rendszerüzemeltető képzésre... igazolni kell...
+* https://www.facebook.com/groups/rendszeruzemelteto
+___
+
+###### 6) [Október 15., 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/638183133730712/)
+* from: *
+* x
+###### content
+* Kaptam mailt, hogy felvettek a az altalam jelolt harmadik helyre...Na most ha sokan nem vallaljak mondjuk azt amire en akartam menni, akkor meg van lehetosegem be kerulni masik szakiranyra vagy csak erre iratkozhatok be?
+___
+
+###### 6) [Október 15., 13:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/638170327065326/)
+* from: *
+* x
+###### content
+* Mindenki kapott ilyen felvételt nyert e-mail-t?
+___
+
+###### 6) [Október 15., 13:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638167177065641/)
+* from: *
+* x
+###### content
+* Hová vettek fel?
+___
+
+###### 6) [Október 15., 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638159120399780/)
+* from: *
+* x
+###### content
+* Megjött a mail hogy felvételt nyertem az első helyen megjelölt képzésre. A levélt teljes tartalma a következő...
+___
+
+###### 6) [Október 15., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638125410403151/)
+* from: *
+* x
+###### content
+* 1\B melléklet kitöltésében szeretném azok segítségét kérni, akik már kitöltették és aláíratták a munkáltatójukkal a doksit. Pm-ben várom a jelentkezőket. :~)
+___
+
+###### 6) [Október 15., 11:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/638122977070061/)
+* from: *
+* x
+###### content
+* sziasztok , járt e valaki úgy, hogy sikeresen megcsinálta a kompetencia tesztet esetemben 75% de 0% volt az oklevélen?...
+___
+
+###### 6) [Október 15., 11:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/638118467070512/)
+* from: *
+* x
+###### content
+* Ezt még nem láttam itt, csak hozzászólásban beszéltek róla, hátha valakinek hasznos ez az összefoglaló. Link módosítva, elvileg most már jó.🙂
+* https://progmasters.hu/.../GYIK-v2.2-a%CC%81llami-ke%CC...
+___
+
+###### 6) [Október 15., 9:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/638053967076962/)
+* from: *
+* x
+###### content
+* Hogyan történhet az adatok feldolgozása? A - a profik: A japánok készségesen átengedik legnagyobb szuperszámítógépüket egy napra
+___
+
+###### 6) [Október 15., 8:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/638030993745926/)
+* from: *
+* x
+###### content
+* Már az informatikai szakgimnáziumokban is beindulhat a tanártoborzás: "Kedves tanulók! Aki tanítás után vállalna munkát felnőttképzésben...
+___
+
+###### 6) [Október 15., 8:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638012823747743/)
+* from: *
+* x
+###### content
+* A jelentkezőket szeretném megkérdezni:
+___
 
 ###### 6) [Október 15., 0:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/637782913770734/)
 * from: *
