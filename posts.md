@@ -9,12 +9,166 @@
 ---
 ___
 -->
-###### 6) [x](#)
+###### 6) [2020-10-20, 4:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/641908956691463/)
 * from: *
 * x
 ###### content
+* Na, végignéztem ma az egyik nyílt napot, érdekes volt... MIkor  sokadjára tették fel ugyanazt a kérdés, konkrétan kikapcsoltam a kamerát, és kb kaparni kezdtem az arcomat... Vannak fórumok, ahol ezt ki lehet tárgyalni, sőt ki is kell, de ez nem az volt... VÉgeredmény: A dolgot vállalhatónak tartom...
+___
+
+###### 6) [Október 19., 23:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/641769926705366/)
+* from: *
 * x
----
+###### content
+* Most szabadult fel egy codecool frontend.. lehet izgulni az érintetteknek.
+___
+
+###### 6) [Október 19., 21:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/641717626710596/)
+* from: *
+* x
+###### content
+* Frontendes kérdésem lenne olyasvalakihez, aki már jártasabb benne. Aki szívesen válaszolna pár kérdésre dobjon nekem egy privát üzenetet. Köszönöm.
+___
+
+###### 6) [Tegnap, 20:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/641669450048747/)
+* from: *
+* x
+###### content
+* Járt valaki úgy (mint én), hogy most új gépet kell vennie... jelenlegi nem felel meg a szerződésben előírt kívánatosnak? ((minimum Core i5 vagy ennek megfelelő AMD processzor, minimum 8 GB RAM és legalább 40 GB szabad tárhely), Microsoft Windows 10 esetleg 4 Linux operációs rendszer, javasolt webkamera).
+___
+
+###### 6) [Tegnap, 20:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/641660430049649/)
+* from: *
+* x
+###### content
+* Van itt olyan, akit Python ML-AI érdekel és ilyen csoportot szervez?
+___
+
+###### 6) [Tegnap, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/641658750049817/)
+* from: *
+* x
+###### content
+* Csak a legalapabb dolgok, röviden. xD
+* youtube: [Full Stack Developer Roadmap](https://www.youtube.com/watch?v=BEoFSRdkSZQ)
+___
+
+###### 6) [Tegnap, 19:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/641643730051319/)
+* from: *
+* x
+###### content
+* Pár nappal ezelőtt láttam, hogy valaki Discordon csinált egy szervert azoknak, akik nem tudták vállalni a szakirányú képzést. Tudna valaki küldeni egy meghívót?...
+___
+
+###### 6) [Tegnap, 18:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/641599270055765/)
+* from: *
+* x
+###### content
+* ... híres-hírhedt 1/B melléklettel kapcsolatban:  Minden csip-csup munkaviszony... Formaság, de szükséges nekik az elszámoláshoz. Az 1/A mellékelet nem kell semmilyen esetben sem....
+___
+
+###### 6) [Tegnap, 18:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/641596343389391/)
+* from: *
+* x
+###### content
+* Segítség! 😬Felvettek Greenfox frontendre! Nem kell valakinek három gyerkőc??... mit lehet eddig tudni a napirendről?...
+___
+
+###### 6) [Tegnap, 18:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/641594110056281/)
+* from: *
+* x
+###### content
+* Most kaptam emailt, hogy felvettek, a levelet  PROMÓCIÓK közé tette, ha esetleg valaki még várja a felvételitx
+___
+
+###### 6) [Tegnap, 18:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/641581183390907/)
+* from: *
+* x
+###### content
+* Tudja valaki, hogy a Green Foxba mikor van beiratkozás?
+___
+
+###### 6) [Tegnap, 18:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/641576610058031/)
+* from: *
+* x
+###### content
+* Szerintetek, ha az oktatás kezdetén még nincs állásom, de később lesz részmunkaidős, akkor utólag is alá kell majd iratni ezt a papírt, amit kérnek?
+___
+
+###### 6) [Tegnap, 17:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/641572833391742/)
+* from: *
+* x
+###### content
+* Megnéztem a Tesztelő tematikát/óraszámot és gyászos. Most rendesen meginogtam...
+___
+
+###### 6) [Tegnap, 17:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/641572310058461/)
+* from: *
+* x
+###### content
+* Ma 19:00-től online ... hátha valakit érdekel!
+___
+
+###### 6) [Tegnap, 17:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/641566770059015/)
+* from: *
+* x
+###### content
+* Nos...elkezdődött a második kör. Nekem írt a tr360, hogy mehetnék junior frontend-re visszalépés miatt...
+___
+
+###### 6) [Tegnap, 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/641553700060322/)
+* from: *
+* x
+###### content
+* #nyilatkozat Sziasztok! Most beszéltem a munkáltatómmal és nem igazán egyértelmű számára és számomra sem hogy mégis nekik melyik részét kellene kitölteni és honnan tudják az információkat hozza. Hívtam volna a t360ot...
+___
+
+###### 6) [Tegnap, 15:44](#)
+* from: *
+* x
+###### content
+* sziasztok, frontendre lettem felvéve de igencsak elbizonytalanodtam... ezért kérnék segítséget bele látni hogy milyen egy junior fejlesztő munkája...
+___
+
+###### 6) [Tegnap, 14:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/641425713406454/)
+* from: *
+* x
+###### content
+* ... Training 360 Kft időbosztásával kapcsolatban... a felvett alkalmak megtekintése kötelező. A 20% hiányzást (128 órát) egyúttal az online e-learning tartalom feldolgozásából és az online felvett alkalmak megtekintéséből számoljuk... Ti hogyan értelmezitek?...
+___
+
+###### 6) [Tegnap, 13:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/641409663408059/)
+* from: *
+* x
+###### content
+* Szerintetek a rendszerüzemeltető képzés ér valamit?
+___
+
+###### 6) [Tegnap, 12:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/641367310078961/)
+* from: *
+* x
+###### content
+* A Codecademynél lehetőség van 3 hónapos INGYENES Pro tagságra Valamint október 20-tól...
+___
+
+###### 6) [Tegnap, 12:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/641360453412980/)
+* from: *
+* x
+###### content
+* Elmondom, hogy kellett volna csinálni a programot: csak regisztrált munkanélküliek vehetnek rajta részt és minden résztvevő kap a képzés idejére havi 100 rugót, amit vissza kell fizetni, ha nem sikerül elvégezni a képzést...
+___
+
+###### 6) [Tegnap, 11:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/641345656747793/)
+* from: *
+* x
+###### content
+* Codecool Javasoknak ma 16:00-kor zoom meeting! Emailben a link!
+___
+
+###### 6) [Tegnap, 8:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/641263976755961/)
+* from: *
+* x
+###### content
+* Akinek a munkaltatoja kitoltotte mar a nyilatkozatot az legyen kedves írjon mar nekem egy pm-et!
 ___
 
 ###### 6) [Tegnap, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/641231223425903/)
