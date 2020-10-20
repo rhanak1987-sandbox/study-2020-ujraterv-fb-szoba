@@ -16,35 +16,35 @@ ___
 * Na, végignéztem ma az egyik nyílt napot, érdekes volt... MIkor  sokadjára tették fel ugyanazt a kérdés, konkrétan kikapcsoltam a kamerát, és kb kaparni kezdtem az arcomat... Vannak fórumok, ahol ezt ki lehet tárgyalni, sőt ki is kell, de ez nem az volt... VÉgeredmény: A dolgot vállalhatónak tartom...
 ___
 
-###### 6) [Október 19., 23:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/641769926705366/)
+###### 6) [2020-10-19, 23:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/641769926705366/)
 * from: *
 * x
 ###### content
 * Most szabadult fel egy codecool frontend.. lehet izgulni az érintetteknek.
 ___
 
-###### 6) [Október 19., 21:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/641717626710596/)
+###### 6) [2020-10-19, 21:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/641717626710596/)
 * from: *
 * x
 ###### content
 * Frontendes kérdésem lenne olyasvalakihez, aki már jártasabb benne. Aki szívesen válaszolna pár kérdésre dobjon nekem egy privát üzenetet. Köszönöm.
 ___
 
-###### 6) [Tegnap, 20:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/641669450048747/)
+###### 6) [2020-10-19, 20:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/641669450048747/)
 * from: *
 * x
 ###### content
 * Járt valaki úgy (mint én), hogy most új gépet kell vennie... jelenlegi nem felel meg a szerződésben előírt kívánatosnak? ((minimum Core i5 vagy ennek megfelelő AMD processzor, minimum 8 GB RAM és legalább 40 GB szabad tárhely), Microsoft Windows 10 esetleg 4 Linux operációs rendszer, javasolt webkamera).
 ___
 
-###### 6) [Tegnap, 20:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/641660430049649/)
+###### 6) [2020-10-19, 20:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/641660430049649/)
 * from: *
 * x
 ###### content
 * Van itt olyan, akit Python ML-AI érdekel és ilyen csoportot szervez?
 ___
 
-###### 6) [Tegnap, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/641658750049817/)
+###### 6) [2020-10-19, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/641658750049817/)
 * from: *
 * x
 ###### content
@@ -52,175 +52,175 @@ ___
 * youtube: [Full Stack Developer Roadmap](https://www.youtube.com/watch?v=BEoFSRdkSZQ)
 ___
 
-###### 6) [Tegnap, 19:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/641643730051319/)
+###### 6) [2020-10-19, 19:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/641643730051319/)
 * from: *
 * x
 ###### content
 * Pár nappal ezelőtt láttam, hogy valaki Discordon csinált egy szervert azoknak, akik nem tudták vállalni a szakirányú képzést. Tudna valaki küldeni egy meghívót?...
 ___
 
-###### 6) [Tegnap, 18:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/641599270055765/)
+###### 6) [2020-10-19, 18:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/641599270055765/)
 * from: *
 * x
 ###### content
 * ... híres-hírhedt 1/B melléklettel kapcsolatban:  Minden csip-csup munkaviszony... Formaság, de szükséges nekik az elszámoláshoz. Az 1/A mellékelet nem kell semmilyen esetben sem....
 ___
 
-###### 6) [Tegnap, 18:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/641596343389391/)
+###### 6) [2020-10-19, 18:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/641596343389391/)
 * from: *
 * x
 ###### content
 * Segítség! 😬Felvettek Greenfox frontendre! Nem kell valakinek három gyerkőc??... mit lehet eddig tudni a napirendről?...
 ___
 
-###### 6) [Tegnap, 18:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/641594110056281/)
+###### 6) [2020-10-19, 18:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/641594110056281/)
 * from: *
 * x
 ###### content
 * Most kaptam emailt, hogy felvettek, a levelet  PROMÓCIÓK közé tette, ha esetleg valaki még várja a felvételitx
 ___
 
-###### 6) [Tegnap, 18:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/641581183390907/)
+###### 6) [2020-10-19, 18:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/641581183390907/)
 * from: *
 * x
 ###### content
 * Tudja valaki, hogy a Green Foxba mikor van beiratkozás?
 ___
 
-###### 6) [Tegnap, 18:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/641576610058031/)
+###### 6) [2020-10-19, 18:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/641576610058031/)
 * from: *
 * x
 ###### content
 * Szerintetek, ha az oktatás kezdetén még nincs állásom, de később lesz részmunkaidős, akkor utólag is alá kell majd iratni ezt a papírt, amit kérnek?
 ___
 
-###### 6) [Tegnap, 17:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/641572833391742/)
+###### 6) [2020-10-19, 17:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/641572833391742/)
 * from: *
 * x
 ###### content
 * Megnéztem a Tesztelő tematikát/óraszámot és gyászos. Most rendesen meginogtam...
 ___
 
-###### 6) [Tegnap, 17:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/641572310058461/)
+###### 6) [2020-10-19, 17:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/641572310058461/)
 * from: *
 * x
 ###### content
 * Ma 19:00-től online ... hátha valakit érdekel!
 ___
 
-###### 6) [Tegnap, 17:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/641566770059015/)
+###### 6) [2020-10-19, 17:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/641566770059015/)
 * from: *
 * x
 ###### content
 * Nos...elkezdődött a második kör. Nekem írt a tr360, hogy mehetnék junior frontend-re visszalépés miatt...
 ___
 
-###### 6) [Tegnap, 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/641553700060322/)
+###### 6) [2020-10-19, 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/641553700060322/)
 * from: *
 * x
 ###### content
 * #nyilatkozat Sziasztok! Most beszéltem a munkáltatómmal és nem igazán egyértelmű számára és számomra sem hogy mégis nekik melyik részét kellene kitölteni és honnan tudják az információkat hozza. Hívtam volna a t360ot...
 ___
 
-###### 6) [Tegnap, 15:44](#)
+###### 6) [2020-10-19, 15:44](#)
 * from: *
 * x
 ###### content
 * sziasztok, frontendre lettem felvéve de igencsak elbizonytalanodtam... ezért kérnék segítséget bele látni hogy milyen egy junior fejlesztő munkája...
 ___
 
-###### 6) [Tegnap, 14:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/641425713406454/)
+###### 6) [2020-10-19, 14:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/641425713406454/)
 * from: *
 * x
 ###### content
 * ... Training 360 Kft időbosztásával kapcsolatban... a felvett alkalmak megtekintése kötelező. A 20% hiányzást (128 órát) egyúttal az online e-learning tartalom feldolgozásából és az online felvett alkalmak megtekintéséből számoljuk... Ti hogyan értelmezitek?...
 ___
 
-###### 6) [Tegnap, 13:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/641409663408059/)
+###### 6) [2020-10-19, 13:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/641409663408059/)
 * from: *
 * x
 ###### content
 * Szerintetek a rendszerüzemeltető képzés ér valamit?
 ___
 
-###### 6) [Tegnap, 12:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/641367310078961/)
+###### 6) [2020-10-19, 12:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/641367310078961/)
 * from: *
 * x
 ###### content
 * A Codecademynél lehetőség van 3 hónapos INGYENES Pro tagságra Valamint október 20-tól...
 ___
 
-###### 6) [Tegnap, 12:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/641360453412980/)
+###### 6) [2020-10-19, 12:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/641360453412980/)
 * from: *
 * x
 ###### content
 * Elmondom, hogy kellett volna csinálni a programot: csak regisztrált munkanélküliek vehetnek rajta részt és minden résztvevő kap a képzés idejére havi 100 rugót, amit vissza kell fizetni, ha nem sikerül elvégezni a képzést...
 ___
 
-###### 6) [Tegnap, 11:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/641345656747793/)
+###### 6) [2020-10-19, 11:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/641345656747793/)
 * from: *
 * x
 ###### content
 * Codecool Javasoknak ma 16:00-kor zoom meeting! Emailben a link!
 ___
 
-###### 6) [Tegnap, 8:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/641263976755961/)
+###### 6) [2020-10-19, 8:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/641263976755961/)
 * from: *
 * x
 ###### content
 * Akinek a munkaltatoja kitoltotte mar a nyilatkozatot az legyen kedves írjon mar nekem egy pm-et!
 ___
 
-###### 6) [Tegnap, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/641231223425903/)
+###### 6) [2020-10-19, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/641231223425903/)
 * from: *
 * x
 ###### content
 * https://www.youtube.com/watch?v=pKO9UjSeLew
 ___
 
-###### 6) [Október 18., 22:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/640945943454431/)
+###### 6) [2020-10-18, 22:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/640945943454431/)
 * from: *
 * x
 ###### content
 * img
 ___
 
-###### 6) [Október 18., 21:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/640900390125653/)
+###### 6) [2020-10-18, 21:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/640900390125653/)
 * from: *
 * x
 ###### content
 * ... A kérdés az, hogy hányan érdeklődnek komolyabban a téma iránt, de nem kerültek be sehova? Nem Messenger/Facebook platform kéne neki szerintem, hanem valami normálisabb. Szóval ötletelésre fel! Csináljunk valami értelmeset és hasznosat, ingyenből...
 ___
 
-###### 6) [Október 18., 20:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/640863576796001/)
+###### 6) [2020-10-18, 20:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/640863576796001/)
 * from: *
 * x
 ###### content
 * HÁZIFELADAT Onepage kérdőív készítése...
 ___
 
-###### 6) [Október 18., 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/640824383466587/)
+###### 6) [2020-10-18, 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/640824383466587/)
 * from: *
 * x
 ###### content
 * HÁZIFELADAT Némó nyomában. Készítsünk funkciót, ami a bevitt mondatban megmondja, hogy hányadik szó a Némó...
 ___
 
-###### 6) [Október 18., 19:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/640796750136017/)
+###### 6) [2020-10-18, 19:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/640796750136017/)
 * from: *
 * x
 ###### content
 * HÁZIFELADAT Írj egy funkciót, ami objektumokat alakít tömbbé!...
 ___
 
-###### 6) [Október 18., 18:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/640775813471444/)
+###### 6) [2020-10-18, 18:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/640775813471444/)
 * from: *
 * x
 ###### content
 * sziasztok! milyen felületet tudtok ajánlani, ahova a felhasznált képeket fel lehet könnyen tölteni, amíg még nincs saját szerver? egy videón láttam, hogy github-ra töltötték fel, de nem jöttem rá, hogy lehet. köszi!
 ___
 
-###### 6) [Október 18., 17:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640725740143118/)
+###### 6) [2020-10-18, 17:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640725740143118/)
 * from: Adminisztrátor [RE: Október 6., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
 * x
 ###### content
@@ -228,126 +228,126 @@ ___
 * Aki szeretne jönni Facebook Messenger csoportba az írjon privárot. Úgy is mindig akartatok egy zárt kommunikációs csatornát.
 ___
 
-###### 6) [Október 18., 13:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/640587786823580/)
+###### 6) [2020-10-18, 13:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/640587786823580/)
 * from: *
 * x
 ###### content
 * JavaScript Hungary - #JavaScript programnyelvvel foglalkozó csoport. Jöhetnek hírek, Tutorialok, Feladatok, Kérdések, bármi ami JavaScript
 ___
 
-###### 6) [Október 18., 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583866823972/)
+###### 6) [2020-10-18, 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583866823972/)
 * from: *
 * x
 ###### content
 * Live Coding : Node.js & Adatbáziskezelés #Javascript #Node.js #MongoDB #redis #live
 ___
 
-###### 6) [Október 18., 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583830157309/)
+###### 6) [2020-10-18, 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583830157309/)
 * from: *
 * x
 ###### content
 * Akiket a tesztelés érdekel, azoknak ez segítséget nyújthat a tanulmányaik során. #tesztelő
 ___
 
-###### 6) [Október 18., 8:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/640418083507217/)
+###### 6) [2020-10-18, 8:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/640418083507217/)
 * from: *
 * x
 ###### content
 * tapasztalatot osztok meg  3db államilag támogatott képzésről... 1. A. Amit mindenkinek javaslok:mielőtt aláír,értelmeztesse a szerződést jogásszal... 2. A vizsgákban :tudtak oylat csinálni mind3szor,amire nem lehet felkészülni...
 ___
 
-###### 6) [Október 17., 23:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/640157773533248/#)
+###### 6) [2020-10-17, 23:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/640157773533248/#)
 * from: *
 * x
 ###### content
 * Írtam e-mailt a training360nak... a munkáltató által kitöltve akkor nem vehetek részt...
 ___
 
-###### 6) [Október 17., 22:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640125700203122/)
+###### 6) [2020-10-17, 22:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640125700203122/)
 * from: *
 * x
 ###### content
 * Akik tovább mennek!!!!, azoknak újabb gyűjtőposzt.... KI HOVÁ VALÓSI? (személyes szerződéskötés miatt-> pesti úttal kapcsolatosan)...
 ___
 
-###### 6) [Október 17., 22:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/640118270203865/)
+###### 6) [2020-10-17, 22:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/640118270203865/)
 * from: *
 * x
 ###### content
 * Második kor megkezdődött!
 ___
 
-###### 6) [Október 17., 22:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/640116040204088/)
+###### 6) [2020-10-17, 22:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/640116040204088/)
 * from: *
 * x
 ###### content
 * Aki esetleg frontend udemy-s kurzusokon gondolkodik (mind angol nyelvű), én ezeket tudom ajánlani.
 ___
 
-###### 6) [Október 17., 18:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/639996170216075/)
+###### 6) [2020-10-17, 18:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/639996170216075/)
 * from: *
 * x
 ###### content
 * Felszabadult meg 1 hely valaki szamara 😥. Sok sikert mindenkinek
 ___
 
-###### 6) [Október 17., 17:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/639943680221324/)
+###### 6) [2020-10-17, 17:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/639943680221324/)
 * from: *
 * x
 ###### content
 * ... Hol tudom megnézni az 1/a és 1/b mellékletet...
 ___
 
-###### 6) [Október 17., 17:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/639942813554744/)
+###### 6) [2020-10-17, 17:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/639942813554744/)
 * from: *
 * x
 ###### content
 * ... Kicsit próbálok elmélyülni a a html5 szabványban. Van egy "új" spellcheck attributum... Hogy lehetne megoldani, hogy a HTML oldalam mind a két nyelven(Angol, Magyar) tudjon helyesírást ellenőrizni?
 ___
 
-###### 6) [Október 17., 16:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639929940222698/)
+###### 6) [2020-10-17, 16:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639929940222698/)
 * from: *
 * x
 ###### content
 * Valaki tudja hogy kell kitölteni az 1a 1b nyomtatványt egyántalán értitek mi ez? 😂
 ___
 
-###### 6) [Október 17., 16:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/639910243558001/)
+###### 6) [2020-10-17, 16:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/639910243558001/)
 * from: *
 * x
 ###### content
 * Sok sikert kívánok mindenkinek, bármilyen úton halad is tovább! Én itt folytatom: Szeretnél játszva kódolni tanulni...
 ___
 
-###### 6) [Október 17., 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/639910123558013/)
+###### 6) [2020-10-17, 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/639910123558013/)
 * from: *
 * x
 ###### content
 * Talán hasznos ötlet lehet nem Budapesten élőknek (szebben mondva: vidékieknek)... lehetne kérni valamilyen igazolás az adott sulitól. Elképzelhető, hogy ez alapján válthatnánk kedvezményes (-50%) jegyet. Mellékelve a kedvezmény jogalapja. Mi a véleményetek?
 ___
 
-###### 6) [Október 17., 15:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/639885790227113/)
+###### 6) [2020-10-17, 15:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/639885790227113/)
 * from: *
 * x
 ###### content
 * Éppen megírtam 140 karakterben, hogy MENTOR leszek 😅😝😂, így kapok fizetést, tanulok is és még jót is szórakozom majd... kell ennél több? (Ráadásul mindezt 2,5 milla viszfiz. nélkül)
 ___
 
-###### 6) [Október 17., 14:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639849923564033/)
+###### 6) [2020-10-17, 14:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639849923564033/)
 * from: *
 * x
 ###### content
 * Btw., tudja valaki, hogy az új szakképzési rendszer szerint mikor fogják meghirdetni a képzőhelyek a képzéseiket? Mármint arra gondolok, ami az OKJ helyébe lép...
 ___
 
-###### 6) [Október 17., 14:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/639849126897446/)
+###### 6) [2020-10-17, 14:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/639849126897446/)
 * from: *
 * x
 ###### content
 * Nem hagynak békén! 😂 Pedig már írtam nekik tegnap, hogy másnak átadom a helyem!
 ___
 
-###### 6) [Október 17., 14:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/639846786897680/)
+###### 6) [2020-10-17, 14:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/639846786897680/)
 * from: *
 * x
 ###### content
@@ -355,28 +355,28 @@ ___
 * https://www.youtube.com/watch?v=nu5mdN2JIwM
 ___
 
-###### 6) [Október 17., 12:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/639767573572268/)
+###### 6) [2020-10-17, 12:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/639767573572268/)
 * from: *
 * x
 ###### content
 * ... felvettek, de nem arra, amit elsőnek megjelöltem (CC frontend), hanem CC tesztelőnek...
 ___
 
-###### 6) [Október 17., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639747696907589/)
+###### 6) [2020-10-17, 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639747696907589/)
 * from: *
 * x
 ###### content
 * ... akik nem jutottak tovább, de szeretnének tanulni vagy meggondolták magukat... Masterfield Oktatóközpont két novemberben induló karrierváltó képzését...
 ___
 
-###### 6) [Október 17., 11:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/639746226907736/)
+###### 6) [2020-10-17, 11:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/639746226907736/)
 * from: *
 * x
 ###### content
 * Újratervezés Főhadiszállás Szóvivői Iroda Mivel kevés az időnk, és lassan már csak komoly dogokkal fogunk foglalkozni. Kérdezhettek az Újratervezés  Főhadiszállásának szóvivőétől Palikától, ha vannak kérdéseitek holnap nyújt nektek tájékoztatást.
 ___
 
-###### 6) [Október 17., 10:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/639699823579043/)
+###### 6) [2020-10-17, 10:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/639699823579043/)
 * from: *
 * x
 ###### content
@@ -384,28 +384,28 @@ ___
 * Az induló 64 ezer emberből így eljutottam első körben az 1000 fő közé... Talán sokan vagyunk így ezzel, hogy munka mellett bevállalnák, de az időbeosztás és rugalmatlanság miatt ez lehetetlen.
 ___
 
-###### 6) [Október 17., 9:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/639690596913299/)
+###### 6) [2020-10-17, 9:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/639690596913299/)
 * from: *
 * x
 ###### content
 * ... jelenleg munkahellyel  rendelkezem szóló kitöltött nyilatkozatot . Hol lehet valahol meg találni vagy hol vagy milyen néven találom meg az interneten? 
 ___
 
-###### 6) [Október 17., 9:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/639686836913675/)
+###### 6) [2020-10-17, 9:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/639686836913675/)
 * from: *
 * x
 ###### content
 * Kíváncsi lennék olyan statisztikára, ahol a képzést nyert "diákok" nem vállalták a tanfolyamot!
 ___
 
-###### 6) [Október 17., 9:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/639684823580543/)
+###### 6) [2020-10-17, 9:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/639684823580543/)
 * from: *
 * x
 ###### content
 * Sziasztok.Ezt ma kaptam.Ha valakit èrdekelne .Èn ennyire nem vagyok profi
 ___
 
-###### 6) [Október 17., 8:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/639636383585387/)
+###### 6) [2020-10-17, 8:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/639636383585387/)
 * from: *
 * x
 ###### content
@@ -413,28 +413,28 @@ ___
 * 2020. okt. 15.-i levélből... nem kerültél be... Érdekes változás állt be, igaz, hogy nem adtam le a jelentkezésemet...
 ___
 
-###### 6) [Október 17., 6:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/639564430259249/)
+###### 6) [2020-10-17, 6:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/639564430259249/)
 * from: Adminisztrátor
 * x
 ###### content
 * Még pár nap és a csoport webfejlesztés szakmai csoportá alakul. Ennek megfelelően tegyétek fel posztokat, kérdéseket
 ___
 
-###### 6) [Október 17., 0:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/639396206942738/)
+###### 6) [2020-10-17, 0:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/639396206942738/)
 * from: *
 * x
 ###### content
 * ... Szerintem tegyük mostmár túl magunkat ezen a igazságos, logikus, megfelelően árazott-e kérdéseken... Akinek sikerült bekerülnie, nekik aljas dolog elvenni a kedvét a tanulástól.
 ___
 
-###### 6) [Október 17., 0:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639381443610881/)
+###### 6) [2020-10-17, 0:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639381443610881/)
 * from: *
 * x
 ###### content
 * szóval ha jól értelmezem a dolgokat akkor én ezt a képzést heti 5 nap 8óra munka mellett nem fogom tudni elvégezni?... munkanélkülieknek és akik pályát szeretnének módositani meló mellett...
 ___
 
-###### 6) [Október 16., 23:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639371110278581/)
+###### 6) [2020-10-16, 23:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639371110278581/)
 * from: *
 * x
 ###### content
@@ -442,7 +442,7 @@ ___
 * https://www.youtube.com/watch?v=2l6m9uSX9cQ
 ___
 
-###### 6) [Október 16., 23:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639369270278765/)
+###### 6) [2020-10-16, 23:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639369270278765/)
 * from: *
 * x
 ###### content
@@ -450,42 +450,42 @@ ___
 * ... akkor is "csak" 500.000 Ft az az FélMillió forint körül lenne a képzés...
 ___
 
-###### 6) [Október 16., 23:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/639359376946421/)
+###### 6) [2020-10-16, 23:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/639359376946421/)
 * from: *
 * x
 ###### content
 * Más is járt úgy, hogy eltűnt a kompetenciateszt eredménye? 0%-ot ír pedig megcsináltam. A záróvizsgám 83% lett...
 ___
 
-###### 6) [Október 16., 22:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/639343683614657/)
+###### 6) [2020-10-16, 22:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/639343683614657/)
 * from: *
 * x
 ###### content
 * Én az első körbe nem kerültem be, de elkezdtem körülnézni egyéb helyen lévő oktatás ügyben. Angolul nagyon sok lehezőség van, de magyarul nem annyira. Én a CodeBerry-t most tesztelem. Valakinek esetleg tapasztalata van róla?
 ___
 
-###### 6) [Október 16., 22:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/639325886949770/)
+###### 6) [2020-10-16, 22:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/639325886949770/)
 * from: *
 * x
 ###### content
 * https://www.facebook.com/photo/?fbid=3317032588350961&set=gm.639325886949770
 ___
 
-###### 6) [Október 16., 20:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/639276140288078/)
+###### 6) [2020-10-16, 20:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/639276140288078/)
 * from: *
 * x
 ###### content
 * ... milyen elérhetőségen lehetne érdemi segítséget kérni a szerződés aláíráshoz szükséges munkáltató nyilatkozat (1/B melléklet) kitöltéséhez...
 ___
 
-###### 6) [Október 16., 20:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/639260893622936/)
+###### 6) [2020-10-16, 20:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/639260893622936/)
 * from: *
 * x
 ###### content
 * A Codecool jelentkezési levelében az 1. linkre rákattintva bekérte az adataimat... nem a struktúraváltó képzések közül engedett választani, hanem az egyéb (Full Stack Developer stb.) képzések közül...
 ___
 
-###### 6) [Október 16., 19:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639252840290408/)
+###### 6) [2020-10-16, 19:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639252840290408/)
 * from: *
 * x
 ###### content
@@ -493,35 +493,35 @@ ___
 * http://www.kerdoivem.hu/kerdoiv/1095435212/
 ___
 
-###### 6) [Október 16., 18:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/639194703629555/)
+###### 6) [2020-10-16, 18:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/639194703629555/)
 * from: *
 * x
 ###### content
 * Azt nézte más is, hogy az online konzultációs órákon vezetnek jelenléti ívet, ami kb napi 3 óra... aktívan részt kell venni..
 ___
 
-###### 6) [Október 16., 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/639158940299798/)
+###### 6) [2020-10-16, 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/639158940299798/)
 * from: *
 * x
 ###### content
 * #diákhitelplusz Aki tervezi, hogy diákhitelt vesz föl, azt hívjuk ebbe a csoportba: https://www.facebook.com/groups/2624011724593982
 ___
 
-###### 6) [Október 16., 17:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639152580300434/)
+###### 6) [2020-10-16, 17:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639152580300434/)
 * from: *
 * x
 ###### content
 * Progmasterssel... 20-21-én van az első körös emberek beiratkozása... 26-án már kezdeniük kell a képzést, a második körös bejutók aláírását 22-e, csütörtökre tervezik... És a Progmastershez 9-17:00 között lehet menni aláírni...
 ___
 
-###### 6) [Október 16., 16:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/639130353635990/)
+###### 6) [2020-10-16, 16:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/639130353635990/)
 * from: *
 * x
 ###### content
 * A diákhitel kérelem kitöltéséhez a 8 jegyű szerződésszám az mi? Hol van?
 ___
 
-###### 6) [Október 16., 15:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/639074050308287/)
+###### 6) [2020-10-16, 15:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/639074050308287/)
 * from: *
 * x
 ###### content
@@ -529,35 +529,35 @@ ___
 ---
 ___
 
-###### 6) [Október 16., 14:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639029960312696/)
+###### 6) [2020-10-16, 14:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639029960312696/)
 * from: *
 * x
 ###### content
 * Szóval, neked és *nak* is van igazság  abban, amit elmondtatok. De nem késő ez már ? Let the horses ride ! Én is az elutasítók oldalán állok. De most már hagyjátok a fenébe azokat akik csinálni akarják...
 ___
 
-###### 6) [Október 16., 14:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/639023823646643/)
+###### 6) [2020-10-16, 14:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/639023823646643/)
 * from: *
 * x
 ###### content
 * Szép volt, jó volt, alaposan átrágva inkább nem! Aki belevág annak sok szerencsét!
 ___
 
-###### 6) [Október 16., 13:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/639007706981588/)
+###### 6) [2020-10-16, 13:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/639007706981588/)
 * from: *
 * x
 ###### content
 * 13:30-kor vettem észre a mailt. Remélem rugalmasan kezelik...
 ___
 
-###### 6) [Október 16., 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/639002976982061/)
+###### 6) [2020-10-16, 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/639002976982061/)
 * from: *
 * x
 ###### content
 * Most leveleztem a GF-fel, ahová felvettek az általam harmadik helyen bejelölt szoftvertesztelő szakirányra... nem azt akarom tanulni... szakirányt nem lehet változtatni, viszont a programba bejutottak elérik mind a négy szakriány tananyagait...
 ___
 
-###### 6) [Október 16., 13:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/638991646983194/)
+###### 6) [2020-10-16, 13:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/638991646983194/)
 * from: *
 * x
 ###### content
@@ -565,35 +565,35 @@ ___
 * https://www.youtube.com/watch?v=MK6TXMsvgQg
 ___
 
-###### 6) [Október 16., 12:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/638970713651954/)
+###### 6) [2020-10-16, 12:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/638970713651954/)
 * from: *
 * x
 ###### content
 * ... Aki felvételt nyert a Codecoolhoz, annak kiküldtük már a köszöntő emailt.  Aki nem kapott még ilyet... vagy pedig hívjanak minket telefonon, hogy orvosolni tudjuk... Codecool csapata
 ___
 
-###### 6) [Október 16., 12:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/638956536986705/)
+###### 6) [2020-10-16, 12:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/638956536986705/)
 * from: *
 * x
 ###### content
 * {Apdét 2020-10-16 | 17:34: a 2. sz. melléklet rendbejött, frissült, a felvetés hatására a 3 napot kitörölték, és a 128 óra megengedett hiányzás került bele.}...
 ___
 
-###### 6) [Október 16., 11:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/638949456987413/)
+###### 6) [2020-10-16, 11:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/638949456987413/)
 * from: *
 * x
 ###### content
 * ... Elakadtam egy egyszerű CSS-sel, de valami nagyon fura dolog történik... nem engedi a :first-child-ot a gépem,  jól is van beírva, a :last-child működik
 ___
 
-###### 6) [Október 16., 11:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638925550323137/)
+###### 6) [2020-10-16, 11:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638925550323137/)
 * from: *
 * x
 ###### content
 * Ha esetleg valaki most nem került be, ide még jelentkezhet, végzettség nem szempont
 ___
 
-###### 6) [Október 16., 11:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/638921750323517/)
+###### 6) [2020-10-16, 11:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/638921750323517/)
 * from: *
 * x
 ###### content
@@ -601,56 +601,56 @@ ___
 * https://www.hwsw.hu/hirek/60262/bootcamp-fejlesztokepzes-munkaerohiany-junior-fejlesztoi-fizetesek.html
 ___
 
-###### 6) [Október 16., 11:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638920660323626/)
+###### 6) [2020-10-16, 11:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638920660323626/)
 * from: *
 * x
 ###### content
 * A képzés összesen 2.560.000 Ft, melynek a részarányát kell visszafizetnie a résztvevőnek... Kérdés, hogy a jelentkezéssel vállalok -e egyből kötelezettséget, vagy az cska a szerződés aláírással válik biztosság csak?
 ___
 
-###### 6) [Október 16., 10:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/638913576991001/)
+###### 6) [2020-10-16, 10:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/638913576991001/)
 * from: *
 * x
 ###### content
 * Kedves felvételt nyert "diákok", Ti értitek, hogy ez a "35 óraszámban megvalósuló képzés" és 35.000 Ft összeg pontosan mi is volna...
 ___
 
-###### 6) [Október 16., 10:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638898380325854/)
+###### 6) [2020-10-16, 10:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638898380325854/)
 * from: *
 * x
 ###### content
 * Kérdezném a tesztelő képzésre felvetteket, hogy szeretnétek-e saját Tesztelők (újratervezés) fb csoportot...
 ___
 
-###### 6) [ Október 16., 10:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/638895520326140/)
+###### 6) [2020-10-16, 10:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/638895520326140/)
 * from: *
 * x
 ###### content
 * Nem vagyok jogász, de szerintem egy valamirevaló független bíróságon úgy elkaszálnák ezt a támogatási szerződést...
 ___
 
-###### 6) [Október 16., 10:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/638891550326537/)
+###### 6) [2020-10-16, 10:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/638891550326537/)
 * from: *
 * x
 ###### content
 * ... az átlagát rosszul számolták ki. Nekem a 88%-os vizsgaeredményre és a 85%-os kompetenciatesztre 52% jött ki...
 ___
 
-###### 6) [Október 16., 10:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/638889156993443/)
+###### 6) [2020-10-16, 10:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/638889156993443/)
 * from: *
 * x
 ###### content
 * Codecoolhoz felvettek! Hol írnátok alá szívesebben a szerződést?
 ___
 
-###### 6) [Október 16., 9:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/638886590327033/)
+###### 6) [2020-10-16, 9:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/638886590327033/)
 * from: *
 * x
 ###### content
 * Gratula akiket szintén felvettek!. Nagyon nehezen indult az egész, sok csalódás, probléma. De én úgy vagyok vele ha az 1000ből végül 100an el is tudnak helyezkedni akkor már megérte...
 ___
 
-###### 6) [Október 16., 9:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638869250328767/)
+###### 6) [2020-10-16, 9:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638869250328767/)
 * from: *
 * x
 ###### content
@@ -659,49 +659,49 @@ ___
 * összesen 2.560.000 Ft, melynek a részarányát kell visszafizetnie... (A támogatott alapképzés összesen 640 óra, óránként 4000Ft/fő-s áron)... Minden online elérhető lesz... A 20% hiányzást (128 órát) egyúttal az online e-learning tartalom feldolgozásából és az online felvett alkalmak megtekintéséből számoljuk.
 ___
 
-###### 6) [Október 16., 9:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/638859870329705/)
+###### 6) [2020-10-16, 9:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/638859870329705/)
 * from: *
 * x
 ###### content
 * Quick update.Aki még nem kapott második e-mail-t ne aggódjon.Most beszéltem a codecool-al és mondták hogy tegnap kiküldtek egy nagy adat emailt, meg ma is fognak,adategyeztetés onlnine,szerződés...
 ___
 
-###### 6) [Október 16., 8:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638840196998339/)
+###### 6) [2020-10-16, 8:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638840196998339/)
 * from: *
 * x
 ###### content
 * A kovetkezo linket szandekosan nem link formaban teszem be... Sokan erdeklodtetek a html oldalak serulekenysege irant... Link:: $$Https:// xss-game. appspot.  Com$$
 ___
 
-###### 6) [Október 16., 8:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638840026998356/)
+###### 6) [2020-10-16, 8:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638840026998356/)
 * from: *
 * x
 ###### content
 * Code Cool email Akit felvettek, de nem kapott emailt tőlük (pl. én), az írjon rájuk, mert minden levél kiment tegnap, azt mondták. edit: másnak emailben azt írták, a hiányzó emaileket küldik még.
 ___
 
-###### 6) [Október 16., 8:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638835586998800/)
+###### 6) [2020-10-16, 8:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638835586998800/)
 * from: *
 * x
 ###### content
 * T360 most beszéltem velük Kerekes Renátával elméletileg jövőhét elején kedd magasságában lesz a beíratkozás. 9-18 ig.de küldenek mindenkinek mailt.
 ___
 
-###### 6) [Október 16., 6:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/638795753669450/)
+###### 6) [2020-10-16, 6:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/638795753669450/)
 * from: *
 * x
 ###### content
 * Aki fel szeretne mondani, az számoljon a felmondási idővel is! Itt egy részlet a progmasterses QA-ból.
 ___
 
-###### 6) [Október 16., 6:31x](https://www.facebook.com/groups/ujratervezesprogram/permalink/638783973670628/)
+###### 6) [2020-10-16, 6:31x](https://www.facebook.com/groups/ujratervezesprogram/permalink/638783973670628/)
 * from: *
 * x
 ###### content
 * Nem nagyon értek az EU pályázatokhoz, és most készülök a főnököm elé járulni ezzel a szép kis 13 oldalas paksamétával... későbbiekben nem pályázhatnak ilyen GINOP/VEKOP...
 ___
 
-###### 6) [Október 16., 6:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/638764560339236/)
+###### 6) [2020-10-16, 6:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/638764560339236/)
 * from: *
 * x
 ###### content
@@ -709,42 +709,42 @@ ___
 * Azoknak meg bejutottak: egy nagy kalappal a legjobból! Húzós egy 4 hónap lesz de hiszek bennetek
 ___
 
-###### 6) [Október 16., 2:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/638653107017048/)
+###### 6) [2020-10-16, 2:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/638653107017048/)
 * from: *
 * x
 ###### content
 * Hű, gyerekek, azért pörgettek egyet a tempón!  16-án megkapom, hogy 26-án start ...
 ___
 
-###### 6) [Október 15., 22:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638528027029556/)
+###### 6) [2020-10-15, 22:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638528027029556/)
 * from: *
 * x
 ###### content
 * #várólistások Azt gondolnám, hogy a várólistán lévőkkel is mielőbb el kellene kezdeni valakinek a kommunikációt... az adategyeztetést az iskolák csinálják már. Kinek írjak...
 ___
 
-###### 6) [Október 15., 22:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/638526457029713/)
+###### 6) [2020-10-15, 22:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/638526457029713/)
 * from: *
 * x
 ###### content
 * Mihály kérdezi Hajdúsámsonból
 ___
 
-###### 6) [Október 15., 22:14](#)
+###### 6) [2020-10-15, 22:14](#)
 * from: *
 * x
 ###### content
 * A PROGmasters is megküldte az adategyeztető e-mailt. A határidő 2020.10.17. szombat 23:59.
 ___
 
-###### 6) [Október 15., 21:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/638496657032693/)
+###### 6) [2020-10-15, 21:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/638496657032693/)
 * from: *
 * x
 ###### content
 * Holnap délig adategyeztetés meg stb... 26-án kezdés! Mi ez a kapkodás? Április 07-től ráért minden...
 ___
 
-###### 6) [Október 15., 21:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638495450366147/)
+###### 6) [2020-10-15, 21:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638495450366147/)
 * from: *
 * x
 ###### content
@@ -752,133 +752,133 @@ ___
 * Határidő: 2020.10.16. péntek, 12:00 óra Figyeljetek mert nagyon rövid a határidő
 ___
 
-###### 6) [Október 15., 21:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/638489570366735/)
+###### 6) [2020-10-15, 21:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/638489570366735/)
 * from: *
 * x
 ###### content
 * ... a gftol vagy a trainingtol kapott vmi adategyeztetos emailt, amit holnapig le kell adni... kapott-e ilyet a progmasterstol??
 ___
 
-###### 6) [Október 15., 21:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/638482483700777/)
+###### 6) [2020-10-15, 21:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/638482483700777/)
 * from: *
 * x
 ###### content
 * Nagy köszönet azoknak az embereknek akik már programozók és mégis indultak ezen a MUNKANÉLKÜLIEKNEK meghirdetett...
 ___
 
-###### 6) [Október 15., 21:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/638477327034626/)
+###### 6) [2020-10-15, 21:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/638477327034626/)
 * from: *
 * x
 ###### content
 * Ha valaki tud valami konkrétabbat erről, az írja le kommentben! Határozottan jobban járnék egy ilyen képzéssel, mint az újratervezéssel...
 ___
 
-###### 6) [Október 15., 21:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/638472330368459/)
+###### 6) [2020-10-15, 21:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/638472330368459/)
 * from: *
 * x
 ###### content
 * Szinte mindenki aggódik, hogy vajon el fogja-e tudni végezni...
 ___
 
-###### 6) [Október 15., 21:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638469843702041/)
+###### 6) [2020-10-15, 21:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638469843702041/)
 * from: *
 * x
 ###### content
 * Nem is jelentkeztem sehova... lol... 😆
 ___
 
-###### 6) [Október 15., 20:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638464287035930/)
+###### 6) [2020-10-15, 20:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638464287035930/)
 * from: *
 * x
 ###### content
 * Mindenkinek GRATULÁLOK, aki bekerült. Én nem adtam le sorrendet, de e-mailt én is kaptam elvben jövőre megint lesz lehetőségem. ... néha írjatok a csopiba, hogy milyen az oktatás milyen lesz/volt a vizsga... lehet jövőre megpróbálom....
 ___
 
-###### 6) [Október 15., 20:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/638454413703584/)
+###### 6) [2020-10-15, 20:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/638454413703584/)
 * from: *
 * x
 ###### content
 * Mindenkinek sok sikert, akit felvettek, kívánom találjátok meg a számításotokat a programban! Engedelmetekkel itt maradok egy darabig még, sok értelmes, jófej emberrel megismerkedtem itt, már amennyire e keretek között ez lehetséges, hiszem, hogy tudjuk majd oda-vissza segíteni egymást!
 ___
 
-###### 6) [Október 15., 20:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/638451063703919/)
+###### 6) [2020-10-15, 20:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/638451063703919/)
 * from: *
 * x
 ###### content
 * Training360-nál ha csak 5 után érek rá megnézni a konzultációról készült felvételt,  mindig. Akkor az hiányzásnak minősül?
 ___
 
-###### 6) [Október 15., 20:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638443007038058/)
+###### 6) [2020-10-15, 20:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638443007038058/)
 * from: *
 * x
 ###### content
 * Greenfox podcast a SoundCloud-on. Hogyan zajlik majd az Újratervező egy napja.
 ___
 
-###### 6) [Október 15., 20:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638438260371866/)
+###### 6) [2020-10-15, 20:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638438260371866/)
 * from: *
 * x
 ###### content
 * Csak nekem nem volt tiszta a rangsoroláskor, hogy az iskolákat fogják először végig futtatni, és aztán a képzéseket...
 ___
 
-###### 6) [Október 15., 20:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/638438203705205/)
+###### 6) [2020-10-15, 20:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/638438203705205/)
 * from: *
 * x
 ###### content
 * Megjött a levél a Green Fox-tól.
 ___
 
-###### 6) [Október 15., 19:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/638426280373064/)
+###### 6) [2020-10-15, 19:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/638426280373064/)
 * from: *
 * x
 ###### content
 * Gratulálok annak aki bejutott... Tudjátok miért hiányzik a munkaerő piacról 22e informatikus? Mert mindenhol zseniket várnak... a család tartalékaiból megcsinálja ezt a tanfolyamot és utána kapkodni fognak utána azt el kell keserítsem...
 ___
 
-###### 6) [Október 15., 19:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638424183706607/)
+###### 6) [2020-10-15, 19:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638424183706607/)
 * from: *
 * x
 ###### content
 * Sikertelen. 70%. De ha sokan visszamondják október 31-ig még van esélyem. Vagy jövőre de annyit tuti nem várok
 ___
 
-###### 6) [Október 15., 19:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/638419297040429/)
+###### 6) [2020-10-15, 19:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/638419297040429/)
 * from: *
 * x
 ###### content
 * Van akit felvettek 80% alatt?
 ___
 
-###### 6) [Október 15., 19:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/638417213707304/)
+###### 6) [2020-10-15, 19:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/638417213707304/)
 * from: *
 * x
 ###### content
 * Ez szánalmas srácok. Nem jelentkeztem egyik helyre sem erre jön a sablon levél, hogy: "Sikertelen felvétel...
 ___
 
-###### 6) [Október 15., 19:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/638403167042042/)
+###### 6) [2020-10-15, 19:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/638403167042042/)
 * from: *
 * x
 ###### content
 * No fiatalok, én ezt az újratervezést újraterveztem. Se időm, sem energiám folytatni ezt. Ki és lelépek, mindenkinek sok sikert kívánok! Én majd folytatom máshol/máshogy/máskor.
 ___
 
-###### 6) [Október 15., 19:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/638398057042553/)
+###### 6) [2020-10-15, 19:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/638398057042553/)
 * from: *
 * x
 ###### content
 * Szerencsére van hitel amiből meg tudom venni...
 ___
 
-###### 6) [Október 15., 19:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/638397230375969/)
+###### 6) [2020-10-15, 19:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/638397230375969/)
 * from: *
 * x
 ###### content
 * Most, hogy felvettek valahová, mitévő leszel?
 ___
 
-###### 6) [Október 15., 17:56](#)
+###### 6) [2020-10-15, 17:56](#)
 * from: *
 * x
 ###### content
@@ -886,14 +886,14 @@ ___
 * Amennyiben Ön értesítést kapott, hogy felvételt nyert, akkor ezt tekinthető a folyamat végeredményének. Az Ön által elnyert képzés eredményeként kikerül a rangsoról, amelyben már csak azon tanulók vannak, akik felvételre várnak az általuk meghatározott preferenciák alapján...
 ___
 
-###### 6) [Október 15., 17:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638351347047224/)
+###### 6) [2020-10-15, 17:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/638351347047224/)
 * from: *
 * x
 ###### content
 * Volt olyan, akit 79% alatt Java képzésre vettek fel valamelyik suliba?
 ___
 
-###### 6) [Október 15., 17:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/638349847047374/)
+###### 6) [2020-10-15, 17:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/638349847047374/)
 * from: *
 * x
 ###### content
@@ -901,28 +901,28 @@ ___
 * Sajnálattal közöljük, hogy eredményed alapján most nem kerültél be...
 ___
 
-###### 6) [Október 15., 17:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/638349610380731/)
+###### 6) [2020-10-15, 17:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/638349610380731/)
 * from: *
 * x
 ###### content
 * Megjött a következő email a képzőhelytől. Holnap délig van határidő adategyeztetésre... "Határidő: 2020.10.16. péntek, 12:00 óra
 ___
 
-###### 6) [Október 15., 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638330920382600/)
+###### 6) [2020-10-15, 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638330920382600/)
 * from: *
 * x
 ###### content
 * akik nem kapnak emailt,vajon az idők végzetéig várnak...
 ___
 
-###### 6) [Október 15., 17:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/638327883716237/)
+###### 6) [2020-10-15, 17:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/638327883716237/)
 * from: *
 * x
 ###### content
 * Gratulálok mindenkinek, akit felvettek. Szívből kívánom, hogy sikerüljön minden úgy, ahogy elterveztétek!
 ___
 
-###### 6) [Október 15., 16:49](#)
+###### 6) [2020-10-15, 16:49](#)
 * from: *
 * x
 ###### content
@@ -930,7 +930,7 @@ ___
 * https://www.prooktatas.hu/online-tanfolyamok.php
 ___
 
-###### 6) [Október 15., 16:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/638293537053005/)
+###### 6) [2020-10-15, 16:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/638293537053005/)
 * from: *
 * x
 ###### content
@@ -938,7 +938,7 @@ ___
 * ide mutat a link: https://career.blackbelt.hu/o/web-developer-budapest
 ___
 
-###### 6) [Október 15., 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/638291630386529/)
+###### 6) [2020-10-15, 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/638291630386529/)
 * from: *
 * x
 ###### content
@@ -946,49 +946,49 @@ ___
 * https://www.facebook.com/groups/rendszeruzemelteto
 ___
 
-###### 6) [Október 15., 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/638183133730712/)
+###### 6) [2020-10-15, 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/638183133730712/)
 * from: *
 * x
 ###### content
 * Kaptam mailt, hogy felvettek a az altalam jelolt harmadik helyre...Na most ha sokan nem vallaljak mondjuk azt amire en akartam menni, akkor meg van lehetosegem be kerulni masik szakiranyra vagy csak erre iratkozhatok be?
 ___
 
-###### 6) [Október 15., 13:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/638170327065326/)
+###### 6) [2020-10-15, 13:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/638170327065326/)
 * from: *
 * x
 ###### content
 * Mindenki kapott ilyen felvételt nyert e-mail-t?
 ___
 
-###### 6) [Október 15., 13:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638167177065641/)
+###### 6) [2020-10-15, 13:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638167177065641/)
 * from: *
 * x
 ###### content
 * Hová vettek fel?
 ___
 
-###### 6) [Október 15., 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638159120399780/)
+###### 6) [2020-10-15, 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638159120399780/)
 * from: *
 * x
 ###### content
 * Megjött a mail hogy felvételt nyertem az első helyen megjelölt képzésre. A levélt teljes tartalma a következő...
 ___
 
-###### 6) [Október 15., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638125410403151/)
+###### 6) [2020-10-15, 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/638125410403151/)
 * from: *
 * x
 ###### content
 * 1\B melléklet kitöltésében szeretném azok segítségét kérni, akik már kitöltették és aláíratták a munkáltatójukkal a doksit. Pm-ben várom a jelentkezőket. :~)
 ___
 
-###### 6) [Október 15., 11:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/638122977070061/)
+###### 6) [2020-10-15, 11:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/638122977070061/)
 * from: *
 * x
 ###### content
 * sziasztok , járt e valaki úgy, hogy sikeresen megcsinálta a kompetencia tesztet esetemben 75% de 0% volt az oklevélen?...
 ___
 
-###### 6) [Október 15., 11:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/638118467070512/)
+###### 6) [2020-10-15, 11:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/638118467070512/)
 * from: *
 * x
 ###### content
@@ -996,154 +996,154 @@ ___
 * https://progmasters.hu/.../GYIK-v2.2-a%CC%81llami-ke%CC...
 ___
 
-###### 6) [Október 15., 9:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/638053967076962/)
+###### 6) [2020-10-15, 9:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/638053967076962/)
 * from: *
 * x
 ###### content
 * Hogyan történhet az adatok feldolgozása? A - a profik: A japánok készségesen átengedik legnagyobb szuperszámítógépüket egy napra
 ___
 
-###### 6) [Október 15., 8:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/638030993745926/)
+###### 6) [2020-10-15, 8:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/638030993745926/)
 * from: *
 * x
 ###### content
 * Már az informatikai szakgimnáziumokban is beindulhat a tanártoborzás: "Kedves tanulók! Aki tanítás után vállalna munkát felnőttképzésben...
 ___
 
-###### 6) [Október 15., 8:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638012823747743/)
+###### 6) [2020-10-15, 8:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638012823747743/)
 * from: *
 * x
 ###### content
 * A jelentkezőket szeretném megkérdezni:
 ___
 
-###### 6) [Október 15., 0:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/637782913770734/)
+###### 6) [2020-10-15, 0:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/637782913770734/)
 * from: *
 * x
 ###### content
 * Most a képző sulik reagálására várunk ? Amiket választottunk ?
 ___
 
-###### 6) [Október 14., 21:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/637690303779995/)
+###### 6) [2020-10-14, 21:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/637690303779995/)
 * from: *
 * x
 ###### content
 * https://www.greenfoxacademy.com/.../mentort-keresunk...
 ___
 
-###### 6) [Október 14., 21:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/637674453781580/)
+###### 6) [2020-10-14, 21:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/637674453781580/)
 * from: *
 * x
 ###### content
 * ➡️HÁZIFELADAT⬅️ Három select option mező készítése...
 ___
 
-###### 6) [Október 14., 21:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/637669607115398/)
+###### 6) [2020-10-14, 21:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/637669607115398/)
 * from: *
 * x
 ###### content
 * ➡️HÁZIFELADAT⬅️ Név felajánló webalkalmazás készítése...
 ___
 
-###### 6) [Október 14., 20:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/637636820452010/)
+###### 6) [2020-10-14, 20:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/637636820452010/)
 * from: *
 * x
 ###### content
 * Sziasztok... én már elengedtem ezt a csodás programot, hobbi szinten előtte is... "magánmentort"... tanfolyamot...
 ___
 
-###### 6) [Október 14., 18:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/637565253792500/)
+###### 6) [2020-10-14, 18:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/637565253792500/)
 * from: *
 * x
 ###### content
 * 2020.10.14.szerda ÚJRATERVEZÉS FŐHADISZÁLLÁSA ügyfélszolgálat...
 ___
 
-###### 6) [Október 14., 18:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/637562907126068/)
+###### 6) [2020-10-14, 18:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/637562907126068/)
 * from: *
 * x
 ###### content
 * Esetleg valaki elkezdi a https://webdesigntanfolyam.com/ (Pixelgyár) valamely tanfolyamát?
 ___
 
-###### 6) [Október 14., 17:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/637550150460677/)
+###### 6) [2020-10-14, 17:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/637550150460677/)
 * from: *
 * x
 ###### content
 * Egy elég érdekes cikk még 2018-ból. 
 ___
 
-###### 6) [Október 14., 17:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/637523327130026/)
+###### 6) [2020-10-14, 17:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/637523327130026/)
 * from: *
 * x
 ###### content
 * #prooktatas Sziasztok! Többen kérdeztetek a Prooktatásról egy másik poszt alatt, mert jelenleg én ide járok (megcsináltam már a frontend modult, most pedig a javascript van folyamatban) itt van egy videójuk, megnézhetitek milyen egy óra, de ha maga a suli nem érdekes számotokra, a tananyag akkor is az lehet...
 ___
 
-###### 6) [Október 14., 16:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/637510390464653/)
+###### 6) [2020-10-14, 16:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/637510390464653/)
 * from: *
 * x
 ###### content
 * ... de nem ismerek olyan magyar nyelvű ingyen elérhető oldalakat, vagy youtube csatornákat, ahol a akár tematikusan több vagy 1-1 kiemelt téma is szerepelne jól feldolfgoztott...
 ___
 
-###### 6) [Október 14., 16:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/637508543798171/)
+###### 6) [2020-10-14, 16:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/637508543798171/)
 * from: *
 * x
 ###### content
 * Én pár napja fizettem elő a Udemy-n (4400 magyar forint), profi anyag több tízezer korábbi előfizetővel, mentorálással, lifetime access...
 ___
 
-###### 6) [Október 14., 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/637495663799459/)
+###### 6) [2020-10-14, 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/637495663799459/)
 * from: *
 * x
 ###### content
 * Amíg várakoztok, házi feladatként készítsetek bináris számológépet...
 ___
 
-###### 6) [Október 14., 16:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/637482640467428/)
+###### 6) [2020-10-14, 16:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/637482640467428/)
 * from: *
 * x
 ###### content
 * Tisztelt Ügyfélszolgálat... "Az 1/b melléklet szerinti munkáltatói nyilatkozatban a vállalkozásként működő munkáltatónak arról kell nyilatkoznia, hogy...
 ___
 
-###### 6) [Október 14., 15:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/637450490470643/)
+###### 6) [2020-10-14, 15:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/637450490470643/)
 * from: *
 * x
 ###### content
 * Egy nagy kalappal mindenkinek, aki belevág! Én újraterveztem, más úton tanulok tovább.x
 ___
 
-###### 6) [Október 14., 14:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/637404250475267/)
+###### 6) [2020-10-14, 14:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/637404250475267/)
 * from: *
 * x
 ###### content
 * Szerintem nem lenne szabad annak gondot okozni a rendszerbe, hogy valaki jelentkezik, de nem iratkozik be...
 ___
 
-###### 6) [Október 14., 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/637387230476969/)
+###### 6) [2020-10-14, 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/637387230476969/)
 * from: *
 * x
 ###### content
 * Köszönöm, hogy itt lehettem.Köszönöm a támogatást. A magam részéről kiszállok, mindenkinek további sok sikert kívánok!
 ___
 
-###### 6) [Október 14., 12:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/637347023814323/)
+###### 6) [2020-10-14, 12:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/637347023814323/)
 * from: *
 * x
 ###### content
 * Sok sikert azoknak, akik bevállalták (legalább a jelentkezést). Én elengedtem, úgyhogy egy 86%os hely megüresedett🙂 De nem adtam fel. Majd más, tervezhetőbb úton...
 ___
 
-###### 6) [Október 14., 12:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/637330793815946/)
+###### 6) [2020-10-14, 12:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/637330793815946/)
 * from: *
 * x
 ###### content
 * 12 óra elmúlt. Hogy döntöttél? Visszaküldted a  sorrendedet?🙃
 ___
 
-###### 6) [Október 14., 12:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/637329397149419/)
+###### 6) [2020-10-14, 12:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/637329397149419/)
 * from: *
 * x
 ###### content
@@ -1151,308 +1151,308 @@ ___
 Óránként legalább egy tucat jöjjön, így is buzdítsuk Kristófot...
 ___
 
-###### 6) [Október 14., 11:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/637316777150681/)
+###### 6) [2020-10-14, 11:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/637316777150681/)
 * from: *
 * x
 ###### content
 * Last minute.
 ___
 
-###### 6) [Október 14., 11:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/637305240485168/)
+###### 6) [2020-10-14, 11:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/637305240485168/)
 * from: *
 * x
 ###### content
 * Tudja valaki, hogy mikortól kezdődnének az oktatások?
 ___
 
-###### 6) [Október 14., 10:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/637288987153460/)
+###### 6) [2020-10-14, 10:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/637288987153460/)
 * from: *
 * x
 ###### content
 * Valakinek adott már ki a munkáltatója igazolást erről? 😃
 ___
 
-###### 6) [Október 14., 10:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/637288357153523/)
+###### 6) [2020-10-14, 10:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/637288357153523/)
 * from: *
 * x
 ###### content
 * Ma délig lehet leadni a jelentkezést, biztos szeretnék lenni, hogy ez még nem kötelez semmire, bár szívesen bele vágnék , nem látok egyik intézménynél sem fix időbeosztást...
 ___
 
-###### 6) [Október 14., 10:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/637288057153553/)
+###### 6) [2020-10-14, 10:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/637288057153553/)
 * from: *
 * x
 ###### content
 * Ettől a programtól én is többet vártam. Hamar kiderült, hogy egy nagy humbuk az egész! Megmondom őszintén, hogy családi vállakozásunk van, és mikor bejött a vírus hirtelen eltűntek a munkáink. Akkor láttam meg ezt a lehetőséget...
 ___
 
-###### 6) [Október 14., 10:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/637273237155035/)
+###### 6) [2020-10-14, 10:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/637273237155035/)
 * from: *
 * x
 ###### content
 * Sajnos úgy érzem eljött a pillanat, hogy fájó búcsút vegyek a programtól. Megismerve az alapok egy részét azt gondolom , hogy nyilván ehhez szükséges tényleg a tanulásra (is) kőkeményen fókuszálni . Nem véletlenül várják el a full time-ot, és igazából nem árulnak zsákbamacskát...
 ___
 
-###### 6) [Október 14., 1:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/636987793850246/)
+###### 6) [2020-10-14, 1:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/636987793850246/)
 * from: *
 * x
 ###### content
 * Ha nem probléma, ezt a hozzászólásomat kiteszem ide külön posztba is, hogy ne csak egy észrevehetetlen, sokadik hozzászólás legyen. Akit a rendszerüzemeltetés érdekel, ingyenesen indult/induló tanfolyamokon el tudja végezni esti iskolában. A pontos megnevezése; Informatikai rendszer
 ___
 
-###### 6) [Október 14., 0:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/636966420519050/)
+###### 6) [2020-10-14, 0:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/636966420519050/)
 * from: *
 * x
 ###### content
 * Amikor megláttam egy nőt fiatalabb koromban, mindig tudtam, akarom-e, vagy sem, és ha nem voltam biztos benne... Szóval, aki még most se tudja mit akar, az hagyja a fenébe az egészet...
 ___
 
-###### 6) [Október 13., 23:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636947773854248/)
+###### 6) [2020-10-13, 23:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636947773854248/)
 * from: *
 * x
 ###### content
 * Sziasztok! Igazából engem egy fő kérdés foglalkoztat. Ha állítok be preferenciasorrendet, amit el is mentek, de végül úgydöntök, mégsem kezdem el...
 ___
 
-###### 6) [Október 13., 23:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/636947050520987/)
+###### 6) [2020-10-13, 23:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/636947050520987/)
 * from: *
 * x
 ###### content
 * A kérdésem azokhoz szól, akik már valamennyire tudnak programozni, van tapasztalatuk, abban, hogy amikor tanulták a szakmát, akkor mennyire okozott nehéséget...
 ___
 
-###### 6) [Október 13., 23:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/636934947188864/)
+###### 6) [2020-10-13, 23:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/636934947188864/)
 * from: *
 * x
 ###### content
 * Kuponom kell valakinek? 😁 Úgy tűnik marad az autodidakta módszer...
 ___
 
-###### 6) [Október 13., 23:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/636934603855565/)
+###### 6) [2020-10-13, 23:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/636934603855565/)
 * from: *
 * x
 ###### content
 * Érdekes és talán többeknek hasznos részlet a Progmasters GYIK dokumentumából - az egyes képzések munka mellett történő végzésével kapcsolatban...
 ___
 
-###### 6) [Október 13., 21:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/636869853862040/)
+###### 6) [2020-10-13, 21:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/636869853862040/)
 * from: *
 * x
 ###### content
 * ...Csak a progmastersnél van délutáni képzés vagy máshol is?  Dolgozom, így délután tunék inkább ráérni... Van esetleg egy összehasonlító táblázat, hogy hol mikor vannak a képzések...
 ___
 
-###### 6) [Október 13., 21:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636868743862151/)
+###### 6) [2020-10-13, 21:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636868743862151/)
 * from: *
 * x
 ###### content
 * Egyes tagok hány embert fognak még alázni, csak azért mert valaki mást gondol a dolgokról? 🤔
 ___
 
-###### 6) [Október 13., 20:58](https://www.facebook.com/groups/ujratervezesprogram/permalink/636856243863401/)
+###### 6) [2020-10-13, 20:58](https://www.facebook.com/groups/ujratervezesprogram/permalink/636856243863401/)
 * from: *
 * x
 ###### content
 * Gyerekek! István felnyitotta a szemem! SENKI ne jelentkezzen erre a drága, semmit se érő képzésre! Sokkal jobb lehetőségek vannak!
 ___
 
-###### 6) [Október 13., 20:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/636852900530402/)
+###### 6) [2020-10-13, 20:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/636852900530402/)
 * from: *
 * x
 ###### content
 * Ha valaki úgy dönt, hogy nem vállalja az alapképzést, milyen alternatívák jöhetnek szóba ? Azt tudom, hogy év végéig még indítanak OKJ-s képzéseket, amit én találtam...
 ___
 
-###### 6) [Október 13., 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/636837807198578/)
+###### 6) [2020-10-13, 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/636837807198578/)
 * from: *
 * x
 ###### content
 * Utolsó pillanatban megjött az e mail , de nem tudok belépni.Mi lehet a baj?Mailt, jelszót azt írtam be, amit írtak.
 ___
 
-###### 6) [Október 13., 19:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/636822347200124/)
+###### 6) [2020-10-13, 19:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/636822347200124/)
 * from: *
 * x
 ###### content
 * melyik email címre kell neki írni, hogy válaszoljanak is. tudja valaki? köszi ujratervezesprogram@nive.hu innen semmi válasz nem jön
 ___
 
-###### 6) [Október 13., 19:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/636810860534606/)
+###### 6) [2020-10-13, 19:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/636810860534606/)
 * from: *
 * x
 ###### content
 * Csak a miheztartás végett szeretnék megosztani egy-két dolgot. Itt vannak a programon meghirdetett "képzések": https://ujratervezes.nive.hu/kepzesek A Java képzés tematikáját össze lehet vetni egy BME-s szabadon választható 4-kredites...
 ___
 
-###### 6) [Október 13., 19:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/636808870534805/)
+###### 6) [2020-10-13, 19:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/636808870534805/)
 * from: *
 * x
 ###### content
 * Ha má' vótmá, e'nízíst, de a Progmasters oldalán lenne itt egy "Frissítés" jelszóval kiadott 6 oldalas, kiskátés GYIK. Szövegpélda...
 ___
 
-###### 6) [Október 13., 18:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/636783747203984/)
+###### 6) [2020-10-13, 18:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/636783747203984/)
 * from: *
 * x
 ###### content
 * pic
 ___
 
-###### 6) [Október 13., 18:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/636781597204199/)
+###### 6) [2020-10-13, 18:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/636781597204199/)
 * from: *
 * x
 ###### content
 * Tisztelt Ügyfélszolgálat! Állami  intézményben dolgozom, nincs vállalkozásom és szeretnék részt venni az  Újratervezés programban. Azt írták az Útmutatóban, hogy a kiadott  szerződés 1/B mellékletét ki kell töltetnem a munkáltatómmal...
 ___
 
-###### 6) [Október 13., 15:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/636651530550539/)
+###### 6) [2020-10-13, 15:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/636651530550539/)
 * from: *
 * x
 ###### content
 * valaki érdeklődött és kapott már választ a preferenciasorrend szerinti kiválasztásra? azaz hogy ez pontosan hogy zajlik? több körös-e...
 ___
 
-###### 6) [Október 13., 14:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/636644330551259/)
+###### 6) [2020-10-13, 14:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/636644330551259/)
 * from: *
 * x
 ###### content
 * Munkanélküliként (vírus miatti bezárás okán) kezdtem el az ÚTP-t. Klassz volt, bár a család nehezen tolerálta, hogy sokat elvonultam tanulni. Majd jött a "lezáró", sikeres volt, bár ekkor...
 ___
 
-###### 6) [Október 13., 14:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/636638553885170/)
+###### 6) [2020-10-13, 14:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/636638553885170/)
 * from: *
 * x
 ###### content
 * Ez volt a válaszuk arra, hogy még nem kaptam értesítést.Köszönjük szépen, hogy észrevételét jelezte felénk. A program következő lépéseként a tanulók meghatározzák...
 ___
 
-###### 6) [Október 13., 14:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/636618217220537/)
+###### 6) [2020-10-13, 14:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/636618217220537/)
 * from: *
 * x
 ###### content
 * Információs túlterheltség, ismétlődő posztok #csoport #kommunikáció #spamszűrés ...
 ___
 
-###### 6) [Október 13., 13:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636608743888151/)
+###### 6) [2020-10-13, 13:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636608743888151/)
 * from: *
 * x
 ###### content
 * https://www.facebook.com/hireim.ma/photos/a.447223802732821/780020799453118/
 ___
 
-###### 6) [Október 13., 13:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/636600687222290/)
+###### 6) [2020-10-13, 13:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/636600687222290/)
 * from: *
 * x
 ###### content
 * Vajon hogy áll a jelentkezések aránya?
 ___
 
-###### 6) [Október 13., 13:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/636598287222530/)
+###### 6) [2020-10-13, 13:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/636598287222530/)
 * from: *
 * x
 ###### content
 * https://magyarnemzet.hu/belfold/a-felnottek-is-kaphatnak-osztondijat-8800358/
 ___
 
-###### 6) [Október 13., 13:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/636587603890265/)
+###### 6) [2020-10-13, 13:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/636587603890265/)
 * from: *
 * x
 ###### content
 * "A  képzés online alkalmai (konzultáció, csoportos foglalkozások, workshop,  projektbemutatás, stb.) többnyire hétköznap 9 és délután 5 óra közé  esnek majd."
 ___
 
-###### 6) [Október 13., 12:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/636576123891413/)
+###### 6) [2020-10-13, 12:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/636576123891413/)
 * from: *
 * x
 ###### content
 * Sziasztok, bocsi ha volt már, de kicsit elvesztem az infokban. Ha beállítom a sorrendet...
 ___
 
-###### 6) [Október 13., 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/636573470558345/)
+###### 6) [2020-10-13, 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/636573470558345/)
 * from: *
 * x
 ###### content
 * #t360 válasza Kedves Annamária! Köszönjük az érdeklődést! A képzés online alkalmai...
 ___
 
-###### 6) [Október 13., 12:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/636569920558700/)
+###### 6) [2020-10-13, 12:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/636569920558700/)
 * from: *
 * x
 ###### content
 * Egy lakáshitel szerződését nem olvassátok el ennyire alaposan, mint ez a fos újratervezési programnak a  szerződését! 😂😂😂
 ___
 
-###### 6) [Október 13., 12:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/636566907225668/)
+###### 6) [2020-10-13, 12:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/636566907225668/)
 * from: *
 * x
 ###### content
 * Elsősorban azoknak a munkavállalóknak, akikben van annyi szerencse játék szenvedély, hogy bevállalják...
 ___
 
-###### 6) [Október 13., 12:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/636560043893021/)
+###### 6) [2020-10-13, 12:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/636560043893021/)
 * from: *
 * x
 ###### content
 * Sziasztok! Láttam volt rá igény, szóval készítettem egy discord szervert az önszerveződő...
 ___
 
-###### 6) [Október 13., 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/636543407228018/)
+###### 6) [2020-10-13, 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/636543407228018/)
 * from: *
 * x
 ###### content
 * #codecool további részletek Kedves Annamária! Köszönjük szépen megkeresésed!
 ___
 
-###### 6) [Október 13., 11:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636524370563255/)
+###### 6) [2020-10-13, 11:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636524370563255/)
 * from: *
 * x
 ###### content
 * A munkáltatóm jogi osztályáról küldték: Az 1/b melléklet szerinti munkáltatói nyilatkozatban...
 ___
 
-###### 6) [Október 13., 11:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/636518667230492/)
+###### 6) [2020-10-13, 11:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/636518667230492/)
 * from: *
 * x
 ###### content
 * Sziasztok! Olvasva itt a híreket, nem teljesen értem, hogyan lehet erre jelentkezni. 2,5 milla a kockázat...
 ___
 
-###### 6) [Október 13., 10:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/636507890564903/)
+###### 6) [2020-10-13, 10:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/636507890564903/)
 * from: *
 * x
 ###### content
 * Üdv. Az online csoportos feladatmegolddás az mit takar pontosan az egyes cégeknél?
 ___
 
-###### 6) [Október 13., 10:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/636505573898468/)
+###### 6) [2020-10-13, 10:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/636505573898468/)
 * from: *
 * x
 ###### content
 * pic
 ___
 
-###### 6) [Október 13., 10:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636497473899278/)
+###### 6) [2020-10-13, 10:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636497473899278/)
 * from: *
 * x
 ###### content
 * #önszerveződő.csoportok Sziasztok! Az van, hogy én rendszer üzemeltetésre szerettem volna menni, de hát ez a szerződés elég meredek. Azonban szívesen képezném magam...
 ___
 
-###### 6) [Október 13., 9:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/636469023902123/)
+###### 6) [2020-10-13, 9:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/636469023902123/)
 * from: *
 * x
 ###### content
 * Valakinek bejött az ingyenes képzés. 😃 Vajon lesz benne időjárás widget forralt boros akció?!? 😅😂
 ___
 
-###### 6) [Október 13., 8:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/636445763904449/)
+###### 6) [2020-10-13, 8:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/636445763904449/)
 * from: *
 * x
 ###### content
 * Ha valaki figyelmes volt, idén már jó sok ön-tökön-lövést láthattunk (pl.: tavaszi kormányinfók a víruskezelésről🙄), de nekem mégis ez a "kitöltetjük a 8871 fővel a kompetenciatesztet, aztán az orruk alá toljuk a 2,5 millás szerződést...
 ___
 
-###### 6) [Október 13., 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/636428173906208/)
+###### 6) [2020-10-13, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/636428173906208/)
 * from: *
 * x
 ###### content
