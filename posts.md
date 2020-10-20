@@ -17,6 +17,262 @@ ___
 ---
 ___
 
+###### 6) [Tegnap, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/641231223425903/)
+* from: *
+* x
+###### content
+* https://www.youtube.com/watch?v=pKO9UjSeLew
+___
+
+###### 6) [Október 18., 22:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/640945943454431/)
+* from: *
+* x
+###### content
+* img
+___
+
+###### 6) [Október 18., 21:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/640900390125653/)
+* from: *
+* x
+###### content
+* ... A kérdés az, hogy hányan érdeklődnek komolyabban a téma iránt, de nem kerültek be sehova? Nem Messenger/Facebook platform kéne neki szerintem, hanem valami normálisabb. Szóval ötletelésre fel! Csináljunk valami értelmeset és hasznosat, ingyenből...
+___
+
+###### 6) [Október 18., 20:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/640863576796001/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Onepage kérdőív készítése...
+___
+
+###### 6) [Október 18., 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/640824383466587/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Némó nyomában. Készítsünk funkciót, ami a bevitt mondatban megmondja, hogy hányadik szó a Némó...
+___
+
+###### 6) [Október 18., 19:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/640796750136017/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Írj egy funkciót, ami objektumokat alakít tömbbé!...
+___
+
+###### 6) [Október 18., 18:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/640775813471444/)
+* from: *
+* x
+###### content
+* sziasztok! milyen felületet tudtok ajánlani, ahova a felhasznált képeket fel lehet könnyen tölteni, amíg még nincs saját szerver? egy videón láttam, hogy github-ra töltötték fel, de nem jöttem rá, hogy lehet. köszi!
+___
+
+###### 6) [Október 18., 17:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640725740143118/)
+* from: Adminisztrátor [RE: Október 6., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
+* x
+###### content
+* Van pár hely még mindig
+* Aki szeretne jönni Facebook Messenger csoportba az írjon privárot. Úgy is mindig akartatok egy zárt kommunikációs csatornát.
+___
+
+###### 6) [Október 18., 13:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/640587786823580/)
+* from: *
+* x
+###### content
+* JavaScript Hungary - #JavaScript programnyelvvel foglalkozó csoport. Jöhetnek hírek, Tutorialok, Feladatok, Kérdések, bármi ami JavaScript
+___
+
+###### 6) [Október 18., 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583866823972/)
+* from: *
+* x
+###### content
+* Live Coding : Node.js & Adatbáziskezelés #Javascript #Node.js #MongoDB #redis #live
+___
+
+###### 6) [Október 18., 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583830157309/)
+* from: *
+* x
+###### content
+* Akiket a tesztelés érdekel, azoknak ez segítséget nyújthat a tanulmányaik során. #tesztelő
+___
+
+###### 6) [Október 18., 8:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/640418083507217/)
+* from: *
+* x
+###### content
+* tapasztalatot osztok meg  3db államilag támogatott képzésről... 1. A. Amit mindenkinek javaslok:mielőtt aláír,értelmeztesse a szerződést jogásszal... 2. A vizsgákban :tudtak oylat csinálni mind3szor,amire nem lehet felkészülni...
+___
+
+###### 6) [Október 17., 23:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/640157773533248/#)
+* from: *
+* x
+###### content
+* Írtam e-mailt a training360nak... a munkáltató által kitöltve akkor nem vehetek részt...
+___
+
+###### 6) [Október 17., 22:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640125700203122/)
+* from: *
+* x
+###### content
+* Akik tovább mennek!!!!, azoknak újabb gyűjtőposzt.... KI HOVÁ VALÓSI? (személyes szerződéskötés miatt-> pesti úttal kapcsolatosan)...
+___
+
+###### 6) [Október 17., 22:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/640118270203865/)
+* from: *
+* x
+###### content
+* Második kor megkezdődött!
+___
+
+###### 6) [Október 17., 22:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/640116040204088/)
+* from: *
+* x
+###### content
+* Aki esetleg frontend udemy-s kurzusokon gondolkodik (mind angol nyelvű), én ezeket tudom ajánlani.
+___
+
+###### 6) [Október 17., 18:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/639996170216075/)
+* from: *
+* x
+###### content
+* Felszabadult meg 1 hely valaki szamara 😥. Sok sikert mindenkinek
+___
+
+###### 6) [Október 17., 17:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/639943680221324/)
+* from: *
+* x
+###### content
+* ... Hol tudom megnézni az 1/a és 1/b mellékletet...
+___
+
+###### 6) [Október 17., 17:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/639942813554744/)
+* from: *
+* x
+###### content
+* ... Kicsit próbálok elmélyülni a a html5 szabványban. Van egy "új" spellcheck attributum... Hogy lehetne megoldani, hogy a HTML oldalam mind a két nyelven(Angol, Magyar) tudjon helyesírást ellenőrizni?
+___
+
+###### 6) [Október 17., 16:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639929940222698/)
+* from: *
+* x
+###### content
+* Valaki tudja hogy kell kitölteni az 1a 1b nyomtatványt egyántalán értitek mi ez? 😂
+___
+
+###### 6) [Október 17., 16:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/639910243558001/)
+* from: *
+* x
+###### content
+* Sok sikert kívánok mindenkinek, bármilyen úton halad is tovább! Én itt folytatom: Szeretnél játszva kódolni tanulni...
+___
+
+###### 6) [Október 17., 16:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/639910123558013/)
+* from: *
+* x
+###### content
+* Talán hasznos ötlet lehet nem Budapesten élőknek (szebben mondva: vidékieknek)... lehetne kérni valamilyen igazolás az adott sulitól. Elképzelhető, hogy ez alapján válthatnánk kedvezményes (-50%) jegyet. Mellékelve a kedvezmény jogalapja. Mi a véleményetek?
+___
+
+###### 6) [Október 17., 15:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/639885790227113/)
+* from: *
+* x
+###### content
+* Éppen megírtam 140 karakterben, hogy MENTOR leszek 😅😝😂, így kapok fizetést, tanulok is és még jót is szórakozom majd... kell ennél több? (Ráadásul mindezt 2,5 milla viszfiz. nélkül)
+___
+
+###### 6) [Október 17., 14:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639849923564033/)
+* from: *
+* x
+###### content
+* Btw., tudja valaki, hogy az új szakképzési rendszer szerint mikor fogják meghirdetni a képzőhelyek a képzéseiket? Mármint arra gondolok, ami az OKJ helyébe lép...
+___
+
+###### 6) [Október 17., 14:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/639849126897446/)
+* from: *
+* x
+###### content
+* Nem hagynak békén! 😂 Pedig már írtam nekik tegnap, hogy másnak átadom a helyem!
+___
+
+###### 6) [Október 17., 14:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/639846786897680/)
+* from: *
+* x
+###### content
+* Két héttel ezelőttig nem tudtam semmit a SASS-ról (CSS preprocesszor...) ez a crash course pedig megvilágosított, most már mindig ezt fogom használni...
+* https://www.youtube.com/watch?v=nu5mdN2JIwM
+___
+
+###### 6) [Október 17., 12:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/639767573572268/)
+* from: *
+* x
+###### content
+* ... felvettek, de nem arra, amit elsőnek megjelöltem (CC frontend), hanem CC tesztelőnek...
+___
+
+###### 6) [Október 17., 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639747696907589/)
+* from: *
+* x
+###### content
+* ... akik nem jutottak tovább, de szeretnének tanulni vagy meggondolták magukat... Masterfield Oktatóközpont két novemberben induló karrierváltó képzését...
+___
+
+###### 6) [Október 17., 11:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/639746226907736/)
+* from: *
+* x
+###### content
+* Újratervezés Főhadiszállás Szóvivői Iroda Mivel kevés az időnk, és lassan már csak komoly dogokkal fogunk foglalkozni. Kérdezhettek az Újratervezés  Főhadiszállásának szóvivőétől Palikától, ha vannak kérdéseitek holnap nyújt nektek tájékoztatást.
+___
+
+###### 6) [Október 17., 10:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/639699823579043/)
+* from: *
+* x
+###### content
+* ... (2020.május):„... munkaerőpiacot érintő hátrányos következményeinek elhárítása céljából Magyarország Kormánya átképzési programot indít a munkavállalók és az álláskeresők számára.” Szó nem volt róla, hogy ez állásban lévőknek gyakorlatilag lehetetlen.
+* Az induló 64 ezer emberből így eljutottam első körben az 1000 fő közé... Talán sokan vagyunk így ezzel, hogy munka mellett bevállalnák, de az időbeosztás és rugalmatlanság miatt ez lehetetlen.
+___
+
+###### 6) [Október 17., 9:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/639690596913299/)
+* from: *
+* x
+###### content
+* ... jelenleg munkahellyel  rendelkezem szóló kitöltött nyilatkozatot . Hol lehet valahol meg találni vagy hol vagy milyen néven találom meg az interneten? 
+___
+
+###### 6) [Október 17., 9:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/639686836913675/)
+* from: *
+* x
+###### content
+* Kíváncsi lennék olyan statisztikára, ahol a képzést nyert "diákok" nem vállalták a tanfolyamot!
+___
+
+###### 6) [Október 17., 9:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/639684823580543/)
+* from: *
+* x
+###### content
+* Sziasztok.Ezt ma kaptam.Ha valakit èrdekelne .Èn ennyire nem vagyok profi
+___
+
+###### 6) [Október 17., 8:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/639636383585387/)
+* from: *
+* x
+###### content
+* 2020. okt. 8.-i levélből...  lehetőséged nyílik leadni jelentkezésed az alapfokú képzésen való  részvételre.
+* 2020. okt. 15.-i levélből... nem kerültél be... Érdekes változás állt be, igaz, hogy nem adtam le a jelentkezésemet...
+___
+
+###### 6) [Október 17., 6:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/639564430259249/)
+* from: Adminisztrátor
+* x
+###### content
+* Még pár nap és a csoport webfejlesztés szakmai csoportá alakul. Ennek megfelelően tegyétek fel posztokat, kérdéseket
+___
+
+###### 6) [Október 17., 0:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/639396206942738/)
+* from: *
+* x
+###### content
+* ... Szerintem tegyük mostmár túl magunkat ezen a igazságos, logikus, megfelelően árazott-e kérdéseken... Akinek sikerült bekerülnie, nekik aljas dolog elvenni a kedvét a tanulástól.
+___
+
 ###### 6) [Október 17., 0:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639381443610881/)
 * from: *
 * x
