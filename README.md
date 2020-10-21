@@ -16,7 +16,7 @@
 * See related post: [2020-10-13, 14:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/636618217220537/)
 
 #### Summary: number of post permalinks in this collection
-![number of posts chart](./fb-posts-2020-10-19.png)
+![number of posts chart](./img/fb-posts-2020-10-19.png)
 
 ### Legal
 * See the [main License of this repo](./LICENSE)
