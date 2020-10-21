@@ -9,6 +9,136 @@
 ---
 ___
 -->
+###### 6) [2020-10-21, 7:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/642809573268068/)
+* from: *
+* x
+###### content
+* img
+___
+
+###### 6) [2020-10-20, 22:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/642537569961935/)
+* from: *
+* x
+###### content
+* ... pótfelvételivel?... bármelyik képzőhelyről? Mi írtunk délután a codecoolnak, de néma csend... akkor jelen állás szerint a rosszabb eredményűek fognak bekerülni jobb szerződési feltételekkel.
+___
+
+###### 6) [2020-10-20, 21:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/642510463297979/)
+* from: *
+* x
+###### content
+* Haho! Van esetleg valakinek arról információja, hogy mi van akkor ha aláírtad a szerződést és hianypotlassal viszed a nyilatkozatot a munkahelytol de közben a munkahely mégsem írja alá?
+___
+
+###### 6) [2020-10-20, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/642468289968863/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT To Do List (Tevékenység lista) webapplikáció elkészítése.
+___
+
+###### 6) [2020-10-21, 19:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/642425406639818/)
+* from: *
+* x
+###### content
+* Hogy kicsit oldjam a feszkót megosztanám tákolmányomat. 
+* https://lagothzanta77.github.io/sudoku.html
+* ... Nem vagyok programozó, (gondolom ez a kódból is látszik avatottabb szemeknek)... szóval aki tesztelőnek jelentkezett, most nekieshet, bírom a kritikát 
+___
+
+###### 6) [2020-10-20, 16:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/642321979983494/)
+* from: *
+* x
+###### content
+* Segítséget szeretnék a kitöltéssel kapcsolatban... Ebben a mellékletben van az 1/a 1/b és 2 számú melléklet. Ezeket kellene a munkáltatómmal kitölteni... Az én munkáltatóm nem nagyon akarja aláírni...
+___
+
+###### 6) [Tegnap, 15:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/642302299985462/)
+* from: *
+* x
+###### content
+* Csak szolok h ma kaptam email h ujra 150k az 1 eves elofizu a t360 es a netakademia oldalan.
+___
+
+###### 6) [Tegnap, 15:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/642298419985850/)
+* from: *
+* x
+###### content
+* ... Segítséget szeretnék kérni a támogatási szerződés 11. pontjához tartozó lábjegyzethez... A nyilatkozatmintát hol találom meg?...
+___
+
+###### 6) [Tegnap, 15:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/642297249985967/)
+* from: *
+* x
+###### content
+* Ez most a végleges hivatalos álláspont a max 20%-os hiányzás, illetve a hétközben munkaidőben lévő csoportmunkákon való aktív részvétel tekintetében???
+___
+
+###### 6) [Tegnap, 14:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/642235396658819/)
+* from: *
+* x
+###### content
+* Feladat - Nehézségi szint...
+___
+
+###### 6) [Tegnap, 13:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/642206649995027/)
+* from: *
+* x
+###### content
+* ... Ha megbuksz a képesítő vizsgán, de minden lehetséges pótvizsga lehetőséget kihasználtál, részt vettél az órákon, stb, vagyis minden egyéb feltételt teljesítettél, akkor nem kell visszafizetni a 2 560 000 Ft-os támogatási összeget...
+___
+
+###### 6) [Tegnap, 11:59](https://www.facebook.com/groups/ujratervezesprogram/permalink/642139340001758/)
+* from: *
+* x
+###### content
+* T360-nál kérdés - Lesz e olyan napi tevékenység a képzés alatt amin kötelezően részt kell venni... A vizsgákat levéve (bár itt is van pótvizsga lehetőség) minden pótolható lesz. Training360 csapata
+___
+
+###### 6) [Tegnap, 11:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/642136213335404/)
+* from: *
+* x
+###### content
+* Programajánló: Grasshopper – kódolást oktató Google-program. Kezdetben gyerekesnek tűnhet, de gyorsan „komolyodik”. Androidos és IOS verzió mellett van desktop változata is.
+* https://learn.grasshopper.app/
+___
+
+###### 6) [Tegnap, 11:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/642115050004187/)
+* from: *
+* x
+###### content
+* Sziasztok, egy hely megüresedik a Codecool-nál, Frontend fejlesztő képzésen. Ilyen feltételekkel, munka és család mellett vállalhatatlan számomra sajnos. Bízom abban, hogy másnak testhez álló lesz.
+___
+
+###### 6) [Tegnap, 8:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/642042613344764/)
+* from: *
+* x
+###### content
+* A felvételt nyertektől kérdezem... Minden képző ragaszkodik a pesti szerződés aláíráshoz vagy ajánlottak fel más lehetőséget is esetleg?
+___
+
+###### 6) [Tegnap, 8:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/642033220012370/)
+* from: *
+* x
+###### content
+* HR hivatalos válasza 1/B mellékletre: Szia János, Az igazolást nem tudjuk kiállítani, az abban írtak nem vonatkoznak a munkáltatóra. Kérlek bizonyosodj meg arról, hogy szükséges-e egyáltalán a munkáltatónak a pályázatodhoz igazolást kiállítania.
+___
+
+###### 6) [Tegnap, 7:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/642005350015157/)
+* from: *
+* x
+###### content
+* Sziasztok! Ma reggelre talán helyreállt a lelkibékém... elengedtem a... képzésemet... Viszont... pozitív válaszom: beleláthattam ebbe a szakmába...
+* én is megvettem egy Udemy kurzust... alapíthatnánk egy tanulócsoportot...
+___
+
+###### 6) [Tegnap, 7:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/641991863349839/)
+* from: *
+* x
+###### content
+* A szerződésben vannak nem tiszta dolgok a visszafizetéssel kapcsolatban. Tudtok erre válaszolni?...
+___
+
 ###### 6) [2020-10-20, 4:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/641908956691463/)
 * from: *
 * x
