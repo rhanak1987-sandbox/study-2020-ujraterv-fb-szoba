@@ -9,6 +9,28 @@
 ---
 ___
 -->
+
+###### 6) [2020-10-26, 17:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/647199179495774/)
+* from: *
+* x
+###### content
+* Másodiknak megjelölt képzés (rendszerüzemeltető) negyedik iskola (Codecool) 69,2%
+___
+
+###### 6) [2020-10-26, 16:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/647174116164947/)
+* from: *
+* x
+###### content
+* Lassan rendeződik ki hova kerül és bejutott-e...
+___
+
+###### 6) [2020-10-25, 18:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/646436102905415/)
+* from: *
+* x
+###### content
+* Tudtok olyan boltot ahol jó áron lehet a tanfolyamhoz megfelelő gépet osszeállítani...
+___
+
 ###### 6) [2020-10-25, 11:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/646180452930980/)
 * from: *
 * x
