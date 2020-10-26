@@ -9,6 +9,128 @@
 ---
 ___
 -->
+###### 6) [x](#)
+* from: *
+* x
+###### content
+* x
+---
+___
+
+###### 6) [2020-10-24, 10:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/645289833020042/)
+* from: *
+* x
+###### content
+* Srácok kicsit korán neveztétek át a csoportot. Még mindig nem indultak el a képzések...
+___
+
+###### 6) [2020-10-23, 22:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/644957306386628/)
+* from: *
+* x
+###### content
+* A bootcampekben úgy van, hogy egy hét benti tanulás, egy hét otthon. Én hiányolom a személyes találkozás lehetőségét...
+___
+
+###### 6) [2020-10-23, 22:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/644938776388481/)
+* from: *
+* x
+###### content
+* Egy dologra figyeljen mindenki aki bejutott, nehogy úgy járjon, mint Jeffrey Toobin.
+* https://index.hu/mindekozben/poszt/2020/10/21/lebukott_az_online_verolegeny_-_videokonferencia_alatt_vegzett_onkielegitest_a_new_yorker_szerzoje/
+___
+
+###### 6) [2020-10-23, 19:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/644846319731060/)
+* from: *
+* x
+###### content
+* Aki bejutott valahova, annak csalódásmentes tanulást...! Aki nem, annak pedig új célokat! Én is így teszek, és továbblépek... További sok sikert mindenkinek!
+___
+
+###### 6) [2020-10-23, 18:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/644807256401633/)
+* from: Adminisztrátor
+* x
+###### content
+* Üdvözlöm a Webfejlesztés Tanulószoba csoport új tagjait...
+___
+
+###### 6) [2020-10-23, 18:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/644794776402881/)
+* from: *
+* x
+###### content
+* A Json szerverem továbbra is rendelkezésére áll a tanulni vágyók részére...
+* https://json.mysqhost.tk:3002/users
+___
+
+###### 6) [2020-10-23, 17:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/644766466405712/)
+* from: *
+* x
+###### content
+* Ingyenes MySQL adatbázist tudok adni korlátlan adatterülettel 178 napig él még a lehetőség, ha valakit érdekel. Felhasználható webapplikációk, weboldalak teszt célú futtatása céljából backendként. Akit érdekel, írjon privátot.
+___
+
+###### 6) [2020-10-23, 17:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/644760683072957/)
+* from: *
+* x
+###### content
+* Azért azt ugye mindenki észrevette, hogy ez a sokat emlegetett 4 hónap valójában 5 hónap lesz...
+___
+
+###### 6) [2020-10-23, 16:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/644734289742263/)
+* from: *
+* x
+###### content
+* A munkaadói papíroknál mit kell kitölteni, ha az ember KATÁ-s egyéni vállalkozó... Training360-tól nekem azt írták...
+___
+
+###### 6) [2020-10-23, 15:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/644685689747123/)
+* from: *
+* x
+###### content
+* Ki használ szervert és tárhelyet a kódjai futtatásához, kész/éles weboldal üzemeltetéséhez?
+___
+
+###### 6) [2020-10-23, 13:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/644620246420334/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT ... Recept beviteli form
+___
+
+###### 6) [2020-10-23, 11:38 ](https://www.facebook.com/groups/ujratervezesprogram/permalink/644553596426999/)
+* from: *
+* x
+###### content
+* Eredménytelen vizsga... Érvénytelen vizsga... Sikertelen vizsga... (Forrás: https://www.elte.hu/gyik)
+___
+
+###### 6) [2020-10-23, 11:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/644544559761236/)
+* from: *
+* x
+###### content
+* Kicsit off, sorry!
+___
+
+###### 6) [2020-10-23, 11:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/644542576428101/)
+* from: *
+* x
+###### content
+* Tegnap még figyeljem az emailemet, hogy okt 24.-én küldenek-e levelet, ma már csak szimplán elég lesz egy email küldenem, holnap remélem kocsit küldenek értem, hogy aláírjam a szerződést...
+___
+
+###### 6) [2020-10-23, 11:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/644539206428438/)
+* from: *
+* x
+###### content
+* Most jött a 275. agitáló levél, már elég csak e-mailben jelentkezni... A fennmaradó helyeket a beérkező regisztrációk sorrendjében töltjük fel...
+___
+
+###### 6) [2020-10-23, 10:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/644513816430977/)
+* from: *
+* x
+###### content
+* Egy rendszerüzemeltetői hely felszabadult a PM -nél. Sok sikert, aki belevág, és vállalja a feltételeket! Nem a suli, inkább a támogatási szerződés tartalma volt végül a döntő. 
+___
+
 ###### 6) [2020-10-23., 7:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/644392263109799/)
 * from: *
 * x
