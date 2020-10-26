@@ -9,6 +9,135 @@
 ---
 ___
 -->
+###### 6) [2020-10-23., 7:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/644392263109799/)
+* from: *
+* x
+###### content
+* T360, Tesztelő, 70,2%, de nyugi megy ez még lejjebb. Szóval esélyes 70% alatt is bejutni.
+___
+
+###### 6) [2020-10-22, 23:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/644138109801881/)
+* from: *
+* x
+###### content
+* végre vaalki rájött mi az újratervezés oldalán használt képek rejtett tartalma!
+___
+
+###### 6) [2020-10-22, 23:22 ](https://www.facebook.com/groups/ujratervezesprogram/permalink/644137166468642/)
+* from: *
+* x
+###### content
+* Tudtok valamit arról, ha én  később szeretném csinálni a tanfolyamot legkorábban -nyáron...
+___
+
+###### 6) [2020-10-22, 22:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/644107653138260/)
+* from: *
+* x
+###### content
+* Becsusszantam a Progmasters rendszerüzemletető tanfolyamára. (Cél volt.) Akik már szerződtek a sulival, milyen benyomásokat szereztetek? Ügyfélszolgálat/ személyes tapasztalat?... Update 69%
+___
+
+###### 6) [2020-10-22, 18:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/643960583152967/)
+* from: *
+* x
+###### content
+* A Codecoolnál mik a játékszabályok? Liveben kell lenni vagy elég utólag megnézni a videókat? Más helyeken ez máshogy megy? És más helyekről is küldtek, "könyörgünk, tanulj nálunk" e-maileket?
+___
+
+###### 6) [2020-10-22, 17:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/643916633157362/)
+* from: *
+* x
+###### content
+* Szeretnem megkerdezni hogy, bárki bejutott e Backendre 72% vagy az alatt?
+___
+
+###### 6) [2020-10-22, 16:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/643902173158808/)
+* from: *
+* x
+###### content
+* Még egy százalékos-felvevős hír: 70% összesített eredménnyel Progmasters rendszerüzemeltetői felvétel...
+___
+
+###### 6) [2020-10-22, 16:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/643895559826136/)
+* from: *
+* x
+###### content
+* Beszéltem PM-el, mai nap folyamán várható e-mail a kezdéssel kapcsolatban, ami per pillanat szerdai napot jelent. Későbbiekben kiküldik a felületek elérhetőségét, belépéssel kapcsolatos infókat
+___
+
+###### 6) [2020-10-22, 15:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/643873283161697/)
+* from: *
+* x
+###### content
+* Training360, PROGmasters kezdés várhatóan szerda
+forrás:
+* Training360: https://www.facebook.com/groups/850437075729455/permalink/851283908978105/
+* PROGmasters: https://www.facebook.com/groups/850437075729455/permalink/851301312309698/
+___
+
+###### 6) [2020-10-22, 15:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/643856633163362/)
+* from: *
+* x
+###### content
+* Beiratkoztam a CC-hez FE-re: Ki osztana meg szívesen velem a java anyagot..?
+___
+
+###### 6) [2020-10-22, 15:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/643852249830467/)
+* from: *
+* x
+###### content
+* Szerelmesek belém
+___
+
+###### 6) [2020-10-22, 13:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/643787539836938/)
+* from: *
+* x
+###### content
+* T360-asokat kérdeznék... valaki már kapott visszajelzést...
+___
+
+###### 6) [2020-10-22, 13:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/643771689838523/)
+* from: *
+* x
+###### content
+* ["shawacademy.com/computer-science"](https://m.facebook.com/story.php?story_fbid=2764059737169494&id=1399143866994428)
+___
+
+###### 6) [2020-10-22, 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/643763903172635/)
+* from: *
+* x
+###### content
+* Az imént felszabadítottam a frontend-es helyemet a Progmasters-nél. Nagyom nehezen engedtem el...
+___
+
+###### 6) [2020-10-22, 12:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/643750919840600/)
+* from: *
+* x
+###### content
+* Ma 9-10 között írtam alá: Frontend, a Training360-nál. Első helyen jelöltem. Akkor még sok üres hely volt. Egyébként 74,8%-ot értem el.
+___
+
+###### 6) [2020-10-22, 11:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/643734146508944/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Menetjegy vásárló alkalmazás.
+___
+
+###### 6) [2020-10-22, 9:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/643672866515072/)
+* from: *
+* x
+###### content
+* Akinek jött értesítés, hogy felvették a képzésbe, szintén van szám az NSZFH-s szerződés fájlnevében? És most elsősorban azokra lennék kíváncsi, akik az elmúlt napokban kapták meg.
+___
+
+###### 6) [2020-10-22, 9:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/643666076515751/)
+* from: *
+* x
+###### content
+* Kristóf: Október 26: Indul a tanfolyam...
+___
+
 ###### 6) [2020-10-22, 8:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/643643059851386/)
 * from: *
 * x
