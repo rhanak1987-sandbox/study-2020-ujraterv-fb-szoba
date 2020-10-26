@@ -9,12 +9,74 @@
 ---
 ___
 -->
-###### 6) [x](#)
+###### 6) [2020-10-25, 11:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/646180452930980/)
 * from: *
 * x
 ###### content
+* Szeretném megkerdezni hogy bárki jártas--e a C# programnyelvben és ha igen milyen szinten?
+___
+
+###### 6) [2020-10-25, 10:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/646161452932880/)
+* from: *
 * x
----
+###### content
+* ... lassan indulnak az újratervezők a bootcampekben, de kíváncsi vagyok, hogy lesz-e élet azokon kívül is #önszerveződő #fixterv #csoportépítés...
+___
+
+###### 6) [2020-10-24, 22:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/645761206306238/)
+* from: *
+* x
+###### content
+* Az új xbox ár-érték arányban verhetetlen... Java backend-re jó lehet? Milyen oprendszer van rajta?
+___
+
+###### 6) [2020-10-24, 20:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/645709436311415/)
+* from: *
+* x
+###### content
+* Van itt olyan, akinek annyira kevés lett a pontja, hogy eddig még sehonnan nem kapott ajánlatot?
+___
+
+###### 6) [2020-10-24, 19:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/645675039648188/)
+* from: *
+* x
+###### content
+* Erről a képzésről már hallottatok?
+___
+
+###### 6) [2020-10-24, 18:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/645621146320244/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT MySQL szerverhez történő csatlakozás direktben vagy valamilyen API-n keresztül. Ennek bemutatása videóban.
+___
+
+###### 6) [2020-10-24, 18:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/645619792987046/)
+* from: *
+* x
+###### content
+* [Mongoose vs. SQL / vita és livecoding](https://www.facebook.com/events/346857479755461/)
+___
+
+###### 6) [2020-10-24, 15:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/645518299663862/)
+* from: *
+* x
+###### content
+* #greenfox ... "Köszönjük a bizalmat, hogy az Újratervezés program rangsorában a Green Fox Academy-t választottátok...
+___
+
+###### 6) [2020-10-24, 15:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/645490469666645/)
+* from: *
+* x
+###### content
+* Utolsó pillanatos bejutottként az elmúlt 3 napot fórumok, kommentek...
+___
+
+###### 6) [2020-10-24, 11:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/645333833015642/)
+* from: *
+* x
+###### content
+* Hali mindenkinek! Ha a részvizsgán nem feleltél meg, még 1x pótvizsgázhatsz, de ha azon sem, kiestél és vissza kell fizetned...
 ___
 
 ###### 6) [2020-10-24, 10:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/645289833020042/)
