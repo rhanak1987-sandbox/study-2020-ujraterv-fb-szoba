@@ -9,6 +9,153 @@
 ---
 ___
 -->
+###### 6) [2020-11-01, 0:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/651605399055152/)
+* from: *
+* x
+###### content
+* #jQuery vs Modern #Javascript #keretrendszerek
+___
+
+###### 6) [2020-10-31, 23:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/651571072391918/)
+* from: * [FW: Október 31., 23:03](https://www.facebook.com/groups/javascripthun/permalink/365242057891381/)
+* x
+###### content
+* #Javascript Tutorial: Felejtsd el a VAR-t
+* Felejtsük el a VAR-t #Javascript Let vs Var
+___
+
+###### 6) [2020-10-31, 22:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/651561632392862/)
+* from: *
+* x
+###### content
+* Van egy #Webalkalmazás-od ész szeretnéd megosztani azt a világgal? Nagyon sok lehetőséged van erre. Akad köztük ingyenes és fizetős is. 
+___
+
+###### 6) [2020-10-31, 22:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/651559905726368/)
+* from: * [FW: Október 31., 22:38](https://www.facebook.com/groups/javascripthun/permalink/365231264559127/)
+* x
+###### content
+* A legjobb magyar nyelvű #Javascript - el is foglalkozó YouTube csatornákat gyújtsük ennek a postnak a kommentjébe? Te milyen csatornákat nézel és követsz #Webfejlesztés - sel kapcsolatban?
+* Ennek a postnak a komment szekciójában szedjük össze a logjobb #JavaScript - el is foglalkozó leginkább Magyar nyelvű YouTube csatornákat
+___
+
+###### 6) [2020-10-31, 18:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/651409289074763/)
+* from: *
+* x
+###### content
+* Ingyenes mini tanfolyamok a NetAcademia-n!
+___
+
+###### 6) [2020-10-31, 15:34](https://www.facebook.com/groups/ujratervezesprogram/permalink/651314105750948/)
+* from: *
+* x
+###### content
+* Nos most hogy, lassan minden fixálódik, nézzük, hogy ki melyik suliban mit tanul. 
+___
+
+###### 6) [2020-10-31, 15:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/651296779086014/)
+* from: *
+* x
+###### content
+* Szeretném jelenteni a program első hete lement. A tapasztalataim a következőek (CC - Frontend): A képzést NEM LEHET munka mellett csinálni...
+* A személyes mentorunk aki szinte egész délelőtt online velünk van, nagyon ügyes pedagógus és klassz ember is. Folyamatosan húzza fel egyesével a lemaradt vagy elakadt társainkat, mindezt úgy, hogy ne érezze magát kényelmetlenül aki segítségre szorul, és ne unják magukat a többiek sem...
+___
+
+###### 6) [2020-10-31, 14:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/651265609089131/)
+* from: *
+* x
+###### content
+* 40 térképen az internet története
+___
+
+###### 6) [2020-10-31, 12:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/651211009094591/)
+* from: *
+* x
+###### content
+* img
+___
+
+###### 6) [2020-10-31, 12:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/651166555765703/)
+* from: *
+* x
+###### content
+* Megkapta már valaki a diákhitelt? ...
+___
+
+###### 6) [2020-10-31, 7:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/650958745786484/)
+* from: *
+* x
+###### content
+* Új generációs adatbázisok
+___
+
+###### 6) [2020-10-31, 5:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/650883029127389/)
+* from: *
+* x
+###### content
+* Sziasztok, szerintetek melyik ad gyorsabb válaszidőt? Egy Mysql/Sql vagy egy json szerver?
+___
+
+###### 6) [2020-10-30, 21:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/650640052485020/)
+* from: *
+* x
+###### content
+* [Index - Gazdaság - ... milliós fizetések...](https://index.hu/gazdasag/2020/10/29/ceges_auto_es_home_office_a_millios_fizetesek_mellett/)
+___
+
+###### 6) [2020-10-30, 18:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/650519022497123/)
+* from: *
+* x
+###### content
+* Fájlok kiolvasása mappából #Node.js -el #Javascript
+___
+
+###### 6) [2020-10-30, 12:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/650267529188939/)
+* from: *
+* x
+###### content
+* #kupont #keresek #codeberry
+* Sziasztok. Miután a munkáltatóm nem írta alá a támogatási szerződésem, új utat keresek. A Codeberrynél csiszolgatnám magam. Ha valakinek van hozzájuk kuponja, örömmel fogadnám. Köszi
+___
+
+###### 6) [2020-10-30, 11:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/650263345856024/)
+* from: *
+* x
+###### content
+* Szöveges kalandjáték. Java. Van benn Ork osztály is. 😉
+* https://repl.it/@LukacsMa/Adventure#Main.java
+___
+
+###### 6) [2020-10-30, 11:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/650257505856608/)
+* from: *
+* x
+###### content
+* #búcsúPoszt #újrakezdőknek
+* Aki még újratervezi... The Frontend Developer Career Path // $25/hó https://scrimba.com/learn/frontend ...
+___
+
+###### 6) [2020-10-30, 11:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/650233482525677/)
+* from: *
+* x
+###### content
+* ... Most viszont mehetnék a GreenFox-hoz. Láttam 1-2 cikket, hogy eltörlik vagy megváltoztatják a visszafizetési feltételeket.
+* Erről valaki tudna felvilágosítást adni az utolsó és remélhetőleg végleges álláspontról?
+___
+
+###### 6) [2020-10-30, 2:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/649916712557354/)
+* from: *
+* x
+###### content
+* "A NetAcademia és a Training360 közös akciójában most több, mint 600 online IT-tanfolyamhoz férhetsz hozzá 1 éven át, mindössze 150 ezer forintért. Ez lényegében egyetlen tanfolyam ára, sőt tulajdonképpen még annyi sem."
+___
+
+###### 6) [2020-10-30, 0:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/649876105894748/)
+* from: *
+* x
+###### content
+* Két dollárért megvehetem a világ összes programnyelvét és Linux distro-ját a Wish-en. Plusz valamilyen Cardio matracot
+___
+
 ###### 6) [2020-10-30, 0:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/649869185895440/)
 * from: *
 * x
