@@ -9,6 +9,103 @@
 ---
 ___
 -->
+###### 6) [Október 28., 11:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/648613359354356/)
+* from: *
+* x
+###### content
+* hvg.hu: [Káoszba fulladt az állami informatikusképzés felvételije](https://hvg.hu/kkv/20201028_informatikuskepzes_nszfh_programozas)
+___
+
+###### 6) [Október 27., 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/648119319403760/)
+* from: *
+* x
+###### content
+* #Mihálynak #ajánlva
+* másoknak is hasznos lehet, így megosztom
+* youtube: [10... GITHUB REPOS... TOP 10 FREE DEVELOPER RESOURCES](https://www.youtube.com/watch?v=EhQke5BVcLw)
+___
+
+###### 6) [Október 27., 18:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/648075336074825/)
+* from: *
+* x
+###### content
+* A Training360 megnyitója az összes résztvevőnek holnap, szerdán 9:30-kor kezdődne a kiküldött e-mail szövege alapján, viszont 8:30-kor a mellékelt naptári bejegyzés szerint, azt követően pedig jönne a naptár szerint a Traning360 backend fejlesztőinek a megnyitója 9:30-tól, ennél nincs információ az e-mail-ben a kezdésről. Tudja valaki, hogy melyik lehet az érvényes időpont?
+___
+
+###### 6) [Október 27., 15:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/647940419421650/)
+* from: *
+* x
+###### content
+* 2021 Május... Józsi: Indul a 2021-es újratervezés program... Kristóf: Szerinted ugyanazok fognak bejutni?...
+___
+
+###### 6) [Október 27., 14:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/647904296091929/)
+* from: *
+* x
+###### content
+* Aki kimarad... az majd képzi önmagát ingyé'
+* youtube: [40 Amazing Developers You Should Follow To Improve](https://www.youtube.com/watch?v=T1RkVVVTZ4Y)
+___
+
+###### 6) [Október 27., 12:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/647830952765930/)
+* from: *
+* x
+###### content
+* Hahó! Aki t360-as elérni a tananyagokat amiről emailt küldtek? nekem bejelentkezés után sem jön be, csak újra a bejelentkezéses oldal.
+___
+
+###### 6) [Október 26., 21:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/647363476146011/)
+* from: *
+* x
+###### content
+* [ 𝗘𝗣𝗔𝗠 𝗠𝗨𝗡𝗞𝗔𝗟𝗘𝗛𝗘𝗧𝗢̋𝗦𝗘́𝗚 ]... a cégnek van saját mentorprogramja... 𝗡𝘆𝗶𝘁𝗼𝘁𝘁 𝗽𝗼𝘇𝗶́𝗰𝗶𝗼́𝗸...
+___
+
+###### 6) [Október 26., 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/647360502812975/)
+* from: *
+* x
+###### content
+* Sikerült bejutnom "vigaszágon" a rendszerüzemeltető képzésre... A munkaadóm alapvetően hajlana a nyilatkozat megtételére...
+___
+
+###### 6) [Október 26., 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/647354116146947/)
+* from: *
+* x
+###### content
+* Node.JS MySQL REST API ezzel a leírással (https://bezkoder.com/node-js-rest-api-express-mysql/) történő telepítését meg tudná valaki nézni Windowson?
+* Én Linuxon megcsináltam és szuperül működik. Windowson ma már nincs időm megnézni, de addig is örülnék pár visszajelzésnek, hogy neked sikerült e. http://json.mysqhost.tk:3003/customers
+___
+
+###### 6) [Október 26., 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/647354112813614/)
+* from: *
+* x
+###### content
+* Node.JS MySQL REST API ezzel a leírással (https://bezkoder.com/node-js-rest-api-express-mysql/) történő telepítését meg tudná valaki nézni Windowson?
+* Én Linuxon megcsináltam és szuperül működik. Windowson ma már nincs időm megnézni, de addig is örülnék pár visszajelzésnek, hogy neked sikerült e. http://json.mysqhost.tk:3003/customers
+___
+
+###### 6) [Október 26., 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/647317169483975/)
+* from: *
+* x
+###### content
+* BTW nem tudom volt e már, de mi ma eligazításon (mentoros csop fog) azt az infót kaptuk, hogy mindenki hozzáférést fog kapni a Training 360 videókhoz. Erről ennyit azokról, akik csak a vidik miatt jelentkeztek első helyre a t360hoz
+___
+
+###### 6) [Október 26., 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/647308146151544/)
+* from: *
+* x
+###### content
+* ... Udemy-s szabadcsapatnak... Colt Steele lett a befutó.
+* https://discord.gg/fYkdvtu
+* #fixterv
+___
+
+###### 6) [Október 26., 18:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/647238859491806/)
+* from: *
+* x
+###### content
+* egyelőre az elsőnapi eligazítás után én azt látom, hogy teljesen nyugodtan lehetne ezt melo mellett csinálni, ha a délelőttöd szabad mondjuk...
+___
 
 ###### 6) [2020-10-26, 17:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/647199179495774/)
 * from: *
