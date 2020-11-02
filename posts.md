@@ -9,14 +9,120 @@
 ---
 ___
 -->
-###### 6) [Október 28., 11:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/648613359354356/)
+###### 6) [2020-10-30, 0:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/649869185895440/)
+* from: *
+* x
+###### content
+* Egy kis időutazás. Megtaláltam egy 2001-ben írt szkriptemet... Unicode még nem támogatott...
+___
+
+###### 6) [2020-10-29, 20:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/649756095906749/)
+* from: *
+* x
+###### content
+* #hardcore cucc... C, C++, C# and Java... Errors detected in Open Source projects by the PVS-Studio developers through static analysis
+* https://www.viva64.com/en/pvs-studio/
+* https://www.viva64.com/en/examples/ ...
+___
+
+###### 6) [2020-10-29, 18:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/649684062580619/)
+* from: *
+* x
+###### content
+* Újratervezés Program délelőtti csoportos foglalkozás 83-ból.....talán tesztelő szakirány...
+* img
+___
+
+###### 6) [2020-10-29, 17:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/649633912585634/)
+* from: * [FW: Október 28., 16:11](https://www.facebook.com/moriohdotcom/posts/3169929896467158)
+* x
+###### content
+* #morioh #webdevelopment #javascript #angular #node #react 
+* Web Developer Roadmap - 2020 - Photos from https://www.facebook.com/escalesolutions
+* https://morioh.com/p/f559dc929e86
+___
+
+###### 6) [2020-10-28, 22:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/649038959311796/)
+* from: *
+* x
+###### content
+* Jól kezdődik Maunika Valahol egy másik csoportban
+___
+
+###### 6) [2020-10-28, 22:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/649015989314093/)
+* from: *
+* x
+###### content
+* Azon gondolkodtam, hogy a különböző #Node.js weboldalakat, hogyan lehetne kirakni különböző virtuális hostokra, mindegyiket a 80-as porton. Úgy mint ahogy egy átlagos Apache webszervernél. Történetesen úgy néz ki, hogy a megoldás maga az Apache webszerver. Azaz a Node hostot ráküldeni egy Apache proxypassra, így az Apache kiszolgálja a Node.js alkalmazást egy virtuális hoston. Még nem próbáltam ki. Esetleg más lehetőségeket ismer valaki, akkor osssza meg a komment szekcióban.
+___
+
+###### 6) [2020-10-28, 21:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/648981652650860/)
+* from: *
+* x
+###### content
+* #tesztelő
+* becsszóra kerestem, de nem sikerült kinyomoznom: lett olyan tesztelői/tesztelés iránt érdeklődő csoport (akár facebook, vagy máshol), ami független az államilag támogatott képzéstől (nem írtam alá a szerződést, a zártkörű csoportba pedig nem akarok kontárkodni), és meg lehet vitatni szakmai dolgokat/hogyan tovább lehetőségeket, stb? Ha van ilyen, akkor szívesen csatlakoznék, és köszi!! 
+___
+
+###### 6) [2020-10-28, 19:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/648925922656433/)
+* from: * [FW: Október 28., 19:33](https://www.facebook.com/groups/javascripthun/permalink/362833708132216/)
+* x
+###### content
+* #Javascript #Programozás #Video
+* youtube: [Funkcionális módszerek JavaScriptben](https://www.youtube.com/watch?v=sY5Ndrly8Ms
+___
+
+###### 6) [2020-10-28, 18:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/648893382659687/)
+* from: *
+* x
+###### content
+* img
+___
+
+###### 6) [2020-10-28, 18:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/648870789328613/)
+* from: *
+* x
+###### content
+* Sziasztok! T360-as belépési adatokat megkaptuk? Vagy tudjuk már, CodeCoolerként hogyan férünk hozzá az alapképzéshez a t360 oldalán?
+___
+
+###### 6) [2020-10-28, 16:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/648824302666595/)
+* from: *
+* x
+###### content
+* T360-as frontend-eseket kérdezném,hogy amíg a slacket meghegesztik,nem csinálunk esetleg egy discordos csetet? (zárójelben jegyzem meg,hogy sztem alapból jobb cucc,mint a slack 😃 )
+___
+
+###### 6) [2020-10-28, 15:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/648766982672327/)
+* from: *
+* x
+###### content
+* Lezárult?
+* [A 61 ezer jelentkezőből mindössze ezren... | 24.hu](https://24.hu/fn/gazdasag/2020/10/28/ingyenes-allami-informatikai-kepzes-ujratervezes-ezer-tanulo/)
+___
+
+###### 6) [2020-10-28, 12:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/648664919349200/)
+* from: *
+* x
+###### content
+* Hali! T360 rendszerüzemeltetői csoportról tud valaki? És ha igen, belinkelné nekem? Köszönöm.
+___
+
+###### 6) [2020-10-28, 11:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/648631076019251/)
+* from: *
+* x
+###### content
+* Nos. Megkaptuk, hogy az állami vizsgákról semmit nem tudni még. Nézzünk utána, mi, vagy majd kiderül minden... Ki merre fele indulna el? Nive? Oktatási Hivatal?... Máshol milyen infók hangzottak el ezzel kapcsolatban?
+___
+
+###### 6) [2020-10-28, 11:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/648613359354356/)
 * from: *
 * x
 ###### content
 * hvg.hu: [Káoszba fulladt az állami informatikusképzés felvételije](https://hvg.hu/kkv/20201028_informatikuskepzes_nszfh_programozas)
 ___
 
-###### 6) [Október 27., 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/648119319403760/)
+###### 6) [2020-10-27, 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/648119319403760/)
 * from: *
 * x
 ###### content
@@ -25,21 +131,21 @@ ___
 * youtube: [10... GITHUB REPOS... TOP 10 FREE DEVELOPER RESOURCES](https://www.youtube.com/watch?v=EhQke5BVcLw)
 ___
 
-###### 6) [Október 27., 18:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/648075336074825/)
+###### 6) [2020-10-27, 18:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/648075336074825/)
 * from: *
 * x
 ###### content
 * A Training360 megnyitója az összes résztvevőnek holnap, szerdán 9:30-kor kezdődne a kiküldött e-mail szövege alapján, viszont 8:30-kor a mellékelt naptári bejegyzés szerint, azt követően pedig jönne a naptár szerint a Traning360 backend fejlesztőinek a megnyitója 9:30-tól, ennél nincs információ az e-mail-ben a kezdésről. Tudja valaki, hogy melyik lehet az érvényes időpont?
 ___
 
-###### 6) [Október 27., 15:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/647940419421650/)
+###### 6) [2020-10-27, 15:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/647940419421650/)
 * from: *
 * x
 ###### content
 * 2021 Május... Józsi: Indul a 2021-es újratervezés program... Kristóf: Szerinted ugyanazok fognak bejutni?...
 ___
 
-###### 6) [Október 27., 14:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/647904296091929/)
+###### 6) [2020-10-27, 14:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/647904296091929/)
 * from: *
 * x
 ###### content
@@ -47,28 +153,28 @@ ___
 * youtube: [40 Amazing Developers You Should Follow To Improve](https://www.youtube.com/watch?v=T1RkVVVTZ4Y)
 ___
 
-###### 6) [Október 27., 12:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/647830952765930/)
+###### 6) [2020-10-27, 12:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/647830952765930/)
 * from: *
 * x
 ###### content
 * Hahó! Aki t360-as elérni a tananyagokat amiről emailt küldtek? nekem bejelentkezés után sem jön be, csak újra a bejelentkezéses oldal.
 ___
 
-###### 6) [Október 26., 21:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/647363476146011/)
+###### 6) [2020-10-26, 21:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/647363476146011/)
 * from: *
 * x
 ###### content
 * [ 𝗘𝗣𝗔𝗠 𝗠𝗨𝗡𝗞𝗔𝗟𝗘𝗛𝗘𝗧𝗢̋𝗦𝗘́𝗚 ]... a cégnek van saját mentorprogramja... 𝗡𝘆𝗶𝘁𝗼𝘁𝘁 𝗽𝗼𝘇𝗶́𝗰𝗶𝗼́𝗸...
 ___
 
-###### 6) [Október 26., 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/647360502812975/)
+###### 6) [2020-10-26, 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/647360502812975/)
 * from: *
 * x
 ###### content
 * Sikerült bejutnom "vigaszágon" a rendszerüzemeltető képzésre... A munkaadóm alapvetően hajlana a nyilatkozat megtételére...
 ___
 
-###### 6) [Október 26., 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/647354116146947/)
+###### 6) [2020-10-26, 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/647354116146947/)
 * from: *
 * x
 ###### content
@@ -76,7 +182,7 @@ ___
 * Én Linuxon megcsináltam és szuperül működik. Windowson ma már nincs időm megnézni, de addig is örülnék pár visszajelzésnek, hogy neked sikerült e. http://json.mysqhost.tk:3003/customers
 ___
 
-###### 6) [Október 26., 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/647354112813614/)
+###### 6) [2020-10-26, 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/647354112813614/)
 * from: *
 * x
 ###### content
@@ -84,14 +190,14 @@ ___
 * Én Linuxon megcsináltam és szuperül működik. Windowson ma már nincs időm megnézni, de addig is örülnék pár visszajelzésnek, hogy neked sikerült e. http://json.mysqhost.tk:3003/customers
 ___
 
-###### 6) [Október 26., 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/647317169483975/)
+###### 6) [2020-10-26, 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/647317169483975/)
 * from: *
 * x
 ###### content
 * BTW nem tudom volt e már, de mi ma eligazításon (mentoros csop fog) azt az infót kaptuk, hogy mindenki hozzáférést fog kapni a Training 360 videókhoz. Erről ennyit azokról, akik csak a vidik miatt jelentkeztek első helyre a t360hoz
 ___
 
-###### 6) [Október 26., 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/647308146151544/)
+###### 6) [2020-10-26, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/647308146151544/)
 * from: *
 * x
 ###### content
@@ -100,7 +206,7 @@ ___
 * #fixterv
 ___
 
-###### 6) [Október 26., 18:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/647238859491806/)
+###### 6) [2020-10-26, 18:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/647238859491806/)
 * from: *
 * x
 ###### content
