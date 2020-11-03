@@ -9,6 +9,7 @@
 ---
 ___
 -->
+
 ###### 6) [2020-11-02, 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/653186468897045/)
 * from: *
 * x
@@ -39,7 +40,7 @@ ___
 ___
 
 ###### 6) [2020-11-01, 21:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/652357758979916/)
-* from: * [FW: November 1., 20:47](https://www.facebook.com/groups/javascripthun/permalink/365963394485914/)
+* from: * | [FW: November 1., 20:47](https://www.facebook.com/groups/javascripthun/permalink/365963394485914/)
 * x
 ###### content
 * #Frontend #Javascript
@@ -61,7 +62,7 @@ ___
 ___
 
 ###### 6) [2020-10-31, 23:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/651571072391918/)
-* from: * [FW: Október 31., 23:03](https://www.facebook.com/groups/javascripthun/permalink/365242057891381/)
+* from: * | [FW: Október 31., 23:03](https://www.facebook.com/groups/javascripthun/permalink/365242057891381/)
 * x
 ###### content
 * #Javascript Tutorial: Felejtsd el a VAR-t
@@ -76,7 +77,7 @@ ___
 ___
 
 ###### 6) [2020-10-31, 22:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/651559905726368/)
-* from: * [FW: Október 31., 22:38](https://www.facebook.com/groups/javascripthun/permalink/365231264559127/)
+* from: * | [FW: Október 31., 22:38](https://www.facebook.com/groups/javascripthun/permalink/365231264559127/)
 * x
 ###### content
 * A legjobb magyar nyelvű #Javascript - el is foglalkozó YouTube csatornákat gyújtsük ennek a postnak a kommentjébe? Te milyen csatornákat nézel és követsz #Webfejlesztés - sel kapcsolatban?
@@ -225,7 +226,7 @@ ___
 ___
 
 ###### 6) [2020-10-29, 17:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/649633912585634/)
-* from: * [FW: Október 28., 16:11](https://www.facebook.com/moriohdotcom/posts/3169929896467158)
+* from: * | [FW: Október 28., 16:11](https://www.facebook.com/moriohdotcom/posts/3169929896467158)
 * x
 ###### content
 * #morioh #webdevelopment #javascript #angular #node #react 
@@ -256,7 +257,7 @@ ___
 ___
 
 ###### 6) [2020-10-28, 19:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/648925922656433/)
-* from: * [FW: Október 28., 19:33](https://www.facebook.com/groups/javascripthun/permalink/362833708132216/)
+* from: * | [FW: Október 28., 19:33](https://www.facebook.com/groups/javascripthun/permalink/362833708132216/)
 * x
 ###### content
 * #Javascript #Programozás #Video
@@ -1227,7 +1228,7 @@ ___
 ___
 
 ###### 6) [2020-10-18, 17:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640725740143118/)
-* from: Adminisztrátor [RE: Október 6., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
+* from: Adminisztrátor | [RE: Október 6., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
 * x
 ###### content
 * Van pár hely még mindig
@@ -3163,6 +3164,7 @@ ___
 ###### 6) [2020-10-10, 1:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/633944150821277/)
 * from: *
 * x
+* /bookmark: tagging-complete/
 ###### content
 * Elöfizetöje vagyok a Netakademianak és a DevOps akademianak...
 ___
@@ -3179,7 +3181,7 @@ ___
 ___
 
 #### 4) [2020-10-09, 23:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/633898600825832/)
-* from: * [RE: 2020-10-09, 12:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/633555680860124/)
+* from: * | [RE: 2020-10-09, 12:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/633555680860124/)
 * pull
 * továbbjutás
 * rangsor
@@ -3485,7 +3487,6 @@ ___
 ###### content
 * Bocs, ha volt már... honnan van a 2.5 MILLIÓ... vissza kell fizetni sikertelenség esetén?
 ___
-
 
 ### 3) [2020-10-09, 13:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/633587154190310/)
 * from: *
