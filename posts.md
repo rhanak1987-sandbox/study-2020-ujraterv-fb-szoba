@@ -9,6 +9,50 @@
 ---
 ___
 -->
+###### 6) [2020-11-02, 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/653186468897045/)
+* from: *
+* x
+###### content
+* Remélem nem én vagyok az egyetlen, aki nem ismerte még ezt a két hasznos billentyűkombinációt win10 alatt...
+___
+
+###### 6) [2020-11-02, 19:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/653098408905851/)
+* from: *
+* x
+###### content
+* Nézzük csak hány állásra tudnánk jelentkezni ha lenne rendszerüzemeltetői képesítésünk. Professionön 8 budapesti találat van a pályakezdő kategórián belül...
+___
+
+###### 6) [2020-11-01, 21:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/652389095643449/)
+* from: *
+* x
+###### content
+* Új kihívások a webdesign szakmában
+* #Webdesign #Webfejlesztés
+___
+
+###### 6) [2020-11-01, 21:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/652386838977008/)
+* from: *
+* x
+###### content
+* #Webfejlesztés Minden amit tudnod kell róla
+___
+
+###### 6) [2020-11-01, 21:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/652357758979916/)
+* from: * [FW: November 1., 20:47](https://www.facebook.com/groups/javascripthun/permalink/365963394485914/)
+* x
+###### content
+* #Frontend #Javascript
+* https://www.youtube.com/watch?v=E6wQn9t0sP4
+___
+
+###### 6) [2020-11-01, 13:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/652023139013378/)
+* from: *
+* x
+###### content
+* img
+___
+
 ###### 6) [2020-11-01, 0:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/651605399055152/)
 * from: *
 * x
