@@ -9,6 +9,98 @@
 ---
 ___
 -->
+###### 6) [2020-11-06, 3:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/655637108651981/)
+* from: *
+* x
+###### content
+* Pár kedvencem. Köszi, hogy itt lehetek! Magamtól tanulom a frontendet egy éve, és jól esik a nyelvtársaim közé benézni a sok angol szöveg után. Hajrá!
+* img
+___
+
+###### 6) [2020-11-05, 20:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/655409795341379/)
+* from: *
+* x
+###### content
+* Jó lett volna tudni
+* img
+___
+
+###### 6) [2020-11-05, 19:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/655401718675520/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Digitális óra készítése apró DIV-ekből vagy nagy táblázat apró négyzetrácsából. Ezek rajzolják ki a számokat.
+* Itt egy szemléltető videó. Nem fontos így megcsinálni. Elég lesz 2D-ben összedobni, akár pálcika számokkal.
+Jó szórakozást és fejlesztést
+___
+
+###### 6) [2020-11-05, 13:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/655151458700546/)
+* from: *
+* x
+###### content
+* Valaki el tudná magyarázni, hogy az “f” == (“x” || “f”) miért false?
+___
+
+###### 6) [2020-11-04, 18:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/654612005421158/)
+* from: *
+* x
+###### content
+* Egy ismerősömmel egy már kész weboldalot akarunk publikálni (egy vállalkozónak) ahová statikus adatokkal töltöttük fel(képek, leírás stb.) a weboldalt. Felmerült bennünk az kérdés hogyha a felületen van egy elérhetőség mint email cím és telefonszám - akkor ebben az esetben nekünk kell e valamilyen adatvédelmi tájékoztatót megadni?...
+___
+
+###### 6) [2020-11-04, 14:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/654451002103925/)
+* from: *
+* x
+###### content
+* https://24.hu/fn/gazdasag/2020/11/04/draga-ingyenes-allami-informatikai-kepzes-ujratervezes-strukturavaltas/
+___
+
+###### 6) [2020-11-04, 13:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/654438658771826/)
+* from: *
+* x
+###### content
+* MySQL táblázatból szeretnék grafikont készíteni. Időpont, hőmérséklet és páratartalom adatokkal. Hogy lehetne ezt szépen és egyszerűen megoldani?
+* Jó lenne, ha lehetne választani, hogy mekkora időintervallumot jelentsen meg. 1 nap, 1 hét, 1 hónap. Esetleg adott dátumtól dátumig. Valakinek van erre megoldása?
+___
+
+###### 6) [2020-11-03, 23:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/654031408812551/)
+* from: *
+* x
+###### content
+* Összedobtam egy egyszerűsített BlackJack játékot javascriptben. Ha valakit esetleg érdekel a kód, a videó leírásában megtalálható
+___
+
+###### 6) [2020-11-03, 15:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/653739712175054/)
+* from: *
+* x
+###### content
+* Webuni élő adásban volt. November 3., 14:45
+* Kíváncsi vagy milyen működő alkalmazást tudsz Te is lefejleszteni 40 perc alatt? Tarts velünk ingyenes webináriumunkon...
+___
+
+###### 6) [2020-11-03, 12:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/653655542183471/)
+* from: *
+* x
+###### content
+* img
+___
+
+###### 6) [2020-11-03, 12:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/653636175518741/)
+* from: *
+* x
+###### content
+* Érdeklődnék, hogy valaki használ-e paper.js-t?
+___
+
+###### 6) [2020-11-03, 11:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/653618132187212/)
+* from: *
+* x
+* #csoport #kommunikáció
+###### content
+* Lecsengett az októberi hullám - legalábbis itt a csoportban a hozzászólásokat illetően. A november elég csendesen indult.
+* A teljes október hónapra vetítve összesen 642 nyitóposzt indult
+* RE: https://www.facebook.com/groups/ujratervezesprogram/permalink/636618217220537/
+___
 
 ###### 6) [2020-11-02, 21:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/653186468897045/)
 * from: *
@@ -3166,7 +3258,7 @@ ___
 * x
 * /bookmark: tagging-complete/
 ###### content
-* Elöfizetöje vagyok a Netakademianak és a DevOps akademianak...
+* Elöfizetöje vagyok a Netakademianak és a DevOps akademianak... akciós csomag... ez az állami tanfolyam ilyen szinten darálva értelmetlen...
 ___
 
 ### 3) [2020-10-10, 0:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/633908697491489/)
