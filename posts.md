@@ -9,6 +9,150 @@
 ---
 ___
 -->
+
+###### 6) [2020-11-11, 17:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/659992831549742/)
+* from: *
+* x
+###### content
+* 2020-11-11, 16:46
+* Egy hülye kérdésem lenne, hátha valaki tudja a választ. Ki fejleszti a böngészők fejlesztői módját? Mármint szabvány szerint mükődik mindegyik, vagy vannak köztük eltérések? Ebbe futottam bele ma, amit az alábbi képeken látni. Ugyanaz a kod mindkét oldalon. Mi az eltérés? Vagy át kéne valamit állatinai a DevTools ban?
+___
+
+###### 6) [2020-11-10, 20:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/659315048284187/)
+* from: *
+* x
+* #Javascript [Tutorial] [Level easy]
+###### content
+* 2020-11-10, 20:20
+* Paragraphban található szöveg stílus formázása checkboxokkal
+___
+
+###### 6) [2020-11-10, 12:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/659014201647605/)
+* from: *
+* x
+###### content
+* Segítségek kérek. Szeretnék kapcsolatba lépni valakivel a Training360 - Front szakirányból. Ha vki közülünk oda jár kérem keressen meg privátban. Előre is köszi
+___
+
+###### 6) [2020-11-09, 16:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/658375695044789/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Számokat szöveggé konvertáló függvény készítése. Példák:
+* numberToString(23) // Erednménye legyen: Huszonhárom
+* numberToString(1216413) // Erednménye legyen: Egymilliókétszáztizenhatezernégyszáztizenhárom...
+___
+
+###### 6) [2020-11-09, 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/658266648389027/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Email cím helyességét ellenőrző #javascript funkció készítése. Az input oldalon bemegy a megadott emailcím, a visszatérési értéke pedig egy egyszerű true vagy false legyen. Mit kell ellenőrizni? Legyen @-jel, ne hiányozzon a végéről a .com vagy hu, vagy akármilyen más domain végződés, ne tartalmazzon nagybetűt és ékezetet.
+___
+
+###### 6) [2020-11-09, 12:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/658237725058586/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Készítettem egy kis PHP login backendet, ami POST metódussal vár "username" és "password" globális változókat egy login-formtól "btnlogin" nevű submit gombbal beküldve az adatokat.
+* https://php-codetest.herokuapp.com/.../logintests/login1.php
+* Az alábbi felhasználóneveket és jelszavakat fogadja el: "Istvan" => "istvanbelep";
+___
+
+###### 6) [2020-11-08, 13:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/657512341797791/)
+* from: *
+* x
+###### content
+* [Megoldódott][Ctrl+Shift+R // Cach törlése]
+* Új vagyok és csak nem rég kezdtem komolyabban foglalkozni a webfejlesztéssel(azon belül is a Front-end). Egyenlőre localhost-on dolgozgatok...
+___
+
+###### 6) [2020-11-07, 21:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/657021545180204/)
+* from: *
+* x
+###### content
+* Egy újabb alternatíva, ha valaki még mindig sulit keres:
+___
+
+###### 6) [2020-11-07, 20:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/656969205185438/)
+* from: *
+* x
+###### content
+* Ki milyen programozás feladatos oldalt ismer? Olyan amihez nem kell regisztrálni sem. Én találtam egy jót, de azt nem akarom kitenni, mert majd onnan szeretnék ötletet meríteni házifeladatokhoz
+___
+
+###### 6) [2020-11-07, 18:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/656912378524454/)
+* from: *
+* x
+###### content
+* HÁZIFELADAT Az aktuális időt (Óra, Perc, Másodperc) tömbben visszaadó függvény készítése. Például ha az aktuális idő 9óra 30perc 7másodperc, akkor a függvény visszatérési értéke ez atömb legyen: [0, 9, 3, 0, 0, 7]
+___
+
+###### 6) [2020-11-07, 15:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/656795501869475/)
+* from: *
+* x
+###### content
+* Most hétvégén féláron. Ez is és az összes többi Panem által kiadott könyv is.
+___
+
+###### 6) [2020-11-07, 13:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/656699991879026/)
+* from: *
+* x
+###### content
+* FP vs OOP / #Javascript
+___
+
+###### 6) [2020-11-07, 10:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/656626241886401/)
+* from: *
+* x
+###### content
+* Sziasztok! Lehet hogy egy kicsit off, de NAS beállításban tud valaki segíteni. Elakadtam köszönöm
+___
+
+###### 6) [2020-11-07, 0:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/656302705252088/)
+* from: *
+* x
+###### content
+* http://fbuy.me/v/georgegriecs
+* Tanulni jó 🙂 Ajánlom mindenkinek aki szeretne belekóstolni a világ számtalan nagy egyetemének kurzusaiba, pár dolláért még igazoló oklevelet is kaphattok az elvégzett kurzusokról. Kalandra fel!
+___
+
+###### 6) [2020-11-06, 18:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/656123498603342/)
+* from: *
+* x
+###### content
+* Valami olyasmi bazt tudnátok fejleszteni ami rákattint a tovább gombra amikor youtube playlist megáll és megkérdezi, hogy folytatja-e a video lejátszást? Az adblock a reklámokat kiszedi, de ilyet nem tud.
+___
+
+###### 6) [2020-11-06, 12:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/655894591959566/)
+* from: *
+* x
+###### content
+* Kinek hogy halad az Admin template?
+___
+
+###### 6) [2020-11-06, 12:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/655888278626864/)
+* from: *
+* x
+###### content
+* A 2. Hét végére is tartom azt, hogy nyugodtan lehet munka mellett csinálni, és biztos csináljak is - ha pl. csak délelőtt vagy délután dolgozol.
+* 2 dolog nagyon hiányzik, - a live Coding és a code review - egyelőre ez egy nagy tanuloszoba, előre kiadott feladatokkal, amiknek a megoldása vagy jó vagy nem...
+___
+
+###### 6) [2020-11-06, 7:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/655748978640794/)
+* from: *
+* x
+###### content
+* Na, megjött a Diákhitel! És a tanfolyam is király! El lehet végezni amellett a csökkenő vállalkozói meló mellett, ami miatt belekezdtem. Egyelőre csak nyertünk ezen a bulin, megírhatja a HVG.
+___
+
+###### 6) [2020-11-06, 6:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/655726875309671/)
+* from: *
+* x
+###### content
+* Jó kis oldal, csak pont hogy munkatapasztalatom nincs, amit kirakhatnék. GitHubról is össze tudja szedni az adatokat, de ahhoz is kellene programozni még pár évig, hogy ütős legyen...
+___
+
 ###### 6) [2020-11-06, 3:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/655637108651981/)
 * from: *
 * x
