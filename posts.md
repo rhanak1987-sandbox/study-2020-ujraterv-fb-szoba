@@ -10,12 +10,63 @@
 ___
 -->
 
+###### 6) [2020-11-15, 16:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/663085597907132/)
+* from: *
+* x
+###### content
+* COURSEKING.ORG Get Up To 95% Off Udemy Courses
+___
+
+###### 6) [2020-11-15, 11:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/662921704590188/)
+* from: *
+* x
+###### content
+* Sziasztok! Abban kérném a segítségeteket, hogy nem tudtok olyan oldalról (az se baj, ha fizetős), ahol sok egyszerű és érthető gyakorlófeladat van Javahoz...
+___
+
+###### 6) [2020-11-13, 19:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/661640981384927/)
+* from: *
+* x
+###### content
+* img
+---
+___
+
+###### 6) [2020-11-11, 23:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/660199734862385/)
+* from: *
+* x
+###### content
+* Sziasztok! Lehet egy kérdésem? Mi a véleményetek a Codeberry-ről...
+___
+
+###### 6) [2020-11-11, 20:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/660083721540653/)
+* from: *
+* x
+###### content
+* #HTML5 Game developer day
+* #Webfejlesztés
+___
+
+###### 6) [2020-11-11, 19:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/660064534875905/)
+* from: *
+* x
+###### content
+* Hogyan akadályoz meg egy fejlesztő 14 karakteres kóddal egy hacker támadást?
+___
+
+###### 6) [2020-11-11, 19:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/660047191544306/)
+* from: *
+* x
+###### content
+* img
+___
+
 ###### 6) [2020-11-11, 17:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/659992831549742/)
 * from: *
 * x
 ###### content
 * 2020-11-11, 16:46
-* Egy hülye kérdésem lenne, hátha valaki tudja a választ. Ki fejleszti a böngészők fejlesztői módját? Mármint szabvány szerint mükődik mindegyik, vagy vannak köztük eltérések? Ebbe futottam bele ma, amit az alábbi képeken látni. Ugyanaz a kod mindkét oldalon. Mi az eltérés? Vagy át kéne valamit állatinai a DevTools ban?
+* Egy hülye kérdésem lenne, hátha valaki tudja a választ. Ki fejleszti a böngészők fejlesztői módját...
 ___
 
 ###### 6) [2020-11-10, 20:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/659315048284187/)
