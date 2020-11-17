@@ -29,7 +29,6 @@ ___
 * x
 ###### content
 * img
----
 ___
 
 ###### 6) [2020-11-11, 23:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/660199734862385/)
@@ -2748,7 +2747,8 @@ ___
 
 ###### 6) [2020-10-13, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/636428173906208/)
 * from: *
-* x
+* homework
+* extracurricular
 * /bookmark/
 ###### content
 * Házi feladat:Csinálj 16db kockát, amibe be lehet írni az átlagot...
@@ -2870,9 +2870,9 @@ ___
 * a Java backend-ből idézek...
 ___
 
-##### 5) [removed: 2020-10-12, 636052660610426](https://www.facebook.com/groups/ujratervezesprogram/permalink/636052660610426/)
-* from: *
-* ping
+#### 4) [removed: 2020-10-12, 636052660610426](https://www.facebook.com/groups/ujratervezesprogram/permalink/636052660610426/)
+* from: * (re?)
+* pull
 * továbbjutás
 ###### content
 * Van,aki még mindíg nem kapott levelet?
@@ -2887,9 +2887,6 @@ ___
 * Én itt kezdtem el képzést, teljesen ingyenes és kapsz certificatet a végén. Persze nincs mentor aki segít stb. De szerintem egy jó alternatíva...
 * [freeCodeCamp.org](https://www.freecodecamp.org/)
 ___
-Sziasztok,
-Sajnos csak ma sikerült megtalalnom a csoportot, de sok hasznos infót olvastam tőletek. Nekem is vannak problémáim a szerződéssel, nem is a visszafizetés ténye, hanem annak irracionális mértéke. Illetve, hogy nincs figyelembe véve a célcsoport, aki nagy részben nem áll jelenleg munkaviszonyban. 
-Viszont nem ezért írok, véleményetek érdekelne, ki ismeri a lenti oldalt? Én itt kezdtem el képzést, teljesen ingyenes és kapsz certificatet a végén. Persze nincs mentor aki segít stb. De szerintem egy jó alternatíva lehet.щ
 
 ###### 6) [2020-10-12, 17:30](https://www.facebook.com/groups/ujratervezesprogram/permalink/636028817279477/)
 * from: *
@@ -3058,8 +3055,8 @@ ___
 
 ### 3) [2020-10-11, 22:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/635281040687588/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 * /bookmark: tagging-started/
 ###### content
@@ -3078,8 +3075,8 @@ ___
 
 ### 3) [2020-10-11, 21:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/635252534023772/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * Az idősávokat próbálom összeegyeztetni...
@@ -3088,8 +3085,8 @@ ___
 
 ### 3) [2020-10-11, 19:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/635183034030722/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * A Greenfox is feltette a konkrét beosztást
@@ -3114,8 +3111,8 @@ ___
 
 ### 3) [2020-10-11, 15:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/635017210713971/)
 * from: *
-* **push**
-* **it-news**
+* push
+* it-news
 ###### content
 * Egy kis olvasnivaló így hétvégére...
 * https://raketa.hu/isten-konzolja-a-kvantumszamitogep
@@ -3130,8 +3127,8 @@ ___
 
 ### 3) [2020-10-11, 14:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/634981967384162/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * Akinek kétségei voltak a Training 360 kontaktórás időpontjait tekintve...
@@ -3140,8 +3137,8 @@ ___
 
 ### 3) [2020-10-11, 14:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/634977710717921/)
 * from: *
-* **push**
-* **self-learning**
+* push
+* self-learning
 ###### content
 * Köszönöm Nektek a sok segítséget... Én nem folytatom...
 * Remélem a Webfejlesztés csopi marad... egymást segítve tudnak, tudunk továbbtanulni... 
@@ -3186,8 +3183,8 @@ ___
 
 ### 3) [2020-10-11, 12:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/634929740722718/)
 * from: *
-* **push**
-* **it-news**
+* push
+* it-news
 ###### content
 * Hátha valakit érdekel még némi szakmai is...
 * hwsw.hu: [Miért és mikor érdemes Go-ban programozni?](https://www.hwsw.hu/video/37/go-programozas-hwsw-mobile-2019-szabo-david-leannet.html)
@@ -3195,9 +3192,9 @@ ___
 
 ### 3) [2020-10-11, 11:34](https://www.facebook.com/groups/ujratervezesprogram/permalink/634906334058392/)
 * from: *
-* **poll**
-* **továbbjutás**
-* **contract**
+* poll
+* továbbjutás
+* contract
 ###### content
 * Na ilyen poll még nem volt:
 * Ha nem lenne benne a szerződésben, hogy vissza kell fizetni...
@@ -3258,9 +3255,9 @@ ___
 
 ### 3) [2020-10-11, 9:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/634851814063844/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 * /kifejtve hosszan/
 ###### content
 * Miért éri meg nekem belevágni a tanfolyamba? Neked is megéri?...
@@ -3304,8 +3301,8 @@ ___
 
 ### 3) [2020-10-10, 23:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/634584214090604/)
 * from: *
-* **pull**
-* **továbbjutás**
+* pull
+* továbbjutás
 * /5 pontban/
 ###### content
 * ... megnézzem a feltételeket... Aki szintén tesztelés vonalon ment volna tovább...
@@ -3405,8 +3402,8 @@ ___
 
 ### 3) [2020-10-10, 15:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/634338454115180/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * ... Melyik sulinál lehet szerintetek a legjobban, a saját beosztásom szerint tanulni?...
@@ -3415,9 +3412,9 @@ ___
 
 ### 3) [2020-10-10, 15:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/634337507448608/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * ...rendelkezik A1-es angol nyelvtudással... kizárólag papírral igazolható nyelvvizsga fokozat vagy anélkül is... elfogadják...
 ___
@@ -3433,8 +3430,8 @@ ___
 
 ### 3) [2020-10-10, 13:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/634280347454324/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Az Újratervezés Program kétes szerződései és képzései helyett
 * megosztanám nektek a szegedi székhelyű CheckPoint IT-t... ingyenes online nyílt naphoz...
@@ -3470,18 +3467,18 @@ ___
 
 ### 3) [2020-10-10, 12:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/634249844124041/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * Van olyan, aki nem kapott e mailt? Tudom írni kell,már írtam.
 ___
 
 ### 3) [2020-10-10, 12:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/634233037459055/)
 * from: *
-* **push**
-* **contract**
-* **extracurricular**
+* push
+* contract
+* extracurricular
 ###### content
 * ... hiányzik... munkahelyi felmondáshoz és szerződés aláírásához... 91,8%... back-end...
 * minden egyes képző cég kitehetne egy vagy több pár órás sample-t (részletet) az tanításuk menetéből...
@@ -3534,9 +3531,9 @@ ___
 
 ## 2) [2020-10-10, 10:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/634171057465253/)
 * from: *
-* **collection**
-* **push/pull**
-* **extracurricular**
+* collection
+* push/pull
+* extracurricular
 ###### content
 * Döntöttem. Nem rizikózok. Nem teszem kockára magam és családom anyagi biztonságát...
 * megpróbálok alternatívák felé nézni...
@@ -3587,9 +3584,9 @@ ___
 
 ### 3) [2020-10-10, 1:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/633953990820293/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 * /bookmark: tagging-complete/
 ###### content
 * Szerintetek, ha bejelölöm a preferenciáimat (suli/képzés) és elküldöm kedd délig,
@@ -3608,8 +3605,8 @@ ___
 
 ### 3) [2020-10-10, 0:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/633908697491489/)
 * from: *
-* **pull**
-* **extracurricular**
+* pull
+* extracurricular
 ###### content
 * látom sokan posztolnak alternatív tanulási lehetőségeket...
 * mit csináljon az aki Junior Backend vagy Frontend Fejlesztő képzést szeretne, az sehol nincs odaírva. más elnevezések persze vannak...
@@ -3629,17 +3626,17 @@ ___
 
 ### 3) [2020-10-09, 23:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/633885714160454/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * Megpöccintenék egy témát: Java tanfolyam... ezért a "potom" 2,5E6 forintos teherért... csak annyi... hogy Spring Boot...
 ___
 
 ### 3) [2020-10-09, 23:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/633885257493833/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Leendő tesztelőknek: Masterfieldnél van nemzetközi ISTQB...
 * 170.000+Áfa...
@@ -3647,8 +3644,8 @@ ___
 
 ## 2) [2020-10-09, 22:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/633882377494121/)
 * from: *
-* **nive-news**
-* **továbbjutás**
+* nive-news
+* továbbjutás
 ###### content
 * Mint ahogy azt sejteni lehetett, továbbra sem lesz itt semmiféle kapkodás. Friss mai hír... 2020. október 9., péntek...
 * „Egyes szakmák digitális tananyagfejlesztése - Struktúraváltást támogató informatikai képzések” című (GINOP-6.2.8-VEKOP-20 kódszámú) felhívás az alábbi pontban módosult:
@@ -3710,9 +3707,9 @@ ___
 
 ### 3) [2020-10-09, 20:58](https://www.facebook.com/groups/ujratervezesprogram/permalink/633829910832701/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * Tájékoztatunk, hogy a GINOP-6.2.8-VEKOP-20 kiemelt projekt felhívása szerint...
 * ... résztvevője EGT-állampolgár... ezért számodra sajnos nem tudunk...
@@ -3744,9 +3741,9 @@ ___
 
 ### 3) [2020-10-09, 19:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/633790234170002/)
 * from: *
-* **pull/rant**
-* **továbbjutás**
-* **contract**
+* pull/rant
+* továbbjutás
+* contract
 ###### content
 * A választható képzések eddig is aranyárban voltak? 2-2,5 millio volt egy junior front-end kepzes?... egy nullával kevesebbre emlékszem...
 ___
@@ -3762,9 +3759,9 @@ ___
 
 ### 3) [2020-10-09, 19:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/633779434171082/)
 * from: *
-* **push/rant**
-* **továbbjutás**
-* **contract**
+* push/rant
+* továbbjutás
+* contract
 ###### content
 * Ezt mégis hogy gondolták hogy napi 8 órába tudjunk foglalkozni...
 * Megnéztem mind a 4 oktatási intézmény honlapján...
@@ -3773,8 +3770,8 @@ ___
 
 ### 3) [2020-10-09, 19:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/633779320837760/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Ha számodra nem vállalhatóak a Újratervezés Program feltételei...
 * [studicore.hu/ujratervezes](https://www.studicore.hu/ujratervezes)
@@ -3782,9 +3779,9 @@ ___
 
 ### 3) [2020-10-09, 18:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/633766334172392/)
 * from: *
-* **pull**
-* **news**
-* **továbbjutás**
+* pull
+* news
+* továbbjutás
 ###### content
 * ... véleménycikket... ma kijött képzési feltételekről bármelyik internetes portálon?
 * én még nem találtam egyet sem.
@@ -3792,9 +3789,9 @@ ___
 
 ### 3) [2020-10-09, 18:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/633751480840544/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 * extracurricular
 ###### content
 * Progmasters Tesztelo kepzes online tamogatas nelkul 190e 10het...
@@ -3802,9 +3799,9 @@ ___
 
 ### 3) [2020-10-09, 17:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/633732984175727/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * Némi infot kaptam.
 * img
@@ -3840,17 +3837,17 @@ ___
 
 ### 3) [2020-10-09, 17:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/633713657510993/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * ... a pótvizsga költsége a tanulót terheli. Tudja valaki, hogy hányszor lehet pótvizsgázni és melyik intézménynél mennyibe kerül egy pótvizsga...
 ___
 
 ### 3) [2020-10-09, 16:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/633693507513008/)
 * from: *
-* **pull**
-* **training-materials**
+* pull
+* training-materials
 ###### content
 * Nekem a frontend tananyagra koncentrálva lenne kérdésem...
 * Mitől lesz ez most jobb, több (mentori segítséget kivéve), mint a 8 hetes volt...
@@ -3858,17 +3855,17 @@ ___
 
 ### 3) [2020-10-09, 16:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/633674364181589/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Valaki elmagyarázná nekem a szerződés 10. pontját?
 ___
 
 ### 3) [2020-10-09, 16:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/633671927515166/)
 * from: *
-* **push**
-* **it-news**
+* push
+* it-news
 * /article/
 ###### content
 * Egy érdekes (angol) cikk a javascript jövőjéről...
@@ -3878,8 +3875,8 @@ ___
 
 ### 3) [2020-10-09, 14:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/633630687519290/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 ###### content
 * valahol láttam a sulikat táblázatban összehasonlító statisztikát,
 * [ivsz.hu/bootcamp-auditjelentes](https://ivsz.hu/bootcamp-auditjelentes/)
@@ -3887,9 +3884,9 @@ ___
 
 ### 3) [2020-10-09, 14:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/633623524186673/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Nagy csalódás számomra, mert eddig szó sem volt arról, hogy akinek jelenleg van állása...
 * el tud készülni ez a papír, ez az igazolás kb. 2 nap alatt... önrészről...
@@ -3897,9 +3894,9 @@ ___
 
 ### 3) [2020-10-09, 14:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/633615114187514/)
 * from: *
-* **poll**
-* **továbbjutás**
-* **contract**
+* poll
+* továbbjutás
+* contract
 ###### content
 * Ilyen szavazást nem láttam még.
 * Most a nagy döntés előtt esetleg érdekes felmérés lehet.
@@ -3907,8 +3904,8 @@ ___
 
 ### 3) [2020-10-09, 13:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/633598307522528/)
 * from: *
-* **pull**
-* **extracurricular**
+* pull
+* extracurricular
 * job-market
 * contract
 ###### content
@@ -3927,17 +3924,17 @@ ___
 
 ### 3) [2020-10-09, 13:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/633587154190310/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 ###### content
 * Nem a suli, hanem a képzés az elsődleges, ettől függetlenül vannak/hallottatok infókat...
 ___
 
 ### 3) [2020-10-09, 13:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/633582084190817/)
 * from: *
-* **poll**
-* **továbbjutás**
-* **rangsor**
+* poll
+* továbbjutás
+* rangsor
 ###### content
 * Ki melyik intézménybe és melyik képzésre jelentkezne?
 ___
@@ -3953,8 +3950,8 @@ ___
 
 ### 3) [2020-10-09, 12:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/633558430859849/)
 * from: *
-* **pull**
-* **job-market**
+* pull
+* job-market
 ###### content
 * Egy pár éve dolgozom webfejlesztőként... autodidiakta módon tanultam ki... instruktorként...
 * akik részt vesznek ebben a képzésben, azok mit gondolnak róla... -piacképes -korszerű -életszerű
@@ -3962,9 +3959,9 @@ ___
 
 ### 3) [2020-10-09, 12:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/633555680860124/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * További nem értem rubrika
 * Rangsoroljuk a SZAKIRÁNYT, majd az INTÉZMÉNYT?... lehettek volna szofisztikáltabbak...
@@ -3981,18 +3978,18 @@ ___
 
 ### 3) [2020-10-09, 12:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/633549217527437/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * Lakhely problémák miatt - mivel Ausztriában élek... nem folytathatom a képzést...
 ___
 
 ### 3) [2020-10-09, 12:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/633543160861376/)
 * from: *
-* **push/funz**
-* **továbbjutás**
-* **contract**
+* push/funz
+* továbbjutás
+* contract
 ###### content
 * Támogatási szerződés 16. pontja:
 * "A jelen Támogatási Szerződés minden külön intézkedés nélkül módosulhat."...
@@ -4000,8 +3997,8 @@ ___
 
 ### 3) [2020-10-09, 11:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/633538280861864/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * PROGmasters HOGYAN ZAJLANAK A KÉPZÉSEINK?... távoktatásban... nagyrészt önállóan...
@@ -4011,9 +4008,9 @@ ___
 
 ### 3) [2020-10-09, 11:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/633525630863129/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Elküldtem nekik e-mailben, hátha adnak egy értékelhető választ...
 * ha nem sikerül teljesíteni a képzést, akkor minden esetben egységes összeget kell visszatéríteni?...
@@ -4021,8 +4018,8 @@ ___
 
 ### 3) [2020-10-09, 10:59](https://www.facebook.com/groups/ujratervezesprogram/permalink/633512630864429/)
 * from: *
-* **pull**
-* **job-market**
+* pull
+* job-market
 ###### content
 * Mi az, hogy alapfokú képzés? És hol lehet azzal elhelyezkedni? Alap-Közép-Felsőfok...
 * Ált.iskola - Közép iskola - Főiskola/Egyetem...
@@ -4030,9 +4027,9 @@ ___
 
 ### 3) [2020-10-09, 10:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/633510007531358)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Különböző képzéseknél mennyit kell vissza fizetni ha véletlen nen sikerül?
 * Próbálom az iskolákat elérni de eddig nem sikerült.
@@ -4040,9 +4037,9 @@ ___
 
 ### 3) [2020-10-09, 10:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/633509234198102/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * ha sikerült jól értelmeznem... a 2 szerződést a képző cégnél kell majd aláírni...
 * felvesznek a sorrend alapján, de az előtte lévő helyek felszabadulnak... előrébb kerülni...
@@ -4060,8 +4057,8 @@ ___
 
 ### 3) [2020-10-09, 10:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/633504727531886/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * Codecool: A tantervből... idősávok...
@@ -4070,17 +4067,17 @@ ___
 
 ### 3) [2020-10-09, 10:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/633486467533712/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Most komolyan, van olyan munkáltató a világon, akivel ilyen dokumentumokat alá lehet íratni? Vagy...
 ___
 
 ### 3) [2020-10-09, 10:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/633485887533770/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * Progmasters A beszélgetésem alapján a meghirdetett időpontok fixek... jelenlét...
@@ -4088,18 +4085,18 @@ ___
 
 ### 3) [2020-10-09, 9:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/633478640867828/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * A részletekben vannak még egyéb finomságok: azok, akik munka mellett... eddig felvett covidos, GINOP támogatás mértékén múlik
 ___
 
 ### 3) [2020-10-09, 9:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/633478247534534/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * A képzőintézmények felé kiírt pályázatban...
 * 1000ből kell 750 embernek sikeresen teljesíteni legalább...
@@ -4108,8 +4105,8 @@ ___
 
 ### 3) [2020-10-09, 9:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/633476014201424/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * Hívtam a Training360-at az órarenddel kapcsolatban. Elhajtottak... írjak a ujratervezesprogram@nive.hu -ra...
@@ -4135,9 +4132,9 @@ ___
 
 ### 3) [2020-10-09, 9:34](https://www.facebook.com/groups/ujratervezesprogram/permalink/633470624201963/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * Mindenkinek megvan a saját kis története miért jelentkezett erre a képzésre...
 * Már májusban felvettek... Ha piaci áron lenne még alá is írnám... Késedelmi kamat... Olvassatok figyelmesen...
@@ -4145,26 +4142,26 @@ ___
 
 ### 3) [2020-10-09, 9:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/633467660868926/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Van olyan illető, akinek már van vmilyen tapasztalata ilyen szerződések értelmezése terén... megfizetnem...
 ___
 
 ### 3) [2020-10-09, 9:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/633466780869014/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Hibás jelszót kaptam valaki be tudna nekem fotózni a szerződést?...
 ___
 
 ### 3) [2020-10-09, 9:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/633460554202970/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * Figyeljetek, mert változtak itt-ott a korábbi infók. A Greenfoxnál... Nem tudok bármilyen idősávot megoldani...
@@ -4172,8 +4169,8 @@ ___
 
 ### 3) [2020-10-09, 9:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/633457040869988/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * Megvan még vkinek a képző központok linkjei? Az időbeosztás miatt kérdezem. Mert ami a tájékoztatóban van ott nincs...
@@ -4189,9 +4186,9 @@ ___
 
 ### 3) [2020-10-09, 8:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/633454270870265/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * ... 16.hét heti 5 nap napi 8 óra... 640 órányi... 4000 ft/órát... 2.560.000.- Ft...
 * de pl a Progmasters oldalán... junior front end képzést akkor előfinanszírozás esetén 600.000.- FT utófinanszírozás esetén is csak 720.000.- Ft a képzés költsége.
@@ -4200,17 +4197,17 @@ ___
 
 ### 3) [2020-10-09, 8:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/633444190871273/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * A legvérlázítóbb az egészben, hogy egy külföldi EGT állampolgár aki Mo-on él az megcsinálhatja, de egy Magyar állampolgár aki külföldön az nem..
 ___
 
 ### 3) [2020-10-09, 8:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/633443630871329/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 ###### content
 * A programozósulikban milyen szintről kezdődik az oktatás? Teljesen nulláról, vagy az újratervezés vizsgák szintjétől, vagy esetleg még magasabb alap programozói tudás szükséges?
 ___
@@ -4234,18 +4231,18 @@ ___
 
 ### 3) [2020-10-09, 8:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/633436064205419/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * A visszafizetéssel még _valahol_ egyet is tudok érteni, de... hogyan lett pl. egy átlag ~550k+áfa képzésből 2,5 M forint...
 ___
 
 ### 3) [removed: 2020-10-09, 8:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/633431034205922/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * "A jelen Támogatási Szerződés minden külön intézkedés nélkül módosulhat." (16. pont)
 ___
@@ -4267,9 +4264,9 @@ ___
 
 ### 3) [2020-10-09, 7:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/633402750875417/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **contract**
+* pull
+* továbbjutás
+* contract
 ###### content
 * Valaki legyen oly kedves és világosítson fel. Hogy megjelöljem a preferált képzést és iskolát már ahhoz is szükséges a szerződés aláírása/elfogadása...
 ___
@@ -4285,9 +4282,9 @@ ___
 
 ### 3) [2020-10-09, 6:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/633393650876327/)
 * from: *
-* **push**
-* **továbbjutás**
-* **contract**
+* push
+* továbbjutás
+* contract
 ###### content
 * Tehát, ha nincs munkád jelenleg... felveszel diákhitelt... nem tudsz levizsgázni, akkor 2,5 millát is vissza kell fizetned... ez így nem fog menni...
 ___
@@ -4326,17 +4323,17 @@ ___
 
 ### 3) [2020-10-09, 4:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/633346047547754/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * Kinek mennyi a súlyozott eredménye? Illetve ki vállalja a képzést...
 ___
 
 ### 3) [2020-10-09, 4:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/633338190881873/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * Amúgy jól látom, hogy egyes oktatóhelyeknél (GF, Training 360)
@@ -4354,18 +4351,18 @@ ___
 
 ## 2) [2020-10-09, 2:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/633284704220555/)
 * from: *
-* **push**
-* **nive-info**
-* **továbbjutás**
+* push
+* nive-info
+* továbbjutás
 ###### content
 * Megjött a mail.
 ___
 
 ### 3) [2020-10-08, 23:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/633194954229530/)
 * from: *
-* **push**
-* **továbbjutás**
-* **rangsor**
+* push
+* továbbjutás
+* rangsor
 ###### content
 * Nagyon szeretnem, hogy igazam legyen, mert akkor az, aki tudja vallalni a felteteleket... mindenki kapna lehetoseget a folytatashoz...
 ___
@@ -4380,8 +4377,8 @@ ___
 
 ### 3) [2020-10-08, 20:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/633133047569054/)
 * from: *
-* **pull**
-* **diákhitel**
+* pull
+* diákhitel
 ###### content
 * Diákhitellel kapcsolatban... meddig lehet felvenni?...
 ___
@@ -4422,8 +4419,8 @@ ___
 
 ### 3) [2020-10-08, 16:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/632978274251198/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Amíg várakozunk:
 * [FLEXBOX FROGGY](http://flexboxfroggy.com/#hu)
@@ -4439,8 +4436,8 @@ ___
 ### 3) [2020-10-08, 12:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/632858474263178/)
 * from: *
 * push/rant
-* **továbbjutás**
-* **rangsor**
+* továbbjutás
+* rangsor
 ###### content
 * Reklamáltam kompetencia teszt után, mivel 5 hibás kérdést kaptam...
 * A Nexius tanulmányi rendszer nem menti a tesztsorok kitöltése alkalmával az egyénileg adott válaszokat. A rendszer az adott tanuló összesített eredményét menti... Sajnáljuk, hogy nem lehettünk segítségére...
@@ -4480,9 +4477,9 @@ ___
 
 ### 3) [2020-10-08, 10:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/632807720934920/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * Nekem nem világos az, hogy honnan lehet tudni, mennyi a ponthatár...
 ___
@@ -4504,8 +4501,8 @@ ___
 
 ### 3) [2020-10-08, 6:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/632701860945506/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * A Microsoft csinált egy 51 részes youtube sorozatot kezdő js-hez, témakörönként. Angol...
 * youtube: [Beginner's Series to: JavaScript](https://www.youtube.com/playlist)
@@ -4521,8 +4518,8 @@ ___
 
 ### 3) [2020-10-07, 21:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/632486687633690/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * HÁTI FELADAT Adott két DIV egymásban... klikkelésre... a DIV-ek kivilágosodnak...
 * A HTML kód nem változtatható, az attribútum nem adható hozzá javascriptel sem, csak a style
@@ -4538,8 +4535,8 @@ ___
 
 #### 4) [2020-10-07, 17:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/632356230980069/)
 * from: * | [RE: 2020-10-06, 20:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/631756124373413/)
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * A Training360-at... munka vagy egyéb elfoglaltság mellett?... magam osztom be az időmet,
@@ -4566,9 +4563,9 @@ ___
 
 ### 3) [2020-10-07, 16:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/632307164318309/)
 * from: * | [RE: 2020-10-07, 16:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/632302660985426/) | [RE: 2020-10-05, 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
-* **push**
-* **nive-info**
-* **továbbjutás**
+* push
+* nive-info
+* továbbjutás
 ###### content
 * 6 perce írtak róla infót de a Újratervezés weblapon elérhető már a menüpont is.
 * nive.hu: [bejelentkezes](https://ujratervezes.nive.hu/privat/bejelentkezes)
@@ -4576,9 +4573,9 @@ ___
 
 ### 3) [2020-10-07, 16:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/632302660985426/)
 * from: * | [RE: 2020-10-05, 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
-* **push**
-* **nive-info**
-* **továbbjutás**
+* push
+* nive-info
+* továbbjutás
 ###### content
 * Most kaptam emailt az érdeklődésemre... Az emailek kiküldése 2020.10.07-én kezdődik.
 * Kérjük, amennyiben 2020.10.09-ig nem kap értesítést, jelezze ügyfélszolgálatunk felé.
@@ -4586,25 +4583,25 @@ ___
 
 ### 3) [2020-10-07, 15:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/632279260987766/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Vótmá'?... progmasters IT szakirány választó kvíz (flowchart)
 ___
 
 ### 3) [2020-10-07, 14:34](https://www.facebook.com/groups/ujratervezesprogram/permalink/632253137657045/)
 * from: *
-* **pull**
-* **extracurricular**
+* pull
+* extracurricular
 ###### content
 * A Masterfieldet... mennyire ajánlanátok? Tesztelést szeretnék tanulni...
 ___
 
 ### 3) [2020-10-07, 13:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/632217217660637/)
 * from: *
-* **push**
-* **training-institutions**
-* **extracurricular**
+* push
+* training-institutions
+* extracurricular
 ###### content
 * Ma ezt találtam hirdetésben:
 * greenfoxacademy: [On-campus, szuperintenzív Junior programozó](https://www.greenfoxacademy.com/on-campus-junior-programozo-kepzeseink)
@@ -4612,9 +4609,9 @@ ___
 
 ### 3) [2020-10-07, 12:59](https://www.facebook.com/groups/ujratervezesprogram/permalink/632203180995374/)
 * from: *
-* **push**
-* **training-institutions**
-* **extracurricular**
+* push
+* training-institutions
+* extracurricular
 ###### content
 * Már nem elérhető a Codecool honlapján, de... 2020 október 5-én... négyhónapos frontend...
 * mindösszesen 800 ezer Ft... Ugyanez... Újratervezés Programban 2.5 millió Ft...
@@ -4633,8 +4630,8 @@ ___
 
 ### 3) [2020-10-07, 12:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/632190670996625/)
 * from: *
-* **pull**
-* **továbbjutás**
+* pull
+* továbbjutás
 ###### content
 * Van valaki külföldiából? Egyaltalan lehet folytatni csak online?
 ___
@@ -4664,8 +4661,8 @@ ___
 
 ### 3) [2020-10-07, 10:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/632127394336286/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * [európai programozási hét](https://codeweek.eu)
 ___
@@ -4691,9 +4688,9 @@ ___
 
 ### 3) [2020-10-07, 8:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/632083324340693/)
 * from: *
-* **pull**
-* **training-institutions**
-* **továbbjutás**
+* pull
+* training-institutions
+* továbbjutás
 ###### content
 * ... ki mi alapján rangsorolja az intézményeket...
 * kontaktóra... elérhető plusz anyagok... Egyéb más?...
@@ -4719,16 +4716,16 @@ ___
 
 ### 3) [2020-10-06, 22:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/631819987700360/)
 * from: *
-* **pull**
-* **job-market**
+* pull
+* job-market
 ###### content
 * ... milyen papírt kapnak... mire lesz jó az a papír amit a 4 képzés ad...
 ___
 
 #### 4) [2020-10-06, 22:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/631794801036212/)
 * from: * | [RE: 2020-10-06, 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631745901041102/)
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 * /időbeosztás/
 ###### content
 * ... kepzohelynek... rugalmassag a kezdest illetoen... GYED-en levo Anyukak... De nincs...
@@ -4737,8 +4734,8 @@ ___
 
 ### 3) [2020-10-06, 20:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/631756124373413/)
 * from: * | [Link: 2020-10-05, 22:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/631013927780966/)
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 * /időbeosztás/
 ###### content
 * Training360... Jól értelmezem, hogy náluk gyakorlatilag NINCS kontaktóra...?
@@ -4756,9 +4753,9 @@ ___
 
 #### 4) [2020-10-06, 20:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/631747534374272/)
 * from: * | [RE: 2020-10-06, 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/631419171073775/)
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * Nem egészen értem a folyamatot... Jelentkezzek... ponthatárokat utólag megtudjuk...
 * vagy előbb jön a pontszám alapján a rangsor, és utána jelentkezünk?
@@ -4766,8 +4763,8 @@ ___
 
 ### 3) [2020-10-06, 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631745901041102/)
 * from: *
-* **pull/rant**
-* **továbbjutás**
+* pull/rant
+* továbbjutás
 ###### content
 * ... mérges vagyok... max 1 éves... mindenkinek 4 hónap, napi 8 óra...
 * legalább az egyik képzőhelyen 8 hónap napi 4 óra... van munkája... bizonytalan kimenetelű...
@@ -4789,24 +4786,24 @@ ___
 
 ### 3) [2020-10-06, 18:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/631676387714720/)
 * from: *
-* **poll**
-* **továbbjutás**
+* poll
+* továbbjutás
 ###### content
 * Úgy is vállalod a képzést, hogy Budapesten kell aláírnod a szerződést?
 ___
 
 ### 3) [2020-10-06, 18:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/631674701048222/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * codeberryschool: [Weboldal készítés tanfolyam](https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/)
 ___
 
 ## 2) [2020-10-06, 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
 * from: Adminisztrátor
-* **announcement**
-* **group-news**
+* announcement
+* group-news
 ###### content
 * Aki szeretne jönni Facebook Messenger csoportba az írjon privárot.
 * Úgy is mindig akartatok egy zárt kommunikációs csatornát.
@@ -4821,8 +4818,8 @@ ___
 
 ### 3) [2020-10-06, 16:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/631593881056304/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * [Computer science courses on edX](https://www.edx.org/course/subject/computer-science)
 ___
@@ -4836,8 +4833,8 @@ ___
 
 ### 3) [2020-10-06, 15:08](https://www.facebook.com/groups/ujratervezesprogram/permalink/631539747728384/)
 * from: * | [RE: 2020-10-05, 19:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/630929134456112/)
-* **news**
-* **training-institutions**
+* news
+* training-institutions
 ###### content
 * ... Tájékoztató elmarad... Green Fox... infóestünkre...
 ___
@@ -4861,8 +4858,8 @@ ___
 
 ### 3) [2020-10-06, 12:33](https://www.facebook.com/groups/ujratervezesprogram/permalink/631441994404826/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * GIT+... Plusz tananyag...
 * youtube: [Git és GitHub: 3 órás tanfolyam (2020)](https://www.youtube.com/watch?v=Enzva3d3uuk) | lang-hu
@@ -4870,26 +4867,26 @@ ___
 
 ## 2) [2020-10-06, 12:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/631428111072881/)
 * from: *
-* **collection**
-* **push**
-* **extracurricular**
+* collection
+* push
+* extracurricular
 ###### content
 * [TANANYAG, TUTORIAL]... gyűjtőposzt...
 ___
 
 ### 3) [2020-10-06, 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/631419171073775/)
 * from: *
-* **pull**
-* **továbbjutás**
-* **rangsor**
+* pull
+* továbbjutás
+* rangsor
 ###### content
 * ...hány %-os tesztekkel lehetett bejutni? Vagy ez túlzott igény a transzparenciára?
 ___
 
 ### 3) [2020-10-06, 11:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/631418261073866/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Nem logikus, hogy ennyi, amennyi, de... El kell engedni...
 * Egy kis segítség újratervezőknek | noonies.tech: [Top Tech YouTuber](https://noonies.tech/award/top-tech-youtuber)
@@ -4897,17 +4894,17 @@ ___
 
 ### 3)  [2020-10-06, 11:48](https://www.facebook.com/groups/ujratervezesprogram/permalink/631416927740666/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * PYTHON lvl 2 (EASY) : Feladat... a képen. Laza pár perc alatt...
 ___
 
 ### 3) [2020-10-06, 11:47](https://www.facebook.com/groups/ujratervezesprogram/permalink/631416554407370/)
 * from: *
-* **pull**
-* **training-institutions**
-* **nive-courses**
+* pull
+* training-institutions
+* nive-courses
 ###### content
 * 2 cégnél látom a képzés részletes tematikáját (Progmasters és Training360), de másik 2-nél...?
 ___
@@ -4953,17 +4950,17 @@ ___
 
 ### 3) [2020-10-06, 9:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/631336207748738/)
 * from: *
-* **pull**
-* **lang-en**
+* pull
+* lang-en
 ###### content
 * ... angolból van-e... nyelvtudása..., ha most ez nem számít, mert mindenhol magyar nyelven fognak oktatni?
 ___
 
 ### 3) [2020-10-06, 0:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/631057621109930/)
 * from: *
-* **nive-info**
-* **továbbjutás**
-* **nive-courses**
+* nive-info
+* továbbjutás
+* nive-courses
 ###### content
 * Elérhetőek a képző intézmények is!
 * nive.hu: [Képző intézmények](https://ujratervezes.nive.hu/kepzok)
@@ -4971,16 +4968,16 @@ ___
 
 ### 3) [2020-10-05, 23:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/631030184446007/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * Mai munkám az egyik feladott házi-feladat szerint... A lényeg, hogy ne add fel...
 ___
 
 #### 4) [2020-10-05, 23:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/631025314446494/)
 * from: * | [RE: 2020-10-05, 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/)
-* **nive-info**
-* **továbbjutás**
+* nive-info
+* továbbjutás
 ###### content
 * Úgy látom, péntekig elvileg mindenki kap e-mailt...
 * nive.hu: [bejelentkezes](https://ujratervezes.nive.hu/privat/bejelentkezes)
@@ -4996,17 +4993,17 @@ ___
 
 ### 3) [2020-10-05, 22:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/631015101114182/)
 * from: *
-* **poll**
-* **továbbjutás**
+* poll
+* továbbjutás
 ###### content
 * Hány képzésre fogsz jelentkezni és melyikre?...
 ___
 
 ### 3) [2020-10-05, 22:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/631013927780966/)
 * from: *
-* **push**
-* **training-institutions**
-* **nive-courses**
+* push
+* training-institutions
+* nive-courses
 ###### content
 * A Training360 anyaga - rugalmas időbeosztásra és önálló tanulásra... kirakom ide külön is...
 * training360.com: [Struktúraváltó képzések](https://www.training360.com/strukturavalto)
@@ -5021,7 +5018,7 @@ ___
 
 ### 3) [2020-10-05, 22:17](https://www.facebook.com/groups/ujratervezesprogram/permalink/631003877781971/)
 * from: *
-* **announcement**
+* announcement
 * /welcome-message/
 ###### content
 * Üdvözöljük legújabb tagjainkat az #Újratervezés... mi itt akkor is programozással, webfejlesztéssel és IT-vel fogunk foglalkozni....
@@ -5037,16 +5034,16 @@ ___
 
 ### 3) [2020-10-05, 22:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/630996991115993/)
 * from: *
-* **poll**
-* **továbbjutás**
+* poll
+* továbbjutás
 ###### content
 * ...Ki az aki a megismert feltételek mellett be fogja vállalni...
 ___
 
 ### 3) [2020-10-05, 22:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/630996557782703/)
 * from: *
-* **pull**
-* **továbbjutás**
+* pull
+* továbbjutás
 ###### content
 * ...KELL VALAMELYIK KÉPZÉSNÉL A SZEMÉLYES JELENLÉT?...
 ___
@@ -5061,8 +5058,8 @@ ___
 
 ### 3) [2020-10-05, 21:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630989307783428/)
 * from: * | [Link: 2020-10-05, 21:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/630975571118135/)
-* **push**
-* **továbbjutás**
+* push
+* továbbjutás
 ###### content
 * Ha sikeresen teljesítetted...
 * és 2020. október 9-ig nem kaptál e-mail-t a bejelentkezési... vedd fel a kapcsolatot...
@@ -5078,8 +5075,8 @@ ___
 
 ## 2) [2020-10-05, 21:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/630974021118290/)
 * from: *
-* **nive-info**
-* **továbbjutás**
+* nive-info
+* továbbjutás
 ###### content
 * ...Képzési jegyzék. Ez alapján egész pontosan 1000 szerencsés mehet tovább.
 * nive.hu: [képzési jegyzék](https://ujratervezes.nive.hu/api/static/doc/kepzesi_jegyzek.docx)
@@ -5101,15 +5098,15 @@ ___
 
 ## 2) [2020-10-05, 19:59](https://www.facebook.com/groups/ujratervezesprogram/permalink/630934957788863/)
 * from: Adminisztrátor
-* **announcement**
+* announcement
 ###### content
 * megváltoztatta a leírást: Az államilag támogatott Újratervezés programban tanulók Web-frontend fejlesztők...
 ___
 
 ### 3) [2020-10-05, 19:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/630929134456112/)
 * from: *
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 ###### content
 * Greenfox akadémia online infóest... Újratervezés...
 * [Greenfox Online infóest](https://www.facebook.com/events/669719836987000/)
@@ -5117,9 +5114,9 @@ ___
 
 ### 3) [2020-10-05, 18:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/630894437792915/)
 * from: *
-* **push**
-* **training-institutions**
-* **nive-courses**
+* push
+* training-institutions
+* nive-courses
 ###### content
 * Ha jól gondolom, ez a CodeCool-os tájékoztató:
 * codecool.com: [Struktúraváltó képzések a Codecoolnál](https://codecool.com/hu/ujratervezes/)
@@ -5136,8 +5133,8 @@ ___
 
 ### 3) [2020-10-05, 16:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/630820741133618/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * PYTHON (Lvl 1): Irj egy olyan programot ahol...
 ___
@@ -5161,9 +5158,9 @@ ___
 
 ### 3) [2020-10-05, 14:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/630725504476475/)
 * from: *
-* **push**
-* **training-institutions**
-* **nive-courses**
+* push
+* training-institutions
+* nive-courses
 ###### content
 * Megtaláltam a Greenfox kiírását is a honlapjukon...
 * greenfoxacademy.com: [Államilag támogatott informatikai képzések](https://www.greenfoxacademy.com/allamilag-tamogatott-informatikai-kepzesek)
@@ -5179,8 +5176,8 @@ ___
 
 ### 3) [2020-10-05, 12:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/630680934480932/)
 * from: *
-* **pull**
-* **job-market**
+* pull
+* job-market
 * /Rendszerüzemeltető/
 ###### content
 * Egy kérdéssel fordulnék hozzátok... junior rendszerüzemeltetői... A munkaerő piacon ez mennyire kelendő?...
@@ -5188,8 +5185,8 @@ ___
 
 ### 3) [2020-10-05, 12:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/630665291149163/)
 * from: *
-* **push**
-* **extracurricular**
+* push
+* extracurricular
 ###### content
 * Gyakorlásnak egy kis kígyó
 * youtube: [1 óra alatt - JavaScript Snake játék...](https://www.youtube.com/playlist?list=PLj6t-9MtkMFkpNDKdoGi5w-j2aFtfUWvK)
@@ -5215,9 +5212,9 @@ ___
 
 ### 3) [2020-10-05, 7:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/630545891161103/)
 * from: *
-* **push**
-* **training-institutions**
-* **nive-courses**
+* push
+* training-institutions
+* nive-courses
 ###### content
 * progmasters.hu: [ÚJRATERVEZÉS PROGRAM KÉPZÉSEK](https://progmasters.hu/ingyenes-online-allami-kepzesek/)
 * Itt már láthatóan a képzések...
@@ -5233,8 +5230,8 @@ ___
 
 ### 3) [2020-10-04, 18:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/630149557867403/)
 * from: *
-* **pull**
-* **továbbjutás**
+* pull
+* továbbjutás
 ###### content
 * Ki mit vár a képzéstől?...
 ___
@@ -5248,8 +5245,8 @@ ___
 
 ### 3) [2020-10-04, 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/629942884554737/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * tegnap tanulószobán ezt megcsnáltam egyedül... feladat9.pdf
 ___
@@ -5279,8 +5276,8 @@ ___
 
 ### 3) [2020-10-03, 18:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/629404004608625/)
 * from: *
-* **poll**
-* **továbbjutás**
+* poll
+* továbbjutás
 ###### content
 * ...ki melyik iskolát jelölné meg elsőként ...
 ___
@@ -5294,8 +5291,8 @@ ___
 
 ### 3) [2020-10-03, 9:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/629108884638137/)
 * from: *
-* **push**
-* **it-news**
+* push
+* it-news
 * /podcast/
 ###### content
 * shows.acast.com | Letscode.hu: [Java vagy JavaScript?](https://shows.acast.com/5aeff6d96eb47cc259946df2/episodes/java-vagy-javascript)
@@ -5303,8 +5300,8 @@ ___
 
 ### 3) [2020-10-03, 9:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/629107417971617/)
 * from: *
-* **push**
-* **it-news**
+* push
+* it-news
 * /podcast/
 ###### content
 * soundcloud | Letscode.hu: [Hogy kerül valaki a FOSS mélyére?](https://soundcloud.com/letscodehu/hogy-keruel-valaki-a-foss)
@@ -5328,8 +5325,8 @@ ___
 
 ### 3) [2020-10-02, 21:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/628790098003349/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * HÁZIFELADAT Mi a kód problémája?...
 ___
@@ -5344,8 +5341,8 @@ ___
 
 ### 3) [2020-10-02, 20:11](https://www.facebook.com/groups/ujratervezesprogram/permalink/628732838009075/)
 * from: * | [FW: 2020-10-02, 14:47](https://www.facebook.com/SzarnyasFejvadasz/posts/3244989695605416)
-* **push**
-* **training-institutions**
+* push
+* training-institutions
 ###### content
 * Nem tudom, láttátok-e...
 * BUDAPEST - VIZSGAKÖZPONT ADMINISZTRÁTOR... a Training360 Kft. számára... munkatársat keresünk...
@@ -5353,8 +5350,8 @@ ___
 
 ### 3) [2020-10-02, 19:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/628715574677468/)
 * from: *
-* **push**
-* **job-market**
+* push
+* job-market
 * /2020 szeptember 2./
 ###### content
 * computerworld.hu: [Honnan jönnek az informatikusok?](https://computerworld.hu/karrier/honnan-jonnek-az-informatikusok-283799.html)
@@ -5362,24 +5359,24 @@ ___
 
 ### 3) [2020-10-02, 15:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/628548231360869/)
 * from: *
-* **pull**
-* **training-institutions**
+* pull
+* training-institutions
 ###### content
 * Tudunk-e valamit a négy választható képző intézmény stílusáról, milyenségéről  stb...
 ___
 
 ### 3) [2020-10-02, 13:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/628501678032191/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * Házi feladat ötlet a hétvégére focirajongóknak...
 ___
 
 ### 3) [2020-10-02, 12:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/628456424703383/)
 * from: *
-* **push**
-* **job-market**
+* push
+* job-market
 ###### content
 * youtube: [ShareIT Lab: Álláspiac... nőknek digitális munkakörökben... 2020.09.29](https://www.youtube.com/watch?v=mU7wYIyfqv4)
 ___
@@ -5396,8 +5393,8 @@ ___
 
 ### 3) [2020-10-02, 11:02](https://www.facebook.com/groups/ujratervezesprogram/permalink/628408511374841/)
 * from: *
-* **poll**
-* **továbbjutás**
+* poll
+* továbbjutás
 ###### content
 * Neked melyik napszak lenne megfelelő a képzésre?...
 ___
@@ -5412,16 +5409,16 @@ ___
 
 ### 3) [2020-10-02, 0:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/628122188070140/)
 * from: *
-* **poll**
+* poll
 ###### content
 * ...Ti milyen licenceket szoktatok használni?...
 ___
 
 ### 3) [2020-10-01, 23:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/628091031406589/)
 * from: *
-* **push**
-* **továbbjutás**
-* **training-institutions**
+* push
+* továbbjutás
+* training-institutions
 * /kifejtve 4 pontban/
 ###### content
 * Sziasztok! Néhány információmorzsa képzőhelyekről...
@@ -5429,16 +5426,16 @@ ___
 
 ### 3) [2020-10-01, 21:27](https://www.facebook.com/groups/ujratervezesprogram/permalink/628029454746080/)
 * from: *
-* **homework**
-* **extracurricular**
+* homework
+* extracurricular
 ###### content
 * "Házi feladat" ötlet...
 ___
 
 ### 3) [2020-10-01, 21:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/628021011413591/)
 * from: *
-* **nive-info**
-* **továbbjutás**
+* nive-info
+* továbbjutás
 ###### content
 * nive.hu: [Képzések](https://ujratervezes.nive.hu/kepzesek)
 ___
@@ -5452,8 +5449,8 @@ ___
 
 ### 3) [2020-10-01, 18:28](https://www.facebook.com/groups/ujratervezesprogram/permalink/627931774755848/)
 * from: *
-* **poll**
-* **továbbjutás**
+* poll
+* továbbjutás
 ###### content
 * Melyik alapképzésre fogsz jelentkezni első helyen?...
 ___
@@ -5468,8 +5465,8 @@ ___
 
 ## 2) [2020-10-01, 17:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/627908074758218/)
 * from: *
-* **nive-news**
-* **továbbjutás**
+* nive-news
+* továbbjutás
 ###### content
 * nive.hu: [Támogatott informatikai képzések indulnak októberben](https://ujratervezes.nive.hu/hirek/tamogatott-informatikai-kepzesek-indulnak-oktoberben)
 * 61 977 regisztrált...
@@ -5516,8 +5513,8 @@ ___
 
 ## 2) [2020-10-01, 11:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/627681954780830/)
 * from: Adminisztrátor
-* **announcement**
-* **group-rules**
+* announcement
+* group-rules
 ###### content
 * Új csoport szabály...
 ___
@@ -5554,8 +5551,8 @@ ___
 
 ### 3) [2020-10-01, 5:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/627510101464682/)
 * from: *
-* **push**
-* **továbbjutás**
+* push
+* továbbjutás
 * /kifejtve 5 pontban/
 ###### content
 * Tudom, hogy mindenki idegesebb most a folytatást illetően, de talán hasznosabb józanul átgondolni dolgokat...
@@ -5571,8 +5568,8 @@ ___
 
 ## 2) [2020-06-15, 22:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/551367492412277/)
 * from: Adminisztrátor
-* **announcement**
-* **group-rules**
+* announcement
+* group-rules
 ###### content
 * Sziasztok! Megkérek mindenkit, hogy ne posztoljon, ne kommenteljen képeket a videók tartalmáról...
 ___
