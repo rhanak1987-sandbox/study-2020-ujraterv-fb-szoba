@@ -2489,267 +2489,307 @@ ___
 ###### 6) [2020-10-14, 1:12](https://www.facebook.com/groups/ujratervezesprogram/permalink/636987793850246/)
 * from: *
 * x
+* /bookmark/
 ###### content
 * Ha nem probléma, ezt a hozzászólásomat kiteszem ide külön posztba is, hogy ne csak egy észrevehetetlen, sokadik hozzászólás legyen. Akit a rendszerüzemeltetés érdekel, ingyenesen indult/induló tanfolyamokon el tudja végezni esti iskolában. A pontos megnevezése; Informatikai rendszer
 ___
 
 ###### 6) [2020-10-14, 0:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/636966420519050/)
 * from: *
-* x
+* %rant %rangsor %contract
 ###### content
 * Amikor megláttam egy nőt fiatalabb koromban, mindig tudtam, akarom-e, vagy sem, és ha nem voltam biztos benne... Szóval, aki még most se tudja mit akar, az hagyja a fenébe az egészet...
 ___
 
 ###### 6) [2020-10-13, 23:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636947773854248/)
 * from: *
-* x
+* %pull %contract
 ###### content
-* Sziasztok! Igazából engem egy fő kérdés foglalkoztat. Ha állítok be preferenciasorrendet, amit el is mentek, de végül úgydöntök, mégsem kezdem el...
+* Ha állítok be preferenciasorrendet, amit el is mentek, de végül úgydöntök, mégsem kezdem el...
+* Röviden kell e fizetnem akkor, ha a pontjaim alapján felvesznek, de nem akarom elkezdeni?
 ___
 
 ###### 6) [2020-10-13, 23:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/636947050520987/)
 * from: *
-* x
+* %pull %időbeosztás
 ###### content
 * A kérdésem azokhoz szól, akik már valamennyire tudnak programozni, van tapasztalatuk, abban, hogy amikor tanulták a szakmát, akkor mennyire okozott nehéséget...
+* mert még nem láttam olyan tanfolyamot ahol a tanulásra szánt idő 8+ óra...
 ___
 
 ###### 6) [2020-10-13, 23:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/636934947188864/)
 * from: *
-* x
+* %push %rant %contract
 ###### content
-* Kuponom kell valakinek? 😁 Úgy tűnik marad az autodidakta módszer...
+* Kuponom kell valakinek? Úgy tűnik marad az autodidakta módszer...
 ___
 
 ###### 6) [2020-10-13, 23:31](https://www.facebook.com/groups/ujratervezesprogram/permalink/636934603855565/)
 * from: *
-* x
+* %push %időbeosztás
 ###### content
-* Érdekes és talán többeknek hasznos részlet a Progmasters GYIK dokumentumából - az egyes képzések munka mellett történő végzésével kapcsolatban...
+* Progmasters GYIK dokumentumából... Munka mellett is elvégezhető a képzés? ...A képzések intenzívek, ez kétségtelen, de teljesíthetők.
+* A programozó képzéseknél a gyakorlásra szánt idő különösen fontos.
+* A tesztelő és rendszerüzemeltető képzések rugalmasabbak...
 ___
 
 ###### 6) [2020-10-13, 21:23](https://www.facebook.com/groups/ujratervezesprogram/permalink/636869853862040/)
 * from: *
-* x
+* %pull %időbeosztás
 ###### content
-* ...Csak a progmastersnél van délutáni képzés vagy máshol is?  Dolgozom, így délután tunék inkább ráérni... Van esetleg egy összehasonlító táblázat, hogy hol mikor vannak a képzések...
+* ...Csak a progmastersnél van délutáni képzés vagy máshol is?  Dolgozom, így délután tunék inkább ráérni...
+* Van esetleg egy összehasonlító táblázat, hogy hol mikor vannak a képzések...
 ___
 
 ###### 6) [2020-10-13, 21:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636868743862151/)
 * from: *
-* x
+* %rant %contract
 ###### content
-* Egyes tagok hány embert fognak még alázni, csak azért mert valaki mást gondol a dolgokról? 🤔
+* Egyes tagok hány embert fognak még alázni, csak azért mert valaki mást gondol a dolgokról?
 ___
 
 ###### 6) [2020-10-13, 20:58](https://www.facebook.com/groups/ujratervezesprogram/permalink/636856243863401/)
 * from: *
-* x
+* %rant %contract
 ###### content
 * Gyerekek! István felnyitotta a szemem! SENKI ne jelentkezzen erre a drága, semmit se érő képzésre! Sokkal jobb lehetőségek vannak!
 ___
 
 ###### 6) [2020-10-13, 20:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/636852900530402/)
 * from: *
-* x
+* %pull %extra
 ###### content
-* Ha valaki úgy dönt, hogy nem vállalja az alapképzést, milyen alternatívák jöhetnek szóba ? Azt tudom, hogy év végéig még indítanak OKJ-s képzéseket, amit én találtam...
+* Ha valaki úgy dönt, hogy nem vállalja az alapképzést, milyen alternatívák jöhetnek szóba ?
+* Azt tudom, hogy év végéig még indítanak OKJ-s képzéseket, amit én találtam...
 ___
 
 ###### 6) [2020-10-13, 20:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/636837807198578/)
 * from: *
-* x
+* %pull %personal %továbbjutás
 ###### content
 * Utolsó pillanatban megjött az e mail , de nem tudok belépni.Mi lehet a baj?Mailt, jelszót azt írtam be, amit írtak.
 ___
 
 ###### 6) [2020-10-13, 19:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/636822347200124/)
 * from: *
-* x
+* %pull %továbbjutás
 ###### content
-* melyik email címre kell neki írni, hogy válaszoljanak is. tudja valaki? köszi ujratervezesprogram@nive.hu innen semmi válasz nem jön
+* melyik email címre kell neki írni, hogy válaszoljanak is. tudja valaki? köszi
+* ujratervezesprogram@nive.hu innen semmi válasz nem jön
 ___
 
 ###### 6) [2020-10-13, 19:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/636810860534606/)
 * from: *
-* x
+* %push %rant %contract
+* /kifejtve hosszan/
 ###### content
-* Csak a miheztartás végett szeretnék megosztani egy-két dolgot. Itt vannak a programon meghirdetett "képzések": https://ujratervezes.nive.hu/kepzesek A Java képzés tematikáját össze lehet vetni egy BME-s szabadon választható 4-kredites...
+* Csak a miheztartás végett szeretnék megosztani egy-két dolgot. Itt vannak a programon meghirdetett "képzések":
+* nive.hu: [kepzesek](https://ujratervezes.nive.hu/kepzesek)
+* A Java képzés tematikáját össze lehet vetni egy BME-s szabadon választható 4-kredites...
+* https://portal.vik.bme.hu/kepzes/targyak/VIHIJV37/
+* Szóval hozzávetőlegesen 100-szorosan túlárazták...
 ___
 
 ###### 6) [2020-10-13, 19:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/636808870534805/)
 * from: *
-* x
+* %push %rangsor
 ###### content
-* Ha má' vótmá, e'nízíst, de a Progmasters oldalán lenne itt egy "Frissítés" jelszóval kiadott 6 oldalas, kiskátés GYIK. Szövegpélda...
+* ... a Progmasters oldalán lenne itt egy "Frissítés" jelszóval kiadott 6 oldalas, kiskátés GYIK...
+* Amennyiben az arra jogosult tanuló úgy dönt, hogy nem vállalja a képzési szerződésben foglaltakat, akkor kikerül a rangsorból, és a sorrendben következő személy kap lehetőséget...
+* progmasters.hu: [TÁMOGATÁSI SZERZŐDÉSSEL KAPCSOLATOS KÉRDÉSEK (pdf)](https://progmasters.hu/wp-content/uploads/2020/10/GYIK-v2.2-a%CC%81llami-ke%CC%81pze%CC%81sek.pdf)
 ___
 
-###### 6) [2020-10-13, 18:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/636783747203984/)
+##### 5) [2020-10-13, 18:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/636783747203984/)
 * from: *
-* x
+* rant
+* funz
 ###### content
 * img
 ___
 
 ###### 6) [2020-10-13, 18:39](https://www.facebook.com/groups/ujratervezesprogram/permalink/636781597204199/)
 * from: *
-* x
+* %push %contract
 ###### content
-* Tisztelt Ügyfélszolgálat! Állami  intézményben dolgozom, nincs vállalkozásom és szeretnék részt venni az  Újratervezés programban. Azt írták az Útmutatóban, hogy a kiadott  szerződés 1/B mellékletét ki kell töltetnem a munkáltatómmal...
+* Tisztelt Ügyfélszolgálat! Állami  intézményben dolgozom, nincs vállalkozásom és szeretnék részt venni az  Újratervezés programban.
+* Azt írták az Útmutatóban, hogy a kiadott  szerződés 1/B mellékletét ki kell töltetnem a munkáltatómmal...
+* Válasz... A mennyiben rendelkezik a tanuló munkaviszonnyal szükséges az 1.b nyomtatvány kitöltése...
 ___
 
 ###### 6) [2020-10-13, 15:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/636651530550539/)
 * from: *
-* x
+* %pull %rangsor
 ###### content
-* valaki érdeklődött és kapott már választ a preferenciasorrend szerinti kiválasztásra? azaz hogy ez pontosan hogy zajlik? több körös-e...
+* valaki érdeklődött és kapott már választ a preferenciasorrend szerinti kiválasztásra?
+* azaz hogy ez pontosan hogy zajlik? több körös-e...
 ___
 
 ###### 6) [2020-10-13, 14:53](https://www.facebook.com/groups/ujratervezesprogram/permalink/636644330551259/)
 * from: *
-* x
+* %removed
 ###### content
 * Munkanélküliként (vírus miatti bezárás okán) kezdtem el az ÚTP-t. Klassz volt, bár a család nehezen tolerálta, hogy sokat elvonultam tanulni. Majd jött a "lezáró", sikeres volt, bár ekkor...
 ___
 
 ###### 6) [2020-10-13, 14:44](https://www.facebook.com/groups/ujratervezesprogram/permalink/636638553885170/)
 * from: *
-* x
+* %push %rant %továbbjutás
 ###### content
-* Ez volt a válaszuk arra, hogy még nem kaptam értesítést.Köszönjük szépen, hogy észrevételét jelezte felénk. A program következő lépéseként a tanulók meghatározzák...
+* Ez volt a válaszuk arra, hogy még nem kaptam értesítést.
+* Köszönjük szépen, hogy észrevételét jelezte felénk. A program következő lépéseként a tanulók meghatározzák a számukra preferált képzéseket és megtekinthetik a képzési szerződést...
 ___
 
 ###### 6) [2020-10-13, 14:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/636618217220537/)
 * from: *
-* x
+* %push %csoport
+* #csoport #kommunikáció #spamszűrés
 ###### content
-* Információs túlterheltség, ismétlődő posztok #csoport #kommunikáció #spamszűrés ...
+* Információs túlterheltség, ismétlődő posztok...
+* Probléma: Összesen 321 posztot számoltam 12 nap alatt és ebben nincsenek benne a posztok alatti hozzászólások...
 ___
 
-###### 6) [2020-10-13, 13:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636608743888151/)
+##### 5) [2020-10-13, 13:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/636608743888151/)
 * from: *
-* x
+* funz
 ###### content
+* img Híreim.Ma: [2020-10-10, 11:18](https://www.facebook.com/hireim.ma/photos/a.447223802732821/780020799453118/)
 * https://www.facebook.com/hireim.ma/photos/a.447223802732821/780020799453118/
 ___
 
 ###### 6) [2020-10-13, 13:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/636600687222290/)
 * from: *
-* x
+* poll
+* %továbbjutás
 ###### content
 * Vajon hogy áll a jelentkezések aránya?
 ___
 
 ###### 6) [2020-10-13, 13:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/636598287222530/)
 * from: *
-* x
+* %push %továbbjutás
 ###### content
-* https://magyarnemzet.hu/belfold/a-felnottek-is-kaphatnak-osztondijat-8800358/
+* magyarnemzet.hu: [felnőttek is kaphatnak ösztöndíjat]https://magyarnemzet.hu/belfold/a-felnottek-is-kaphatnak-osztondijat-8800358/
 ___
 
 ###### 6) [2020-10-13, 13:18](https://www.facebook.com/groups/ujratervezesprogram/permalink/636587603890265/)
 * from: *
-* x
+* %rant %időbeosztás
 ###### content
 * "A  képzés online alkalmai (konzultáció, csoportos foglalkozások, workshop,  projektbemutatás, stb.) többnyire hétköznap 9 és délután 5 óra közé  esnek majd."
 ___
 
 ###### 6) [2020-10-13, 12:55](https://www.facebook.com/groups/ujratervezesprogram/permalink/636576123891413/)
 * from: *
-* x
+* %pull %contract
 ###### content
-* Sziasztok, bocsi ha volt már, de kicsit elvesztem az infokban. Ha beállítom a sorrendet...
+*  Ha beállítom a sorrendet és bekerülök, akkor az azt jelenti, hogy elfogadtam a szerződést és végig kell csinálnom a tanfolyamot különben vissza kell fizetni?
+* A másik kérdésem, hogy minden tanfolyam napi 4 óra kötelezően minimum?
 ___
 
 ###### 6) [2020-10-13, 12:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/636573470558345/)
 * from: *
-* x
+* %push %időbeosztás
+* #t360
 ###### content
-* #t360 válasza Kedves Annamária! Köszönjük az érdeklődést! A képzés online alkalmai...
+* #t360 válasza... A képzés online alkalmai... többnyire hétköznap 9 és délután 5 óra közé esnek majd...
+* A 20% hiányzást (128 órát) egyúttal az online e-learning tartalom feldolgozásából és az online felvett alkalmak megtekintéséből számoljuk... Training360 ...
 ___
 
 ###### 6) [2020-10-13, 12:42](https://www.facebook.com/groups/ujratervezesprogram/permalink/636569920558700/)
 * from: *
-* x
+* %rant %contract
 ###### content
-* Egy lakáshitel szerződését nem olvassátok el ennyire alaposan, mint ez a fos újratervezési programnak a  szerződését! 😂😂😂
+* Egy lakáshitel szerződését nem olvassátok el ennyire alaposan, mint ez a fos újratervezési programnak a  szerződését!
 ___
 
 ###### 6) [2020-10-13, 12:36](https://www.facebook.com/groups/ujratervezesprogram/permalink/636566907225668/)
 * from: *
-* x
+* %pus %contract
 ###### content
 * Elsősorban azoknak a munkavállalóknak, akikben van annyi szerencse játék szenvedély, hogy bevállalják...
+* Mit csináljon az a munkáltató aki az 1/b szerinti támogatást nem vette igénybe? ...
 ___
 
 ###### 6) [2020-10-13, 12:22](https://www.facebook.com/groups/ujratervezesprogram/permalink/636560043893021/)
 * from: *
-* x
+* %push %extra
 ###### content
-* Sziasztok! Láttam volt rá igény, szóval készítettem egy discord szervert az önszerveződő...
+* ... Láttam volt rá igény, szóval készítettem egy discord szervert az önszerveződő tanuló csoportoknak...
+* https://discord.gg/wmbHnYD
+* Amennyiben valaki vezetne egy egy ilyen tanulócsoportot, akkor szóljon és szívesen hozok létre szobákat a discord szerveren...
 ___
 
 ###### 6) [2020-10-13, 11:52](https://www.facebook.com/groups/ujratervezesprogram/permalink/636543407228018/)
 * from: *
-* x
+* %push %időbeosztás
+* #codecool
 ###### content
-* #codecool további részletek Kedves Annamária! Köszönjük szépen megkeresésed!
+* #codecool további részletek...
+* Délelőtti idősáv garantáltan indulni fog...
+* Workshopokat... nem lesz lehetőség online visszanézni. Ez a nap ebben az esetben hiányzásnak fog minősülni.
+* Linux telepítésében, konfigurálásában mentoraink készséggel fognak segíteni neked...
 ___
 
 ###### 6) [2020-10-13, 11:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636524370563255/)
 * from: *
-* x
+* %push %contract
 ###### content
 * A munkáltatóm jogi osztályáról küldték: Az 1/b melléklet szerinti munkáltatói nyilatkozatban...
+* összefoglalva: a de minimis állami támogatás  és a  COVID 19 járványhoz  kapcsolódó gazdaságtámogatás a Karcagi Tankerületi Központ  vonatkozásában nem értelmezhető...
 ___
 
 ###### 6) [2020-10-13, 11:09](https://www.facebook.com/groups/ujratervezesprogram/permalink/636518667230492/)
 * from: *
 * x
+* %push %rant
 ###### content
-* Sziasztok! Olvasva itt a híreket, nem teljesen értem, hogyan lehet erre jelentkezni. 2,5 milla a kockázat...
+* ... nem teljesen értem, hogyan lehet erre jelentkezni.
+* 2,5 milla a kockázat s gyakorlatilag 0 a BIZTOS haszon úgy, hogy csak körülbelül ismerem a feltételeket...
 ___
 
 ###### 6) [2020-10-13, 10:45](https://www.facebook.com/groups/ujratervezesprogram/permalink/636507890564903/)
 * from: *
-* x
+* %pull
 ###### content
 * Üdv. Az online csoportos feladatmegolddás az mit takar pontosan az egyes cégeknél?
 ___
 
-###### 6) [2020-10-13, 10:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/636505573898468/)
+##### 5) [2020-10-13, 10:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/636505573898468/)
 * from: *
-* x
+* funz
+* /ssl/
 ###### content
 * img
 ___
 
 ###### 6) [2020-10-13, 10:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/636497473899278/)
 * from: *
-* x
+* %push %extra
+* #önszerveződő
 ###### content
-* #önszerveződő.csoportok Sziasztok! Az van, hogy én rendszer üzemeltetésre szerettem volna menni, de hát ez a szerződés elég meredek. Azonban szívesen képezném magam...
+* #önszerveződő.csoportok... én rendszer üzemeltetésre szerettem volna menni, de hát ez a szerződés elég meredek. Azonban szívesen képezném magam...
+* Mi lenne, ha szerveznenk egy önkepző csoportot erre?
 ___
 
-###### 6) [2020-10-13, 9:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/636469023902123/)
+##### 5) [2020-10-13, 9:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/636469023902123/)
 * from: *
-* x
+* funz
 ###### content
-* Valakinek bejött az ingyenes képzés. 😃 Vajon lesz benne időjárás widget forralt boros akció?!? 😅😂
+* Valakinek bejött az ingyenes képzés. Vajon lesz benne időjárás widget forralt boros akció?!?
+* img
 ___
 
 ###### 6) [2020-10-13, 8:20](https://www.facebook.com/groups/ujratervezesprogram/permalink/636445763904449/)
 * from: *
-* x
+* %push %rant %contract
 ###### content
-* Ha valaki figyelmes volt, idén már jó sok ön-tökön-lövést láthattunk (pl.: tavaszi kormányinfók a víruskezelésről🙄), de nekem mégis ez a "kitöltetjük a 8871 fővel a kompetenciatesztet, aztán az orruk alá toljuk a 2,5 millás szerződést...
+* ... idén már jó sok ön-tökön-lövést láthattunk..., de nekem mégis ez a "kitöltetjük a 8871 fővel a kompetenciatesztet, aztán az orruk alá toljuk a 2,5 millás szerződést... viszi a pálmát...
+* Vagy nagyon nem kellett volna kompetenciateszteket irattatni, vagy nagyon nem kellett volna 4.000 ft/fő/órás díjat kimaxolni...
 ___
 
 ###### 6) [2020-10-13, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/636428173906208/)
 * from: *
-* homework
-* extracurricular
-* /bookmark/
+* %homework %extra
 ###### content
 * Házi feladat:Csinálj 16db kockát, amibe be lehet írni az átlagot...
 ___
