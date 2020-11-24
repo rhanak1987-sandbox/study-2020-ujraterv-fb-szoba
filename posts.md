@@ -1716,283 +1716,318 @@ ___
 ###### 6) [2020-10-17, 0:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/639396206942738/)
 * from: *
 * x
+* /bookmark/
 ###### content
 * ... Szerintem tegyük mostmár túl magunkat ezen a igazságos, logikus, megfelelően árazott-e kérdéseken... Akinek sikerült bekerülnie, nekik aljas dolog elvenni a kedvét a tanulástól.
 ___
 
 ###### 6) [2020-10-17, 0:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639381443610881/)
 * from: *
-* x
+* %pull %időbeosztás
 ###### content
-* szóval ha jól értelmezem a dolgokat akkor én ezt a képzést heti 5 nap 8óra munka mellett nem fogom tudni elvégezni?... munkanélkülieknek és akik pályát szeretnének módositani meló mellett...
+* szóval ha jól értelmezem a dolgokat akkor én ezt a képzést heti 5 nap 8óra munka mellett nem fogom tudni elvégezni?...
+* munkanélkülieknek és akik pályát szeretnének módositani meló mellett...
 ___
 
 ###### 6) [2020-10-16, 23:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639371110278581/)
 * from: *
-* x
+* %removed
 ###### content
 * 20 perc! Ennyit mondok csak.. Azt az egy percet hallgassátok meg! Köszönöm!
-* https://www.youtube.com/watch?v=2l6m9uSX9cQ
+* youtube - private: [video link](https://www.youtube.com/watch?v=2l6m9uSX9cQ)
 ___
 
 ###### 6) [2020-10-16, 23:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/639369270278765/)
 * from: *
-* x
+* %push %extra %contract
 ###### content
-* ... miért kellett ezt így megbonyolítani... most indulnak az utolsó OKJ képzések... Vannak nappali, hétvégi, esti időbeosztásos lehetőségek. pl.: Szoftverfejlesztő tanfolyam (54 213 05) 399.000 Ft
+* ... miért kellett ezt így megbonyolítani... most indulnak az utolsó OKJ képzések...
+* Vannak nappali, hétvégi, esti időbeosztásos lehetőségek. pl.: Szoftverfejlesztő tanfolyam (54 213 05) 399.000 Ft
 * ... akkor is "csak" 500.000 Ft az az FélMillió forint körül lenne a képzés...
 ___
 
 ###### 6) [2020-10-16, 23:29](https://www.facebook.com/groups/ujratervezesprogram/permalink/639359376946421/)
 * from: *
-* x
+* %pull %rangsor
 ###### content
 * Más is járt úgy, hogy eltűnt a kompetenciateszt eredménye? 0%-ot ír pedig megcsináltam. A záróvizsgám 83% lett...
+* rendszerhiba végett nem kerülhettem be sem ebbe a körbe és gondolom majd a továbbiakba sem...
 ___
 
 ###### 6) [2020-10-16, 22:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/639343683614657/)
 * from: *
-* x
+* %pull %extra
 ###### content
-* Én az első körbe nem kerültem be, de elkezdtem körülnézni egyéb helyen lévő oktatás ügyben. Angolul nagyon sok lehezőség van, de magyarul nem annyira. Én a CodeBerry-t most tesztelem. Valakinek esetleg tapasztalata van róla?
+* Én az első körbe nem kerültem be, de elkezdtem körülnézni egyéb helyen lévő oktatás ügyben.
+* Angolul nagyon sok lehezőség van, de magyarul nem annyira. Én a CodeBerry-t most tesztelem. Valakinek esetleg tapasztalata van róla?
 ___
 
 ###### 6) [2020-10-16, 22:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/639325886949770/)
 * from: *
-* x
+* %removed
 ###### content
 * https://www.facebook.com/photo/?fbid=3317032588350961&set=gm.639325886949770
 ___
 
 ###### 6) [2020-10-16, 20:35](https://www.facebook.com/groups/ujratervezesprogram/permalink/639276140288078/)
 * from: *
-* x
+* %pull %contract
 ###### content
-* ... milyen elérhetőségen lehetne érdemi segítséget kérni a szerződés aláíráshoz szükséges munkáltató nyilatkozat (1/B melléklet) kitöltéséhez...
+* ... milyen elérhetőségen lehetne érdemi segítséget kérni
+* a szerződés aláíráshoz szükséges munkáltató nyilatkozat (1/B melléklet) kitöltéséhez...
 ___
 
 ###### 6) [2020-10-16, 20:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/639260893622936/)
 * from: *
-* x
+* %pull %továbbjutás
 ###### content
-* A Codecool jelentkezési levelében az 1. linkre rákattintva bekérte az adataimat... nem a struktúraváltó képzések közül engedett választani, hanem az egyéb (Full Stack Developer stb.) képzések közül...
+* A Codecool jelentkezési levelében az 1. linkre rákattintva bekérte az adataimat...
+* nem a struktúraváltó képzések közül engedett választani, hanem az egyéb (Full Stack Developer stb.) képzések közül...
 ___
 
 ###### 6) [2020-10-16, 19:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/639252840290408/)
 * from: *
-* x
+* %push %personal
 ###### content
 * ... Kérlek segítsétek diplomamunkámat ennek a rövid, kb. 10 perces teljesen anonim kérdőívnek a kitöltésével.
-* http://www.kerdoivem.hu/kerdoiv/1095435212/
+* kerdoivem.hu: ["CSALÁDBARÁT MUNKAHELY: ITTHON ÉS KÜLFÖLDÖN"](http://www.kerdoivem.hu/kerdoiv/1095435212/)
 ___
 
 ###### 6) [2020-10-16, 18:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/639194703629555/)
 * from: *
-* x
+* %push %időbeosztás
 ###### content
-* Azt nézte más is, hogy az online konzultációs órákon vezetnek jelenléti ívet, ami kb napi 3 óra... aktívan részt kell venni..
+* Azt nézte más is, hogy az online konzultációs órákon vezetnek jelenléti ívet, ami kb napi 3 óra...
+* aktívan részt kell venni..
 ___
 
 ###### 6) [2020-10-16, 17:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/639158940299798/)
 * from: *
-* x
+* %push %contract
+* #diákhitelplusz
 ###### content
-* #diákhitelplusz Aki tervezi, hogy diákhitelt vesz föl, azt hívjuk ebbe a csoportba: https://www.facebook.com/groups/2624011724593982
+* Aki tervezi, hogy diákhitelt vesz föl, azt hívjuk ebbe a csoportba:
+* facebook: [Diákhitel Plusz Felvevői](https://www.facebook.com/groups/2624011724593982)
 ___
 
 ###### 6) [2020-10-16, 17:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639152580300434/)
 * from: *
-* x
+* %push %contract
 ###### content
-* Progmasterssel... 20-21-én van az első körös emberek beiratkozása... 26-án már kezdeniük kell a képzést, a második körös bejutók aláírását 22-e, csütörtökre tervezik... És a Progmastershez 9-17:00 között lehet menni aláírni...
+* Progmasterssel... 20-21-én van az első körös emberek beiratkozása... 26-án már kezdeniük kell a képzést,
+* a második körös bejutók aláírását 22-e, csütörtökre tervezik... És a Progmastershez 9-17:00 között lehet menni aláírni...
 ___
 
 ###### 6) [2020-10-16, 16:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/639130353635990/)
 * from: *
-* x
+* %pull %contract
 ###### content
 * A diákhitel kérelem kitöltéséhez a 8 jegyű szerződésszám az mi? Hol van?
 ___
 
 ###### 6) [2020-10-16, 15:21](https://www.facebook.com/groups/ujratervezesprogram/permalink/639074050308287/)
 * from: *
-* x
+* %push %továbbjutás
 ###### content
 * Karen live
----
+* youtube - private: [Green Fox Info Session (Államilag támogatott képzés)](https://www.youtube.com/watch?v=2l6m9uSX9cQ)
 ___
 
 ###### 6) [2020-10-16, 14:16](https://www.facebook.com/groups/ujratervezesprogram/permalink/639029960312696/)
 * from: *
-* x
+* %push %rant %contract
 ###### content
-* Szóval, neked és *nak* is van igazság  abban, amit elmondtatok. De nem késő ez már ? Let the horses ride ! Én is az elutasítók oldalán állok. De most már hagyjátok a fenébe azokat akik csinálni akarják...
+* Szóval, neked és *nak* is van igazság  abban, amit elmondtatok. De nem késő ez már ?
+* Let the horses ride ! Én is az elutasítók oldalán állok. De most már hagyjátok a fenébe azokat akik csinálni akarják...
 ___
 
 ###### 6) [2020-10-16, 14:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/639023823646643/)
 * from: *
-* x
+* %push %továbbjutás
 ###### content
 * Szép volt, jó volt, alaposan átrágva inkább nem! Aki belevág annak sok szerencsét!
 ___
 
 ###### 6) [2020-10-16, 13:40](https://www.facebook.com/groups/ujratervezesprogram/permalink/639007706981588/)
 * from: *
-* x
+* %push %perosnal %contract
 ###### content
 * 13:30-kor vettem észre a mailt. Remélem rugalmasan kezelik...
+* img
 ___
 
 ###### 6) [2020-10-16, 13:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/639002976982061/)
 * from: *
-* x
+* %push %rant %rangsor
 ###### content
-* Most leveleztem a GF-fel, ahová felvettek az általam harmadik helyen bejelölt szoftvertesztelő szakirányra... nem azt akarom tanulni... szakirányt nem lehet változtatni, viszont a programba bejutottak elérik mind a négy szakriány tananyagait...
+* Most leveleztem a GF-fel, ahová felvettek az általam harmadik helyen bejelölt szoftvertesztelő szakirányra...
+* nem azt akarom tanulni... szakirányt nem lehet változtatni, viszont a programba bejutottak elérik mind a négy szakriány tananyagait...
+* Ezen a ponton én is elengedtem a dolgot, maradok az autodidakta tanulási módszeremnél...
 ___
 
 ###### 6) [2020-10-16, 13:13](https://www.facebook.com/groups/ujratervezesprogram/permalink/638991646983194/)
 * from: *
-* x
+* %push %rant %contract
 ###### content
-* "Küldd be MA ÉJFÉLIG a csokispapíron található kódot a garantált nyereményekért!" Én nagyjából egy ilyen fontosságú dolognál tudnám elfogadni a félnapos reagálási határidőt. Különben buktad.. Picit talán aggályos.
-* https://www.youtube.com/watch?v=MK6TXMsvgQg
+* "Küldd be MA ÉJFÉLIG a csokispapíron található kódot a garantált nyereményekért!"
+* Én nagyjából egy ilyen fontosságú dolognál tudnám elfogadni a félnapos reagálási határidőt. Különben buktad.. Picit talán aggályos.
+* youtube: [Benny Hill Theme](https://www.youtube.com/watch?v=MK6TXMsvgQg)
 ___
 
 ###### 6) [2020-10-16, 12:32](https://www.facebook.com/groups/ujratervezesprogram/permalink/638970713651954/)
 * from: *
-* x
+* %push %rangsor %contract
 ###### content
-* ... Aki felvételt nyert a Codecoolhoz, annak kiküldtük már a köszöntő emailt.  Aki nem kapott még ilyet... vagy pedig hívjanak minket telefonon, hogy orvosolni tudjuk... Codecool csapata
+* ... Aki felvételt nyert a Codecoolhoz, annak kiküldtük már a köszöntő emailt.
+* Aki nem kapott még ilyet... vagy pedig hívjanak minket telefonon, hogy orvosolni tudjuk... Codecool csapata
+* CodecoolOfficial: [2020-10-16, 12:32](https://www.facebook.com/CodecoolOfficial/posts/2857440017820214)
 ___
 
 ###### 6) [2020-10-16, 12:10](https://www.facebook.com/groups/ujratervezesprogram/permalink/638956536986705/)
 * from: *
-* x
+* %push %időbeosztás
 ###### content
-* {Apdét 2020-10-16 | 17:34: a 2. sz. melléklet rendbejött, frissült, a felvetés hatására a 3 napot kitörölték, és a 128 óra megengedett hiányzás került bele.}...
+* {Apdét 2020-10-16 | 17:34: a 2. sz. melléklet rendbejött, frissült,
+* a felvetés hatására a 3 napot kitörölték, és a 128 óra megengedett hiányzás került bele.}...
 ___
 
 ###### 6) [2020-10-16, 11:57](https://www.facebook.com/groups/ujratervezesprogram/permalink/638949456987413/)
 * from: *
-* x
+* %pull %personal-project
 ###### content
-* ... Elakadtam egy egyszerű CSS-sel, de valami nagyon fura dolog történik... nem engedi a :first-child-ot a gépem,  jól is van beírva, a :last-child működik
+* ... Elakadtam egy egyszerű CSS-sel, de valami nagyon fura dolog történik...
+* nem engedi a :first-child-ot a gépem,  jól is van beírva, a :last-child működik...
 ___
 
 ###### 6) [2020-10-16, 11:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638925550323137/)
 * from: *
-* x
+* %push %training
 ###### content
 * Ha esetleg valaki most nem került be, ide még jelentkezhet, végzettség nem szempont
+* img
 ___
 
 ###### 6) [2020-10-16, 11:07](https://www.facebook.com/groups/ujratervezesprogram/permalink/638921750323517/)
 * from: *
-* x
+* %push %it-news
+* /2019. MÁJUS 2. 09:25/
 ###### content
 * Pont a 4 képzőnk nyilatkozott tavaly az elhelyezkedési esélyekről és a várható fizetésekről 4-18 hó oktatásuk után.
-* https://www.hwsw.hu/hirek/60262/bootcamp-fejlesztokepzes-munkaerohiany-junior-fejlesztoi-fizetesek.html
+* hwsw.hu: [Egyből felszívja a piac a kódolóiskolák végzőseit](https://www.hwsw.hu/hirek/60262/bootcamp-fejlesztokepzes-munkaerohiany-junior-fejlesztoi-fizetesek.html)
 ___
 
 ###### 6) [2020-10-16, 11:05](https://www.facebook.com/groups/ujratervezesprogram/permalink/638920660323626/)
 * from: *
-* x
+* %pull %contract
 ###### content
-* A képzés összesen 2.560.000 Ft, melynek a részarányát kell visszafizetnie a résztvevőnek... Kérdés, hogy a jelentkezéssel vállalok -e egyből kötelezettséget, vagy az cska a szerződés aláírással válik biztosság csak?
+* A képzés összesen 2.560.000 Ft, melynek a részarányát kell visszafizetnie a résztvevőnek...
+* Kérdés, hogy a jelentkezéssel vállalok -e egyből kötelezettséget, vagy az cska a szerződés aláírással válik biztosság csak?
 ___
 
 ###### 6) [2020-10-16, 10:51](https://www.facebook.com/groups/ujratervezesprogram/permalink/638913576991001/)
 * from: *
-* x
+* %pull %contract
 ###### content
 * Kedves felvételt nyert "diákok", Ti értitek, hogy ez a "35 óraszámban megvalósuló képzés" és 35.000 Ft összeg pontosan mi is volna...
 ___
 
 ###### 6) [2020-10-16, 10:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638898380325854/)
 * from: *
-* x
+* %pull %csoport
 ###### content
 * Kérdezném a tesztelő képzésre felvetteket, hogy szeretnétek-e saját Tesztelők (újratervezés) fb csoportot...
 ___
 
 ###### 6) [2020-10-16, 10:14](https://www.facebook.com/groups/ujratervezesprogram/permalink/638895520326140/)
 * from: *
-* x
+* %rant %contract
 ###### content
 * Nem vagyok jogász, de szerintem egy valamirevaló független bíróságon úgy elkaszálnák ezt a támogatási szerződést...
+* Senkit sem biztatok arra, hogy fogadja el a feltételeket...
 ___
 
 ###### 6) [2020-10-16, 10:06](https://www.facebook.com/groups/ujratervezesprogram/permalink/638891550326537/)
 * from: *
-* x
+* %push %rant %rangsor
 ###### content
 * ... az átlagát rosszul számolták ki. Nekem a 88%-os vizsgaeredményre és a 85%-os kompetenciatesztre 52% jött ki...
+*  Biztos nem csak velem... az azt mondta, hogy eléggé unja már, hogy napi 200szor mondja el ugyanazt...
 ___
 
 ###### 6) [2020-10-16, 10:01](https://www.facebook.com/groups/ujratervezesprogram/permalink/638889156993443/)
 * from: *
-* x
+* %removed
 ###### content
 * Codecoolhoz felvettek! Hol írnátok alá szívesebben a szerződést?
 ___
 
 ###### 6) [2020-10-16, 9:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/638886590327033/)
 * from: *
-* x
+* %ping %rangsor
 ###### content
-* Gratula akiket szintén felvettek!. Nagyon nehezen indult az egész, sok csalódás, probléma. De én úgy vagyok vele ha az 1000ből végül 100an el is tudnak helyezkedni akkor már megérte...
+* Gratula akiket szintén felvettek!. Nagyon nehezen indult az egész, sok csalódás, probléma.
+* De én úgy vagyok vele ha az 1000ből végül 100an el is tudnak helyezkedni akkor már megérte...
 ___
 
 ###### 6) [2020-10-16, 9:19](https://www.facebook.com/groups/ujratervezesprogram/permalink/638869250328767/)
 * from: *
-* x
+* %push %időbeosztás
 ###### content
-* Írtam a training360nak, hogy pontosan mikor lenne a képzés,mely online részeken kötelező reszt venni vagy lehet önalloan csinálni mindent... Kérdéseire a válaszok a GYIK fülön megtalálhatóak:
-* https://www.training360.com/strukturavalto/gyik
-* összesen 2.560.000 Ft, melynek a részarányát kell visszafizetnie... (A támogatott alapképzés összesen 640 óra, óránként 4000Ft/fő-s áron)... Minden online elérhető lesz... A 20% hiányzást (128 órát) egyúttal az online e-learning tartalom feldolgozásából és az online felvett alkalmak megtekintéséből számoljuk.
+* Írtam a training360nak... online... önalloan... Kérdéseire a válaszok a GYIK fülön megtalálhatóak:
+* training360.com: [strukturavalto gyik](https://www.training360.com/strukturavalto/gyik)
+* összesen 2.560.000 Ft, melynek a részarányát kell visszafizetnie... Minden online elérhető lesz...
+* A 20% hiányzást (128 órát)... e-learning... felvett alkalmak... számoljuk.
 ___
 
 ###### 6) [2020-10-16, 9:03](https://www.facebook.com/groups/ujratervezesprogram/permalink/638859870329705/)
 * from: *
-* x
+* %push %rangsor
 ###### content
-* Quick update.Aki még nem kapott második e-mail-t ne aggódjon.Most beszéltem a codecool-al és mondták hogy tegnap kiküldtek egy nagy adat emailt, meg ma is fognak,adategyeztetés onlnine,szerződés...
+* Quick update.Aki még nem kapott második e-mail-t ne aggódjon.
+* Most beszéltem a codecool-al és mondták hogy tegnap kiküldtek egy nagy adat emailt, meg ma is fognak,
+* adategyeztetés onlnine,szerződés aláírás (a codecoolnál) feltehetően jövőhéten,személyesen Budapesen lesz...
+* ha ma valamiért nem kapnék e-mailt, akkor du 4-5 óra között telefonáljak megint...
 ___
 
 ###### 6) [2020-10-16, 8:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638840196998339/)
 * from: *
-* x
+* %push %extra
 ###### content
-* A kovetkezo linket szandekosan nem link formaban teszem be... Sokan erdeklodtetek a html oldalak serulekenysege irant... Link:: $$Https:// xss-game. appspot.  Com$$
+* A kovetkezo linket szandekosan nem link formaban teszem be...
+* Sokan erdeklodtetek a html oldalak serulekenysege irant...
+* XSS az Cross Site Scripting feladatok vannak... Ui. : HA KELL SEGITEK A MEGOLDASBAN ES A MAGYARAZATBAN IS.
+* Link:: $$Https:// xss-game. appspot.  Com$$
 ___
 
 ###### 6) [2020-10-16, 8:25](https://www.facebook.com/groups/ujratervezesprogram/permalink/638840026998356/)
 * from: *
-* x
+* %push %rangsor
 ###### content
-* Code Cool email Akit felvettek, de nem kapott emailt tőlük (pl. én), az írjon rájuk, mert minden levél kiment tegnap, azt mondták. edit: másnak emailben azt írták, a hiányzó emaileket küldik még.
+* Code Cool email Akit felvettek, de nem kapott emailt tőlük (pl. én), az írjon rájuk, mert minden levél kiment tegnap, azt mondták.
+* edit: másnak emailben azt írták, a hiányzó emaileket küldik még.
 ___
 
 ###### 6) [2020-10-16, 8:15](https://www.facebook.com/groups/ujratervezesprogram/permalink/638835586998800/)
 * from: *
-* x
+* %push %contract
 ###### content
-* T360 most beszéltem velük Kerekes Renátával elméletileg jövőhét elején kedd magasságában lesz a beíratkozás. 9-18 ig.de küldenek mindenkinek mailt.
+* T360 most beszéltem velük Kerekes Renátával
+* elméletileg jövőhét elején kedd magasságában lesz a beíratkozás. 9-18 ig.de küldenek mindenkinek mailt.
 ___
 
 ###### 6) [2020-10-16, 6:56](https://www.facebook.com/groups/ujratervezesprogram/permalink/638795753669450/)
 * from: *
-* x
+* %push %contract
 ###### content
 * Aki fel szeretne mondani, az számoljon a felmondási idővel is! Itt egy részlet a progmasterses QA-ból.
 ___
 
 ###### 6) [2020-10-16, 6:31x](https://www.facebook.com/groups/ujratervezesprogram/permalink/638783973670628/)
 * from: *
-* x
-* /bookmark/
+* %pull %contract
 ###### content
-* Nem nagyon értek az EU pályázatokhoz, és most készülök a főnököm elé járulni ezzel a szép kis 13 oldalas paksamétával... későbbiekben nem pályázhatnak ilyen GINOP/VEKOP...
+* Nem nagyon értek az EU pályázatokhoz, és most készülök a főnököm elé járulni ezzel a szép kis 13 oldalas paksamétával...
+* későbbiekben nem pályázhatnak ilyen GINOP/VEKOP (vagy mi) pénzekre...
 ___
 
 ###### 6) [2020-10-16, 6:04](https://www.facebook.com/groups/ujratervezesprogram/permalink/638764560339236/)
