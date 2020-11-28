@@ -1460,80 +1460,92 @@ ___
 ###### 6) [2020-10-19, 8:50](https://www.facebook.com/groups/ujratervezesprogram/permalink/641263976755961/)
 * from: *
 * x
+* /bookmark/
 ###### content
 * Akinek a munkaltatoja kitoltotte mar a nyilatkozatot az legyen kedves írjon mar nekem egy pm-et!
 ___
 
-###### 6) [2020-10-19, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/641231223425903/)
+##### 5) [2020-10-19, 7:41](https://www.facebook.com/groups/ujratervezesprogram/permalink/641231223425903/)
 * from: *
-* x
+* funz
 ###### content
-* https://www.youtube.com/watch?v=pKO9UjSeLew
+* youtube: [If Programming Was An Anime](https://www.youtube.com/watch?v=pKO9UjSeLew)
 ___
 
-###### 6) [2020-10-18, 22:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/640945943454431/)
+##### 5) [2020-10-18, 22:37](https://www.facebook.com/groups/ujratervezesprogram/permalink/640945943454431/)
 * from: *
-* x
+* funz
 ###### content
 * img
 ___
 
 ###### 6) [2020-10-18, 21:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/640900390125653/)
 * from: *
-* x
+* %push %csoport %extra
 ###### content
-* ... A kérdés az, hogy hányan érdeklődnek komolyabban a téma iránt, de nem kerültek be sehova? Nem Messenger/Facebook platform kéne neki szerintem, hanem valami normálisabb. Szóval ötletelésre fel! Csináljunk valami értelmeset és hasznosat, ingyenből...
+* ... A kérdés az, hogy hányan érdeklődnek komolyabban a téma iránt, de nem kerültek be sehova?
+* Nem Messenger/Facebook platform kéne neki szerintem, hanem valami normálisabb.
+* Szóval ötletelésre fel! Csináljunk valami értelmeset és hasznosat, ingyenből...
+* blog.hubspot.com: [The Best Forum Software for Creating an Online Community in 2020](https://blog.hubspot.com/marketing/best-forum-software)
 ___
 
 ###### 6) [2020-10-18, 20:54](https://www.facebook.com/groups/ujratervezesprogram/permalink/640863576796001/)
 * from: *
-* x
+* %push %homework
 ###### content
 * HÁZIFELADAT Onepage kérdőív készítése...
 ___
 
 ###### 6) [2020-10-18, 20:00](https://www.facebook.com/groups/ujratervezesprogram/permalink/640824383466587/)
 * from: *
-* x
+* %push %homework
 ###### content
 * HÁZIFELADAT Némó nyomában. Készítsünk funkciót, ami a bevitt mondatban megmondja, hogy hányadik szó a Némó...
 ___
 
 ###### 6) [2020-10-18, 19:24](https://www.facebook.com/groups/ujratervezesprogram/permalink/640796750136017/)
 * from: *
-* x
+* %push %homework
 ###### content
 * HÁZIFELADAT Írj egy funkciót, ami objektumokat alakít tömbbé!...
 ___
 
 ###### 6) [2020-10-18, 18:46](https://www.facebook.com/groups/ujratervezesprogram/permalink/640775813471444/)
 * from: *
-* x
+* %pull %project
 ###### content
-* sziasztok! milyen felületet tudtok ajánlani, ahova a felhasznált képeket fel lehet könnyen tölteni, amíg még nincs saját szerver? egy videón láttam, hogy github-ra töltötték fel, de nem jöttem rá, hogy lehet. köszi!
+* sziasztok! milyen felületet tudtok ajánlani, ahova a felhasznált képeket fel lehet könnyen tölteni, amíg még nincs saját szerver?
+* egy videón láttam, hogy github-ra töltötték fel, de nem jöttem rá, hogy lehet. köszi!
 ___
 
 ###### 6) [2020-10-18, 17:26](https://www.facebook.com/groups/ujratervezesprogram/permalink/640725740143118/)
 * from: Adminisztrátor | [RE: Október 6., 17:38](https://www.facebook.com/groups/ujratervezesprogram/permalink/631648247717534/)
-* x
+* %push %csoport
 ###### content
 * Van pár hely még mindig
-* Aki szeretne jönni Facebook Messenger csoportba az írjon privárot. Úgy is mindig akartatok egy zárt kommunikációs csatornát.
+* Aki szeretne jönni Facebook Messenger csoportba az írjon privárot.
+* Úgy is mindig akartatok egy zárt kommunikációs csatornát.
 ___
 
 ###### 6) [2020-10-18, 13:49](https://www.facebook.com/groups/ujratervezesprogram/permalink/640587786823580/)
 * from: *
-* x
+* %push %csoport
+* #JavaScript
 ###### content
-* JavaScript Hungary - #JavaScript programnyelvvel foglalkozó csoport. Jöhetnek hírek, Tutorialok, Feladatok, Kérdések, bármi ami JavaScript
+* JavaScript Hungary - #JavaScript programnyelvvel foglalkozó csoport.
+* Jöhetnek hírek, Tutorialok, Feladatok, Kérdések, bármi ami JavaScript
+* facebook - groups: [JavaScript Hungary](https://www.facebook.com/groups/javascripthun/)
 ___
 
 ###### 6) [2020-10-18, 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583866823972/)
 * from: *
-* x
-* /bookmark/
+* %push %extra
+* /2020. OKTÓBER 21., SZERDA, 17:59 UTC+02–19:30 UTC+02/
+* #Javascript #Node #MongoDB #redis #live
 ###### content
-* Live Coding : Node.js & Adatbáziskezelés #Javascript #Node.js #MongoDB #redis #live
+* Live Coding : Node.js & Adatbáziskezelés
+* #Javascript #Node.js #MongoDB #redis #live
+* facebook - events: [LIVE: twitch.tv/risingstack](https://www.facebook.com/events/709350346600459/)
 ___
 
 ###### 6) [2020-10-18, 13:43](https://www.facebook.com/groups/ujratervezesprogram/permalink/640583830157309/)
